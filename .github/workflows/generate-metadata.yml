@@ -33,5 +33,5 @@ jobs:
           git config user.name "sxoxgxi"
           git config user.email "sxoxgxi@duck.com"
           git add metadata.json
-          git commit -m "chore: update metadata.json with latest wallpaper metadata" || echo "No changes to commit"
+          git commit -am "chore: update metadata.json with latest wallpaper metadata" || echo "No changes to commit"
           git push
