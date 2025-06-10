@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,4 +36,4 @@ jobs:
           git config user.email "sxoxgxi@duck.com"
           git add metadata.json
           git commit -am "chore: update metadata.json with latest wallpaper metadata" || echo "No changes to commit"
-          git push https://${{ secrets.GH_PAT }}@github.com/sxoxgxi/walls.git master
+          git push origin master
