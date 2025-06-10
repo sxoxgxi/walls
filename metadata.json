@@ -1,0 +1,2539 @@
+{
+  "/home/runner/work/walls/walls/sources/black-hole.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/black-hole.png",
+    "name": "black-hole.png",
+    "file_size": 2384279,
+    "file_size_mb": 2.27,
+    "created_date": "2025-06-10T13:53:02.471296",
+    "modified_date": "2025-06-10T13:53:02.471296",
+    "file_extension": ".png",
+    "file_hash": "0fb840994cb2427047c3c468dbe6925f",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          16,
+          5,
+          23
+        ],
+        "hex": "#100517",
+        "name": "black",
+        "percentage": 2.8
+      },
+      {
+        "rgb": [
+          33,
+          9,
+          44
+        ],
+        "hex": "#21092c",
+        "name": "black",
+        "percentage": 2.38
+      },
+      {
+        "rgb": [
+          31,
+          8,
+          41
+        ],
+        "hex": "#1f0829",
+        "name": "black",
+        "percentage": 2.25
+      },
+      {
+        "rgb": [
+          30,
+          7,
+          40
+        ],
+        "hex": "#1e0728",
+        "name": "black",
+        "percentage": 1.99
+      },
+      {
+        "rgb": [
+          18,
+          4,
+          26
+        ],
+        "hex": "#12041a",
+        "name": "black",
+        "percentage": 1.48
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        16,
+        5,
+        23
+      ],
+      "hex": "#100517",
+      "name": "black",
+      "percentage": 2.8
+    },
+    "color_palette": [
+      "#100517",
+      "#21092c",
+      "#1f0829",
+      "#1e0728",
+      "#12041a"
+    ],
+    "description": "3840x2160 PNG wallpaper widescreen primarily black (2.27 MB)",
+    "last_scanned": "2025-06-10T13:53:04.662556",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/Cyberpunk Rider in Neon City.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/Cyberpunk Rider in Neon City.png",
+    "name": "Cyberpunk Rider in Neon City.png",
+    "file_size": 7961790,
+    "file_size_mb": 7.59,
+    "created_date": "2025-06-10T13:53:02.443295",
+    "modified_date": "2025-06-10T13:53:02.443295",
+    "file_extension": ".png",
+    "file_hash": "c6c25de9a807d257f52047c9ef28b692",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff",
+        "name": "white",
+        "percentage": 0.87
+      },
+      {
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "hex": "#fefefe",
+        "name": "white",
+        "percentage": 0.74
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000",
+        "name": "black",
+        "percentage": 0.65
+      },
+      {
+        "rgb": [
+          254,
+          255,
+          255
+        ],
+        "hex": "#feffff",
+        "name": "white",
+        "percentage": 0.62
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          1
+        ],
+        "hex": "#000001",
+        "name": "black",
+        "percentage": 0.13
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "hex": "#ffffff",
+      "name": "white",
+      "percentage": 0.87
+    },
+    "color_palette": [
+      "#ffffff",
+      "#fefefe",
+      "#000000",
+      "#feffff",
+      "#000001"
+    ],
+    "image_info": {
+      "srgb": "0",
+      "gamma": "0.45455"
+    },
+    "description": "3840x2160 PNG wallpaper widescreen primarily white (7.59 MB)",
+    "last_scanned": "2025-06-10T13:53:04.819085",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/cyberpunk_110624A.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/cyberpunk_110624A.jpg",
+    "name": "cyberpunk_110624A.jpg",
+    "file_size": 7006319,
+    "file_size_mb": 6.68,
+    "created_date": "2025-06-10T13:53:02.519296",
+    "modified_date": "2025-06-10T13:53:02.519296",
+    "file_extension": ".jpg",
+    "file_hash": "bb32d40fda135ddbb4e20f008bdcbd18",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          4,
+          5,
+          5
+        ],
+        "hex": "#040505",
+        "name": "black",
+        "percentage": 0.15
+      },
+      {
+        "rgb": [
+          3,
+          5,
+          4
+        ],
+        "hex": "#030504",
+        "name": "black",
+        "percentage": 0.13
+      },
+      {
+        "rgb": [
+          4,
+          5,
+          4
+        ],
+        "hex": "#040504",
+        "name": "black",
+        "percentage": 0.1
+      },
+      {
+        "rgb": [
+          5,
+          5,
+          5
+        ],
+        "hex": "#050505",
+        "name": "black",
+        "percentage": 0.1
+      },
+      {
+        "rgb": [
+          5,
+          6,
+          6
+        ],
+        "hex": "#050606",
+        "name": "black",
+        "percentage": 0.09
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        4,
+        5,
+        5
+      ],
+      "hex": "#040505",
+      "name": "black",
+      "percentage": 0.15
+    },
+    "color_palette": [
+      "#040505",
+      "#030504",
+      "#040504",
+      "#050505",
+      "#050606"
+    ],
+    "exif": {
+      "Software": "Adobe Photoshop 25.7 (Windows)",
+      "Orientation": "1",
+      "DateTime": "2024:06:11 11:19:17",
+      "ResolutionUnit": "2",
+      "ExifOffset": "168",
+      "XResolution": "300.0",
+      "YResolution": "300.0",
+      "ColorSpace": "65535",
+      "ExifImageWidth": "3840",
+      "ExifImageHeight": "2160"
+    },
+    "image_info": {
+      "exif": "b'Exif\\x00\\x00MM\\x00*\\x00\\x00\\x00\\x08\\x00\\x07\\x01\\x12\\x00\\x03\\x00\\x00\\x00\\x01\\x00\\x01\\x00\\x00\\x01\\x1a\\x00\\x05\\x00\\x00\\x00\\x01\\x00\\x00\\x00b\\x01\\x1b\\x00\\x05\\x00\\x00\\x00\\x01\\x00\\x00\\x00j\\x01(\\x00\\x03\\x00\\x00\\x00\\x01\\x00\\x02\\x00\\x00\\x011\\x00\\x02\\x00\\x00\\x00\\x1f\\x00\\x00\\x00r\\x012\\x00\\x02\\x00\\x00\\x00\\x14\\x00\\x00\\x00\\x91\\x87i\\x00\\x04\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\xa8\\x00\\x00\\x00\\xd4\\x00-\\xc6\\xc0\\x00\\x00\\'\\x10\\x00-\\xc6\\xc0\\x00\\x00\\'\\x10Adobe Photoshop 25.7 (Windows)\\x002024:06:11 11:19:17\\x00\\x00\\x00\\x00\\x00\\x03\\xa0\\x01\\x00\\x03\\x00\\x00\\x00\\x01\\xff\\xff\\x00\\x00\\xa0\\x02\\x00\\x04\\x00\\x00\\x00\\x01\\x00\\x00\\x0f\\x00\\xa0\\x03\\x00\\x04\\x00\\x00\\x00\\x01\\x00\\x00\\x08p\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x01\\x03\\x00\\x03\\x00\\x00\\x00\\x01\\x00\\x06\\x00\\x00\\x01\\x1a\\x00\\x05\\x00\\x00\\x00\\x01\\x00\\x00\\x01\"\\x01\\x1b\\x00\\x05\\x00\\x00\\x00\\x01\\x00\\x00\\x01*\\x01(\\x00\\x03\\x00\\x00\\x00\\x01\\x00\\x02\\x00\\x00\\x02\\x01\\x00\\x04\\x00\\x00\\x00\\x01\\x00\\x00\\x012\\x02\\x02\\x00\\x04\\x00\\x00\\x00\\x01\\x00\\x00\\x18\\xbd\\x00\\x00\\x00\\x00\\x00\\x00\\x00H\\x00\\x00\\x00\\x01\\x00\\x00\\x00H\\x00\\x00\\x00\\x01\\xff\\xd8\\xff\\xed\\x00\\x0cAdobe_CM\\x00\\x02\\xff\\xee\\x00\\x0eAdobe\\x00d\\x80\\x00\\x00\\x00\\x01\\xff\\xdb\\x00\\x84\\x00\\x0c\\x08\\x08\\x08\\t\\x08\\x0c\\t\\t\\x0c\\x11\\x0b\\n\\x0b\\x11\\x15\\x0f\\x0c\\x0c\\x0f\\x15\\x18\\x13\\x13\\x15\\x13\\x13\\x18\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x01\\r\\x0b\\x0b\\r\\x0e\\r\\x10\\x0e\\x0e\\x10\\x14\\x0e\\x0e\\x0e\\x14\\x14\\x0e\\x0e\\x0e\\x0e\\x14\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x11\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\xff\\xc0\\x00\\x11\\x08\\x00Z\\x00\\xa0\\x03\\x01\"\\x00\\x02\\x11\\x01\\x03\\x11\\x01\\xff\\xdd\\x00\\x04\\x00\\n\\xff\\xc4\\x01?\\x00\\x00\\x01\\x05\\x01\\x01\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x01\\x02\\x04\\x05\\x06\\x07\\x08\\t\\n\\x0b\\x01\\x00\\x01\\x05\\x01\\x01\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x02\\x03\\x04\\x05\\x06\\x07\\x08\\t\\n\\x0b\\x10\\x00\\x01\\x04\\x01\\x03\\x02\\x04\\x02\\x05\\x07\\x06\\x08\\x05\\x03\\x0c3\\x01\\x00\\x02\\x11\\x03\\x04!\\x121\\x05AQa\\x13\"q\\x812\\x06\\x14\\x91\\xa1\\xb1B#$\\x15R\\xc1b34r\\x82\\xd1C\\x07%\\x92S\\xf0\\xe1\\xf1cs5\\x16\\xa2\\xb2\\x83&D\\x93TdE\\xc2\\xa3t6\\x17\\xd2U\\xe2e\\xf2\\xb3\\x84\\xc3\\xd3u\\xe3\\xf3F\\'\\x94\\xa4\\x85\\xb4\\x95\\xc4\\xd4\\xe4\\xf4\\xa5\\xb5\\xc5\\xd5\\xe5\\xf5Vfv\\x86\\x96\\xa6\\xb6\\xc6\\xd6\\xe6\\xf67GWgw\\x87\\x97\\xa7\\xb7\\xc7\\xd7\\xe7\\xf7\\x11\\x00\\x02\\x02\\x01\\x02\\x04\\x04\\x03\\x04\\x05\\x06\\x07\\x07\\x06\\x055\\x01\\x00\\x02\\x11\\x03!1\\x12\\x04AQaq\"\\x13\\x052\\x81\\x91\\x14\\xa1\\xb1B#\\xc1R\\xd1\\xf03$b\\xe1r\\x82\\x92CS\\x15cs4\\xf1%\\x06\\x16\\xa2\\xb2\\x83\\x07&5\\xc2\\xd2D\\x93T\\xa3\\x17dEU6te\\xe2\\xf2\\xb3\\x84\\xc3\\xd3u\\xe3\\xf3F\\x94\\xa4\\x85\\xb4\\x95\\xc4\\xd4\\xe4\\xf4\\xa5\\xb5\\xc5\\xd5\\xe5\\xf5Vfv\\x86\\x96\\xa6\\xb6\\xc6\\xd6\\xe6\\xf6\\'7GWgw\\x87\\x97\\xa7\\xb7\\xc7\\xff\\xda\\x00\\x0c\\x03\\x01\\x00\\x02\\x11\\x03\\x11\\x00?\\x00\\xf3s\\xbb\\xd3\\xa5\\xa0k.\\xf6\\xc4\\xf7\\xd1;\\x98K+p\\xf6\\x92\\xe7I\\x13!\\xd2?\\xb9h\\xdf\\x8fn9k_\\xa7\\xe8\\xcb\\x8b^\\x1aN\\xaeg\\xb3\\xda\\xe7~bUc\\x1fQ\\xac\\xb1\\x96\\x86V\\xe2\\xca\\xe1\\xbe\\x99\\xd4\\xee\\xdb\\xbd\\xd3\\xfaF\\xff\\x00\\xd0O\\x00\\x91\\xfe\\x11\\x1f\\x8b<\\xe2\\x04\\xccI\\x1f\\xcd\\xc3\\x7f\\xeec\\x9f\\xa7\\xfc\\x14\\x14YMw\\xd3n@\\xde\\xd6\\xd6w\\x07\\x12A;\\xa3\\xdc[\\xeeo\\xd2\\xfc\\xd4K\\xf2r\\xd9\\x8fEN\\xbc\\xb2\\xb6\\x8d\\xcc\\xae\\xafi\\x04\\xc5\\xae\\xf5\\x08\\xf4\\xfdO\\xe7w\\x7f\\x85M\\xd5\\xeb\\xa2\\x8b\\xed\\xc6\\xad\\xde\\xa5-t\\xd7`sm1\\'q71\\x94W\\x7f\\xfceu\\xd4\\xaa\\x1c\\x9b,\\xa9\\xe3p\\x80 \\x08n\\x92\\x7f5\\xdbw&\\x9cf\\xc7\\xd4\\xd1_\\x1ej\\x023\\x12\\x1e\\xa2#R\\x8f\\xef\\x9d\\'\\xc5(\\xcb\\xf4~V\\r\\x91\\x90v\\x93\\x04\\x17\\t:\\xfe\\xf7\\xd2\\x9f\\xddZ\\x0f\\xbf\\xed\\x19n\\xc8\\xb1\\xdb\\xfe\\x8b*\\x1d\\xa4\\xd7n\\xca\\xdb*\\x9d.3\\x05\\xc4~\\x8d\\xd0\\xe05\\x9f\\x7f\\xfd\\x179\\xca\\xe5\\xd9\\xb6\\xb6\\xafLXC\\x1bc71\\x80\\x80!\\x8e\\xf1;^\\xe5\\x1eXw\\xbb\\xaa\\x1f\\xe1\\x1dY\\xf9<\\xbc4@\\x8f\\x01\\xc9\\xee\\x1e-\\xff\\x00W\\tp\\x7f\\xe9YzZ6\\xee\\xb7\\x1a\\xa7\\xb88\\x92^K\\xe7q$G\\xd2\\xd1&8T\\xf1t\\x17z[H\\x99\\x1cm\\xd1\\x1be\\x87\\x01\\xaec\\x1c\\xd8{\\x83y\\xe2[\\xbd\\xdc\\xff\\x00\\x9c\\xa8\\xed\\xb1\\xd6m\\xd5\\xce?\\x12Q\\x84\\xac\\x1f\\x02Xy\\x88\\x98O\\x19\\x1a\\x99c\\xc7_\\xde\\xe0\\x8coo\\xde\\x8bs\\'0\\xdf\\xb6\\xd0\\xc6\\xb4\\xed\\x83\\xac\\x93\\x1b\\x9d\\xbf_\\xdd@\\xb2\\xe7\\xd8\\x18\\xdd\\xdb\\x83\\x1b\\xcc\\x00D\\xfen\\x9fO\\xe8\\xfd$LzY{+cI\\x9dw\\xb8\\x81\\x01\\xb1\\xee;\\xb7\\x7f\\xe8\\xb5/\\xb1<T\\x1e\\xd6\\xea\\xf0K\\t\\x1e\\xe2\\x07\\xe9\\x1c\\xf6\\xb7\\xfa\\xa1M\\x8f\\x1c\\xea\\xe2=;i\\xfd^\\x8dL\\xd9\\xa3)\\x1e#s\\x91\\xe3\\xd7\\xf7\\xa7\\xea\\x94\\xbf\\xe94\\x9a]#\\x93\\x1a\\xa3\\xe3d\\x1a\\xadys\\xb6\\x87\\xb5\\xcd\\'\\x9d\\x0f\\xe6\\xa8\\x10\\xed,h;[\\xe0#\\xbf\\xe7\\xfe\\xf2\\x11\\xe4\\xf9\\xea>i\\x84iI\\x84\\x8cd$+B\\x0e\\xae\\x8fH\\xbd\\xf5\\xe5\\xba\\xca\\xdcX\\xe8i\\x05\\xba\\x11\\x16W\\xf4Ts\\x1c\\xe7_f\\xef\\xa4\\xd7\\x92I\"O\\xa8wK\\xa7\\xe9*\\xd8\\x97\\x1a\\x9e\\xe7\\x8dHn\\x82\\'\\x875\\xde_\\xba\\xacd\\xba2\\x9c}\\xa45\\xcd.|\\x03\\x1fD&\\x0e!\"{\\x8f\\xc9\\xb7\\xc5\\tr\\xb1\\x89\\xde3\\xf5i\\xd2q\\x9d(\\x195\\x1f\\x08lD\\x83\\xa2\\xbbu,4\\xe4\\xdb>\\x9b\\x9a(h\\xa8\\xc1%\\xafc\\xcd\\xb63\\xf9\\x15:\\xb6{\\xff\\x00\\x96\\xa8\\x16\\xb5\\xb4\\x0b9\\x87\\x00\\xe6\\x93\\x07q\\x1b\\xbd\\xbbg\\xda\\xd8S9f\\xdfX~c\\xdb\\xa4\\x8e\\xe0\\xb7a\\xfeO\\xb7\\xd9\\xfd\\x84\\xa7\\x02LH\\xe9_\\x9cd\\x9cY\\xe3\\x08N\\x12\\xbfU\\x98\\xd7\\xf72C\\xfe\\x97\\x02\\xaa{M.\\xac\\x86\\xcbF\\xf0b4\\x8fx\\xfeW\\xf9\\x89]`nF=\\x91\\xa0\\xdaN\\x9e\\x1b]\\xfej|z\\xbfH\\xdd\\xe7d\\xb1\\xf2\\xe7L\\x18k\\xbd\\xa3\\xf7\\x9c\\xa3\\x98\\xc7\\xd4j\\xd2e\\x81\\xfaj#k\\x1d\\xff\\x00G\\xf3\\xd1\\xab\\x90\\xd7B/\\x7f\\xf0Sr\\x8e\\x12j\\x8ce\\x11\\xb7\\xee\\xfe\\xb27\\xfe2\\xb7\\x13$\\xfbX\\xf2v\\x12N\\xa4\\xe8\\xf7\\xb5\\xbf\\xbb\\xf9\\x8bK\\xaa\\xe1\\xd9F&3\\\\\\xdd\\x96\\xb5\\xdb,3\\x00\\xb9\\xaeu\\x9f\\xf4Yc\\x163-p\\x10\\t\\xe5\\xa4\\xfc\\x8e\\x9f\\xf5J\\xfe[\\x83\\xac\\xf6\\xcb\\xda\\xf7\\x82\\\\]2G\\xef~\\xf7\\xee\\xa7\\xce7\\x10x\\xb6\\x96\\xdel|\\xbeP=\\xc8\\xf0_\\x16=\\xef\\xe5\\xf5\\x7f\\xce\\xf5\\xca\\x0f\\xff\\xd0\\xe4:\\x9d\\xaf\\xb0\\xd3I\\x06\\xd7\\r\\xec\\xa8\\x86\\x80\\x04;c\\x041\\xac\\xdd\\xff\\x00\\\\\\xff\\x00\\xae*T\\xd8\\xd6\\xd1]\\x9b\\xf6\\x97\\xbd\\xd2@\\x82I:\\xb3\\xda\\x7f}\\xbe\\xc7\\xa3f\\xe4\\x879\\x82\\x0b\\x1e\\\\\\xf1\\x10A\\x8d\\xc3\\x9f\\xce\\xfa>\\xd7\\xfe\\xfa\\xa9\\xb4\\x9cz\\xaai\\x82\\xd7\\xf7\\x8f\\x1f\\xe4\\xca\\x9e6%\\xa8\\xdaR\\xa8\\x9f\\x139E\\x97!\\x84\\x85\\xc6[\\xe2\\xc6\\x0c\\xa3\\xfdX\\xe1\\x84\\xff\\x00\\xf4&N\\xb5\\x96\\xd8\\xe6[&\\x1c\\xd8\\xdc@\\x1d\\xf7{\\xff\\x005\\xbf\\x9f\\xff\\x00\\x81\\xaa\\xce\\xde\\xe1-\\x01\\xcdk\\xb4\\xd8 I\\xf8\\x7fYI\\x8eqc\\xbd==\\xc0\\x17\\x89\\x04\\xee\\x9f\\xa5\\xfer-\\x05\\xd5P\\xe7\\xbbps\\x8bK]1\\xa1\\x07o\\xb7\\xe9\\xb98\\x9e)jj\\xec\\xdf\\xd7\\xfes\\\\F\\xa1`Y\\x8f\\xec\\x1f7\\xf5T\\xe8e\\x954\\xc8\\xf69\\xb6\\x1278j\\xfd\\xc4O\\xd2\\xdb\\xfb\\xaa\\x17d\\xee\\xa8\\xbbh\\x1b\\xac\\xdc\\xd6\\xf7\\x81;\\xddd~{\\xf7\\x7f\\xaf\\xe8\\xd5\\xb7o\\xb2\\xb6R\\xd6\\xee{\\xeb.s\\xf6\\x81\\xfe\\x90{Z\\xcfw\\xe7*M\\xc76\\xb4\\x81\\ree\\xc0\\xda\\xe9\\x05\\xc7G5\\x8d\\xaf\\xf7\\xd0\\xcb\\x8c\\xca`Dq].\\xc5\\x93\\x83\\x19\\xe2\\x97\\x0f\\xcc(\\xde\\xbc\\\\\\x1f\\xf3\\xbf\\xbe\\x99\\x9dD\\xfd\\x81\\xb8\\xdb\\x9a\\xdfM\\xc4\\x89h$\\xee\\xfeTnv\\xd6\\xb3\\xdb_\\xf6\\xd5ZY\\xea_:\\x96\\x8f\\xa6G Dh}\\xc9\\xad\\xa9\\xf4\\x88$\\x89\\x12[\\xc2\\xb3\\xd3\\x8du\\x9a\\xdfhk\\xaa\\xdf\\xba\\xc6\\x19\\x92\\xd6\\x96nk\\xb6\\xce\\xd6\\xbe\\xb7\\xbd\\x8a\\x11\\x01\\x13Dnx\\xa5\\xf5g\\xe3\\x9eYF\\xc8\\x07\\x1cxA\\xaa\\xae\\x03\\xfa_\\xf7N\\x8e\\x17O\\xce\\xca\\xad\\xee\\xaa\\xa6V\\xcbHy\\xde\\x0e\\xe3X\\xfa-\\xda?\\xc0\\x7f\\xc2\\x7f\\x85G\\xae\\x9b\\x19\\x92>\\xdfX-\\x877\\xd5\\xafM\\xa0\\x026m\\xb5\\xcd\\xdb\\xfer\\xd8\\xeaT\\xd5\\x9bW\\xdap\\x9a\\xcc,{Z\\xdd\\x98\\xed\\xb4X\\xe1$0\\xfa\\x92\\xefY\\xcd\\x7f\\xf9\\xff\\x00\\xf6\\xdd\\x8b*\\xabZ\\xcc{q\\xdf`u;\\xc3\\xac\\xb2@cZ\\xdf\\xf0\"\\xc3\\xbd\\xae\\xfd&\\xc6\\xeeo\\xfcW\\xe7\\xa1\\x83\\x99\\xc99\\x08Dnh\\xc4\\x8f\\x90\\x7f\\x7f\\xfe\\xf9\\xbf\\xcc\\xfc;\\x94\\xc3\\x8c\\xe6\\x9cH\\x00\\t\\xfb\\xe3$x\\xa7?O\\xb9\\x8eXa\\xc7\\xfd\\xcf\\xe8\\xff\\x00\\xf8\\xea,\\x9a\\\\\\x1e*\\xa3\\x1c\\x078o&\\xed\\xa4A\\xfa\\x1b\\xfd9{\\xfd\\xae\\xf6z\\x8a\\x95\\xdd\\x07(Vnhk\\x9aL\\xb9\\xcc>\\xc0\\x0f\\xe6\\xfe\\xea\\xd7\\xa2\\xcc[3\\x1b\\xbd\\xfe\\x95/p\\xa6\\xd7la\\xf4\\xdd[v9\\x9b=\\x8c\\xf73\\xf7\\xdd\\xfc\\xef\\xf3\\xb6-<K]\\xd3\\xdfm\\x94\\xdeY\\x8ce\\xa7\\x96\\x8b+\\x0e\\xd9\\x0e\\xa5\\xe6\\xd6{Z\\xfd\\xfb-\\xf5U|\\xfc\\xceH\\xca\\x8cA\\xa2#Tc\\x7f\\xbd\\xfb\\xcd\\xec\\x7f\\x0c\\xe4\\xf2\\xe2&$\\x92A\\xc9\\x13\\xc7\\xe9\\x8f\\x17\\xa7\\x1f\\xe8|\\xb2\\xc7\\xeb\\xfdg\\xad\\xe1+c\\xa8\\xb2\\x9b,\\x1f\\xa3{\\x83\\x9a|\\x81\\x87{T\\xaf\\xb6\\xb7\\xd9y\\x127\\x16\\xec\\x9e`\\x16\\xfc\\x7f5\\\\\\xea\\xeffFK\\xae\\xac\\x861\\xce\\xf5\\x18\\x06\\x93\\xb9\\xe4;\\xd3l7g\\xfc#Ve\\xdfM\\xc4pO\\xc3\\x83\\n\\xc1\\xab\\x04\\x02,\\r\\x0fN/S\\x871,bx\\x89\\x8c\\xb8g/T\\x7fK\\x87\\x8f\\x17\\x14\\x7f\\xaa\\xd9\\xb0\\x8f\\xb2\\xc8\\xe3\\xd5\\x10c\\xc1\\x9f\\xf9\\x92\\x1d6>\\xb0K\\x0e\\xde$\\x98\\xf1\\x9e\\xe1@\\xbe\\xcb[\\xaf\\r\\xe0\\x03\\xa0\\x81\\xd9\\x16\\xa1\\xed\\x80A\\x81.\\xd7\\x80%\\x18\\xde\\xfbi\\xfb\\x18\\xa5F@\\r\\x7f\\xf4f\\xf7\\xdaM\\xaex\\x00\\xda\\xd63s\\x1f\\xc6\\xd2N\\xd7\\x7fa\\xdb\\xd02\\x03\\x9c\\xcd\\xae\\x05\\xae\\xad\\x90A\\x8e\\x0f\\xb9\\x85\\xb0\\x7ft\\xb5\\x08\\x17\\xb2t\\x88h\\xdd\\'\\xc4\\x8e\\xc1E\\xf9WX\\xd6\\x87\\x9dA m\\xd3\\x80?\\xceH\\x01ToB)\\x9ay\\x8e\\xa7\\xf7\\xc4\\x89\\x1bDJ\\\\)*\\xa5\\x96c\\x02[.q\\r\\x0e\\xe4\\xfe\\xee\\x9f\\xd5r\\xbd\\xd4\\xa8u\\x175\\xa0\\xef\\rsC_\\x1bC\\x88\\r\\xde\\x7f\\xcfj\\xafUu\\x1c\\'\\xb0\\xb8\\xfd\\xa2\\xbb$9\\xae\\x0eg\\xa5\\xa7\\xd0h\\xff\\x00\\x84\\x7f\\xd2\\xfemZ\\xcd&q\\xc3\\xf5\\xdf\\xa4N\\x83s\\xbe\\x9f\\t\\xd2\\x94\\x0cH\\xda\\xa8\\xdf\\xd3\\xff\\x00BV\\x0cY\\x01\\xe2\\xa0n&\\x15\\xa5\\xeb\\x93]\\x7f{\\xf5o\\xff\\xd1\\xe0s\\xaa\\xb1\\xd97\\x16\\x07\\xd8\\x0b\\xcb\\x8b\\xb9s\\xa4\\xb9\\xde\\xa3\\xfd=\\xcc\\xf7}?k\\xf6\\'\\xae\\xa2\\xd60\\x13\\xb5\\xc0\\xcbL\\x03\\xc1sws\\xff\\x00MY\\x0f/\\xb3\\xf4\\x15\\xfb\\xacm\\x90\\xc9 F\\x9f\\xa3o\\xef\\xff\\x009\\xb7\\xd4T\\xe9\\xaa\\xc7\\x83Yy\\x05\\xdbY\\xb4\\xeb.\\'\\xf4\\xaew\\xee\\xfa\\x7f\\x9f\\xb5Z\\x81\\x11\\x91\\xe2\\xf5p\\xd6\\xa3m\\x7f\\x97\\xef+,x\\xa3\\x13\\x8f\\xd3\\xee\\xf1\\n\\x96\\xfc1\\xe1\\xbf\\xfd\\x0f\\xd0\\xc6\\xb67\\xf4\\x9bgq\\'\\xd3\\x02\\x0e\\xe6\\x80\\x1b\\xb5\\xdf\\xbb\\xfb\\xccr\\xb7\\x8e\\xd0&[\\xbe\\xd6m\\x87\\t\\x90@\\xda\\xdd\\xad\\xff\\x00\\xbf\\xb5\\x05\\xf6?-\\xbb\\xc5{\\x1b\\x02\\x00\\x1a{[\\xb3\\xf9\\xcf\\xa7g\\xb4~r=%\\xac-\\xa6\\xd0w\\xbc\\x86i\\x13\\xef\\x1fH\\xbbsT\\xb8\\x8chN@F1\\x1cF\\xff\\x00G\\xff\\x00B`\\xc9\\x8eFG\\x1e2g)\\x9e\\x08W\\xa7\\x8c|\\xbf\\xe2:\\x16\\xe2\\xe2\\x8a-\"\\xe3m\\xe00\\xfa\\x0e-26=\\xbb\\xaa\\xc9c\\x9f\\xeao\\xdd\\xed\\xf6W\\xe8,\\xfa&\\xdb\\x80\\xf4\\xc5t\\xd6N\\xc6\\x06\\xcf\\xbbS\\xbbDSxv\\xd3c=\\xd5\\xd3\\xe9\\xb0\\xd6v\\x80\\xd0\\x1a\\x1c\\xed\\x87~\\xdb\\x1e\\xdf\\xcf\\xfc\\xff\\x00\\xd2\"\\xd3\\xfa9&\\xafH\\x18\\x1b\\x06\\xb1\\x1b\\xb5O\\xc3\\x19nM\\x91\\xf3\\x7f\\xd2\\xfd\\xdf\\xfb\\xb4s\\x12\\xc7\\xa0\\x88\\x02:\\xca#oMB\\x1dg\\xff\\x00p\\xe7f\\xe1\\xb9\\xcd6W\\xef\\x88\\x05\\xba\\x97\\x1d?7w\\xb9T\\xc7\\xb3\\xd3\\xb0T\\xfd\\x00x\\xdd\\xf0\\xfc\\xe5\\xaf\\x98H\\xc7\\x0c\\x7f\\xb3\\xdc\\xe0\\xfa\\xe0\\x9d\\x07\\xe7\\xb9\\xde\\xdfk\\xa7\\xf7\\x96VUe\\x97\\x87l\\xdaN\\x85\\x9a\\xf7\\x1f\\xf4}\\xa5E\\xccD\\tq\\xc7\\xfc/\\xf0\\x96\\xe0\\x9c\\x880\\x96\\x87a\\xfe\\x0b\\xb7WM\\xa9\\xac\\x10\\xc1a\\r2bA\\x93\\xb8\\x86\\xee\\xfc\\xd5\\x0c\\xcb\\xab\\xc6\\ru\\xc4\\xb8\\xd8\\xe6\\xec\\xab\\x86\\x8fK\\xdc\\xcf\\x7f\\xf2\\\\\\x7f\\x9b\\xad^\\xe9\\xb9[\\xf0h\\xb1\\xc2}F\\xec\\x93\\xc1p\\xf6\\xbb\\xfe\\x92\\x06M\\x15X\\xfd\\xc0M\\xf1\\xb0?t\\x06\\xb4O\\xf5\\x95\\x89c\\x07\\x1d\\xc0\\x08\\xe9\\xa7\\xf7\\x7f\\xc1k`\\xcf/\\xbc\\x08f&q\\xe2\\xa2\\x0f\\xab\\xd5\\xe5/G\\xa6H\\xb1\\x9d\\x81\\x98]C\\x9a\\xec{\\xec\\x1b\\x89i\\xdc\\xd7\\x10>\\x9e\\xc7{\\xbdM\\xae\\xf7\\xff\\x00\\xa4@\\xb2\\x86QK\\xeb\\xb2\\xa0li-m\\x8d\\x982\\t\\x86\\xf1\\xf9\\xbb\\x95\\xe3\\xd3\\xdc\\xda\\xab\\xbd\\xd7\\xb3#\\x98\\xaeI}n\\x1f\\x9f\\xb9\\xcdf\\xdd\\xc9\\xee\\xb9\\xac\\xa1\\xd6\\xbf\\x9aZ\\xe7\\xb7\\xc9\\xc1\\xa4,N\"\\'!|B\\xfb\\xfe\\x97\\xf7\\xbeg\\xb7\\x8c\"q\\tJ\"2\\xa3\\x1b0\\x80\\x8f\\x07\\xe9K\\xd9\\xe2\\xcb\\x8b\\x8a?\\xceBp\\x9b\\xcd>\\xd7\\x83\\xb5\\xcet\\x97A\\x1c\\xcc\\x1fr\\x1b\\xabs\\x9c`\\xee\\x0eq\\x82A\\x125\\xf7j\\x9bc\\xb75\\x84\\xc0:\\xee#\\xf2~r0\\xaa6\\xb7_i\\x05\\xc0\\xf8\\x13\\xb7@}\\xca\\xd4c\\xc4v\\xf0y\\xb9\\xcc\\xebg\\xc7S\\xfc\\xbfy\\x1dR\\xdd^4\\x8dA\\xf2\\xd1Y\\xa9\\xa1\\xce\\x1b\\x1c\\x18v\\x90|u\\x12\\xf9\\x9d\\xbf\\xba\\xa1|N\\xe3\\xf9\\xa4Lj\\x08\\xed\\xb9J\\xa9s\\xc8%\\xc4\\x96<5\\xc4G\\xb6>\\x8f\\xf6\\x93\\xe5\\x1e\\x11!\\xbdw\\xea\\x8cF\\xe7\\x8e\\xecY\\x1f/K`\\xe3-;_-0\\x08p\\x00\\xf8\\xc7\\xf9\\xcd\\xf6&\\xa6\\xb6\\x16~\\x95\\xa6\\x00w\\x91\\x9fn\\xbb\\xbf\\x92\\x8bu45\\xd6\\x12\\xed\\xb2gS\\xfc\\xae\\xdf\\xbd\\xf4R\\xb7{\\xb1\\xa8u\\x7fE\\xcd\\x7f\\xab\\xb4\\x93\\xa8y\\x9d\\xcd\\x1f\\xc9L\\xe0\\xbb\\xf0\\x17\\xa2\\xe3>\\x19w\\xfd\\x1fW\\xfe\\x84\\xd9\\xe9\\xc1\\xa2\\xd7\\x02\\xdfe\\x8c\\x81\\xb8h@}e\\x17<\\xcd\\xb5\\t>\\xc7\\xb3kt\\x00\\xc9h\\xec\\xdf\\xed\\xa6\\xe9t\\xd9e\\xc0\\xd6\\\\L\\x00\\xf1\\x13\\x01\\xcfn\\xadh\\xfd\\xf4~\\xa7A\\xaf3\\x19\\xac\\xda\\x0b\\x85nkg\\xd4\\x82\\xd9-\\xf56\\xbb\\xfe\\xb8\\xa2\\xcd\\xa4\\xc8\\x1b\\x10\\x7f\\xe6\\xc6?\\xf7\\xce\\x97)!.\\\\q\\x03\\xc6%\\x13\\x7f/\\xf3\\xb9\\'\\x11\\xc3\\x1f\\xf0\\x1f\\xff\\xd2\\xe1+\\xb1\\xccp?J\\xbd\\x8e\\r\\x9d!\\xc6ti\\xfa[\\x9a\\x87Uf@k\\x8b_\\xf4\\xb8\\xe0\\x1f\\xf0\\x8d\\xff\\x00\\xabbz\\xdf/\\x83>\\xc9\\x07\\x9f=\\xbf\\xbd\\xf9\\xbfA!q\\xd7i-q\\'`\\x90\\x1a\\xd6\\x83\\xb3_\\xf5\\xd8\\xae\\xc4\\x0e2N\\xba\\xff\\x00\\xdf1\\xe4\\x99\\x96(\\x81\\xa5\\x02+\\xb7\\xf3\\x7f\\xf4\\x9b\\'\"\\xcf\\xb1\\x9cp\\xf7\\xcb\\x1e\\x1d\\xb7q-\\x97\\x7f\\x85o\\xe7z\\x8fw\\xbf\\xfd\\x7fK\\'\\xd8\\x031\\xdb\\xb6\\x08xyv\\xd9\\xb2>\\x83l}\\xcf\\xdd\\xbd\\xafg\\xf3~\\xdd\\x9f\\xc8@{\\xde\\xc1\\xe9m\\x05\\xac>g\\xda\\x7fy\\xdf\\xca\\xde\\xacSs\\x1c\\xc6R\\xeaF\\xe6\\x81X\\xb4\\x1e\\xc3\\xe8\\xfb?{`\\xdb\\xb9>\\x81\"\\x03\\xe5\\x9f\\xcd\\xf5\\xff\\x00\\xa4\\xc62J\"Y%\\xfc\\xe6:\\x18\\xf4\\xf5G\\x82Q\\x97\\xefC\\x82_3z\\xb1\\xebRrv\\xbd\\xd4\\xd5Skx\\x02G\\xb0;c\\x86\\xc7\\xefn\\xf7\\xb7\\xf3\\xab\\xfd\\x1a\\xcb\\xa7\\xd6\\x0ec\\x19\\xf4a\\xcekN\\x80\\x1e\\xe5\\xaa\\xe5\\x16\\x9a\\xdc\\xe6j\\xcaL;\\xd3\\xab@\\xe2>\\x83$\\x90\\xf6mm\\xbf\\xe0\\xd5V\\x87T}\\xad\\xfd&\\xce\\x01:\\x87\\x0f\\xfc\\x87\\xd3bQ\\x89\\xc726\\x88 \\xd8\\xbd\\x7f{\\xfc/J2\\xe5\\xf7q\\xc0\\xd82\\xa9\\x0e\\x13^\\x9e/\\x97\\xfb\\xb0\\xf5\\xfe\\x97\\xfa\\xc66\\xd3\\x95l\\x17\\x02\\xe6\\x17\\x90\\xdd\\xce\\x80]\\x03\\xf7\\x8e\\xdfk\\x10n\\xa2\\xcfZ\\xa68\\x174\\x98?\\x08\\x10\\x7f7\\xf3]\\xfa7\\xad\\x1a\\x0bj\\x0eu\\xc3y\\xda\\x0bZ5\\xdb#\\xd4\\xfa/>\\xd6\\xbd\\xaa-\\x05\\xed\\xdc\\x1b\\x1b\\x9b\\xbc\\x00I\\xd0\\xc7\\xb4\\xee.F\\x18\\xa30\\x00;\\xfa\\xbf\\xad\\xc3\\xea[\\x97$\\xa1)q\\rG\\xa0\\x1f\\xd1\\xe3\\xf4~\\x93[\\x01\\xd9T\\x86\\xb3\\xd36\\x0bZ\\xf7\\xec \\x877f\\xae\\x82>\\x96\\xfa\\xff\\x001\\xcbTY\\x90\\xf6\\x8fHW\\x0f\\x1a;S\"9T\\x18\\xe6\\xd7ul{\\xb6\\x87=\\xc6\\xb0O\\xb1\\xad#\\xe8o>\\xed\\xfe\\xe5\\xa9\\x84\\xc6\\xd7Q`xxa\\xfd\\x18\\xe7Bw)\\xb1D\\x88\\xf0\\xd9\\xd3M\\xf5\\x05\\xa5\\xccJ<bT5\\xd7m$.NU\\xd7e\\xd7iiv\\xc7\\r\\x1c\\x00\\x10\\xaaf\\xbb!\\xeckK\\xf71\\xf0\\\\\\x0f$\\x9d\\xdb\\x7f\\xb3\\xb5\\x9b\\xd6\\x9fS\\xa7~c\\x9c\\x0c\\xb6\\x04\\xbb\\xe5\\xd9Rm\\x8d\\xc8u\\x8f\\xa8\\x07zPD\\xfd\\x1d%\\x9b]\\xfb\\xcd\\xf4\\xd8\\xa8\\x10%\\x94\\xc2\\x87\\x16\\xbcF\\xb5\\xd9\\xdb\\x07$9X\\xces\\x90\\x81\\xe1\\x18\\xe0dxxdu\\xe1\\x87\\xee\\xfe\\x83\\x9fc5h\\x1a\\x99\\x99\\x1er\\xe7+-a5\\xec\\x80\\x1a\\xcd\\xa0\\x90F\\x9bH~\\xe7\\x7f\\'\\xf7\\xd3\\xdc\\x1a\\x1c\\xd2\\xc3!\\x84\\x078D\\xea6\\xf0\\xf4J\\xd8\\x1fQ\\x80M\\xcc \\xc1\\xe3C\\xbbq\\x8f\\xddk\\x7fH\\xa6\\xc7\\n\\'\\xad\\x8e\\x9dZ9\\'tv\\xd7\\xafF\\xb9p\\xd3h\\x07Ht\\xf1\\x11\\xa3\\xa4\"U[\\x9b\\xedh.ik\\x98\\xc8\\x89\\xd4\\x18\\x9f\\xeb\\xaby\\r\\xa2\\xa0\\x1eCE\\xd6m\\x96\\xb4jg\\xe9\\x1f\\xe4\\xfd\\x15\\x1cv\\x0b\\xb2\\x19]\\xb6za\\xc1\\xc1\\xc6\\x08\\x00\\x16\\xbb\\xdc6nw\\xfd\\x14rc\\xa1;7 \\rW\\xe0\\xbf\\x97\\xc9\\xc5\\x93\\x11\\x03\\x86\\x12\\x94l\\x9f\\xefz\\xbf\\xf4v\\xaeeE\\xf6o\\r\"\\x97ns\\x1d\\x06\\x0e\\xdd}\\xafs\\x7f;\\xf7\\x13\\xd1\\xb5\\xb4V\\x1e76,!\\xb3\\x12If\\xe6\\x8f\\xe5\\'\\xb2\\xe7\\xb6\\xb6\\xd4\\xe7X+\\x00\\xc3\\x1b\\x1bw;\\xd8\\xe7l\\xf6\\xb1\\xa8>\\x9b\\xc6#]\\xee\\xf4\\xf7:\\x01\\x07l\\x88\\xfa\\'\\xfe\\xabb\\x87HKk\\xe2\\x1f\\xfa\\x13)\\x07 \\xb0k\\x84\\xf1\\x7f[\\xf7}?\\xe3\\xba\\x1d>\\xc9\\xc9\\x16W\\xeckC\\x1d\\xb5\\x90\\t\\x05\\xfd\\xff\\x00\\xaa\\xe5\\x1c\\xdff~?\\xbbW<;M 87w\\xd1\\xfd\\xe7oQ\\xc2\\xa4W\\xb6\\xefq\\x87\\xd6\\x1d\\x00\\x81\\x05\\xc1\\xbe\\xe3\\xff\\x00Q\\xefD\\xeaL#;\\x08\\xc8\\xf7\\x96\\xf1\\xa9\\x92~\\x83\\xbf\\xcePd\\xf9\\xf5\\x1bq\\x1d\\xbf\\xa9\\x08\\xba\\x18O\\xf4}\\x0e\\xb2\\xf6\\x86\\x87\\xfd~L\\x9f\\xe3~\\xe7\\xf5\\x1f\\xff\\xd3\\xe0\\x9c\\xc2\\xcb\\x88\\xb0\\x93`\\xfa`\\x7f[\\xdd\\xeeo\\xef9@\\x00\\xc0\\x0e\\xb29\\r\\xd0D\\xee\\xee\\xaf?\\x19\\x8f\\xcau\\x92\\xf6\\x87\\xce\\xd0\\xc8\\x90d\\xb1\\xbe\\xff\\x00g\\xb7r\\r\\xb4>\\xaa\\x9c^H\\x12Y\\xa0\\x07\\xe8\\xc9\\xd1h\\x10\\x01\\xa3\\xf3\\x7f\\xdfz\\x9a\\xe2\\x1212\\x17\\xc1\\xff\\x00y(F_\\xf4\\xd6\\x96=\\xfb\\x83\\'qh/\\x92=\\xda\\x17\\xb3h?\\x9c\\xdf\\xf0\\x8cGf;\\x9c\\xe0\\xd0\\xf6\\x87m\\x0f\\x0e.\\x981\\xbb\\xf3w\\x7fS\\xda\\xabS\\xe9\\xef%\\xf5\\xb9\\xc5\\xad\\x8a\\xc3\\x1c\\x1a7O\\xd3\\xb7x\\xb3w\\xb5Xm\\xcf}u4\\xd6\\xca\\xbd\\x13\\x1b\\xabl\\x12\\xe2~\\x95\\xcf\\xfc\\xfb?5\\xaaL`_\\xec\\x1aGF\\xbeC\"+\\xed\\x91\\xd6^\\xae\\xbf\\xca)\\x01el\\x16\\x98\\x12H%\\xc4\\x8d\\xae\\x80\\x07\\xee\\xfb\\xbf5+\\x1d\\xbbw\\xa5\\xf4\\x1c\\x1b$~pi\\xff\\x00\\xbf\\xedR\\xb1\\xfa\\xd8\\x1b\\xed \\x17\\x07\\x03\\xba\\\\}\\xe4\\xec;\\xb6\\xed\\x86\\xfd?f\\xc5]\\xcfn\\xc2\\\\\\xe0\"\\xb0@\\xef\\xc2v]<\\x85\\xdf\\xe8\\xeb\\\\%\\x18\\x01#\\xc6\\\\5~\\xad8\\xb8\\xe2\\xd90Ya\\x1fD\\xb5\\xcek@\\xe0F\\xda\\xcbG\\xf5\\x1a\\x93\\x1c\\xc3Q\\xb0;h\\x15O<\\t!\\xbb\\x7f\\x93\\xed\\xf6\\xa3T\\xda\\xdc\\xc7\\xcd\\x8ck+k\\xa2H\\x02\\x07\\xa9\\xb5\\xa1\\xff\\x00G\\xfc\\x1e\\xdfz\\xa9\\x91\\xd5\\xa9\\xab\\x1a\\xbfD\\xef\\xb8\\xd6\\xde}\\xc0\\x1f\\xa3\\xbd\\xc7\\xfd\\x7f\\xe2\\xd4P\\x94aD\\xca\\xb4\\xf3\\xbe\\t\\xe4g\\xcd\\x19\\xcf\\x8b\\x86\\x17\\xd4\\x9f\\x90G\\xdc\\xc5\\xcb\\xfe\\x8cb\\xd0\\xea.c\\xdd.v\\xeb\\x1a\\xc0\\xdd\\x83]\\xbf\\xbc\\x7f\\xae\\xf4:\\xad\\xba\\x9d\\xbb.\\x86\\xb9\\xbb\\x9aH2<\\x1aaF\\xb8}\\x85\\xaf;X\\xefq\\x812\\x7f5\\xee\\xda\\xa4@,,\\x80Z\\t,\\x8d@\\x91\\xbb\\xfbU\\xa8\\x0c\\x8c\\xa4f\\r\\x1e\\x94}_U\\xd1\\x88\\x8cD\\x08\\xe2\\x1e#\\xd3\\xfe\\x0b\\x13u\\xd64\\xfa\\xb6\\x17V\\xdf\\xcc\\xd4\\x02c\\xe8\\xff\\x00+\\xfbH\\x989\\x03\\x1a\\xf7\\x92&\\xb7\\xb45\\xf1\\xc8\\x07\\x877\\xfbHO\\x9060\\x974\\xfb\\xa4\\x08\\x88\\x05\\xceo\\xf2\\xb6\\xfe\\x7f\\xb5D\\x12\\xd1\\xb6\\xc1\\x1bx#_\\xddwoj\\x84\\x13\\x19q\\r\\xc1\\xb6\\xc9\\xa9\\xc4B[\\x11\\xc3\\xfd\\xdf\\xfd\\x17\\xd2\\xe8\\xd7@?\\xa4;\\x9e\\xdd_\\xb9\\xd0A \\x7f#\\xda\\xef`\\xde\\x86\\xf2\\xd1F\\xd1!\\xaepkZ@\\xd4\\x02\\xe1\\xee|\\xb5\\xfbw7\\xf9\\xb5\\x0ckE\\'e\\xcd!\\xb6\\xb4\\xb9\\x96j\\x048mw#\\xde\\xcd6\\xefb>C\\x83\\x03CC}\\xc5\\x84\\x98\\x98\\x89![\\xe3\\x8c\\xb1\\x8e\\x1a\\xba\\xf5F\\xfdMQ\\x8eQ\\x99\\xe3\\xba\\xba\\x8c\\xab\\xd3\\xfaJ\\xb7hy0K\\xbb\\x03\\xafb\\xfe?7\\xdc\\xf4\\xf8\\x996\\xb2\\xe2\\xc6\\xc6\\xe7\\x10\\xc3\\xeci \\x10\\\\\\xfd\\x8e\\x7f\\xd1\\xfd\\xcd\\xff\\x00\\xce\"\\xd6\\xdfR\\xc6\\x029w\\xb8\\xc0k\\x8c\\x1eC\\xca\\xadV;M\\xa6\\xb2\\xd9\\x92v\\x8f\\x1f\\xfa\\xa4\\xd9Fb2\\x9d\\xfc\\xd1\\xbf\\xf9\\x8c\\xb8\\xe5\\x8f\\xde\\xc5\\x8f\\x84\\x9fo$b|\\x7f[\\xc3\\xc3\\xc5$\\x0e7\\xd8\\xef\\xd2\\xcc\\x9dC\\x9cy\\x00y\\xfd\\x15s\\x1d\\xe4\\xb4T\\xe1\\xa1;\\x98\\xe2I\\x00\\x1f\\xcd\\xd9;\\x7f5\\x02\\xba\\xda\\x1e\\xf6X\\xd2\\xc6\\x80K\\xc4I\\x01\\xbfH\\xfb\\xbf9\\x8a\\xde-f\\xbb\\x1e\\xd6:\\xbd\\x9b\\x89{\\xf9p`\\x96\\x96\\xfbM\\x9bw5\\xdfG\\xf7\\xd0\\x991\\x89 \\xf4?\\x92\\xb0DO,c ~h\\xff\\x00\\xd2\\xeb\\xc4\\x8b\\x19\\xd6\\x86=\\xf5\\xeb\\x17\\r\\xc1\\xc4\\x0e%\\xda\\xfe\\xeb\\xbe\\x86\\xcd\\xaa\\xef\\xd9\\xad\\xea\\x1dV\\xaa\\xea\"\\xdb\\\\\\xe1c\\x0c\\x11;YO\\xb4C\\x0b\\x9c\\xed\\xbf\\x99\\xb1S\\xc6\\x10\\xe6\\r\\xdb\\x0f\\xa8\\x1d\\xa9\\x87@\\xf7\\xeev\\xef\\xe49t\\xb8\\xe7\\x1cSY\\xa1\\xceu\\xb5\\xbd\\xda44mq-\\xad\\x96\\xfe\\x8f\\xd2\\xb1\\x8d}{m\\xb7\\xe8Y_\\xf8\\x17\\xfe\\x93b\\xab\\x96\\'\\x8c\\x11\\xa0\\x97\\x18\\xe2\\x03\\x8b\\xd5\\xc3\\xc5\\xea\\xff\\x00\\x01\\xd0\\xc1\\x90\\x0e\\\\\\xc4\\x8e9@\\xe2\\xb8H\\xf0pC\\x8a\\\\<\\x12\\xff\\x00k\\xc7\\xfa\\xbf\\xfb\\xb7\\xff\\xd4\\xe4rl\\xb1\\x99A\\xb3\\x1b\\xacv\\xe9\\x82gs\\x9d\\r\\xfe\\xdab\\xcb\\ru\\xbd\\xc2_s\\xc8l\\xf7\\xd1\\xdfHG\\xf2\\x94/\\xfe\\x95_?M\\xff\\x00G\\xe8\\xfd\\'}\\x0f\\xe5\\xabM\\xe7\\x03\\xe9\\xf2\\xdf\\xa3\\xff\\x00\\x17\\xff\\x00i\\xbf\\xd7\\xf9\\xc5\\xa7\\x96\\xbd\\xd8\\xf7\\xe2\\x1e\\x7f\\xcd\\xc9\\xad\\x87\\x8b\\xee\\xd9\\xae\\xf8=\\xb3\\xc1\\xfb\\x9c\\x7fx\\xc3mSS\\x06w\\xa6\\xc83\\xc3[\\'\\xf3H\\xdb\\xff\\x00\\x98\\xa6\\xad\\xa1\\xd60\\x07\\x06\\xc1/s\\x9c4\\x8fp\\xff\\x00\\xc8\\xa9\\xb3\\xfeQ?\\xf1\\x8f\\xe3\\xe8\\xfer\\x06\\x1f\\xf3u\\x7f\\xc5\\x8f\\xfa\\xa5\\'\\xe9\\n\\xaa\\xe3;5c\\xf2\\x9d\\xef\\x82;\\xff\\x00\\xe8L\\xb3\\xae-}\\x955\\xc1\\xc3kF\\xe0u\\x1e\\xc0\\xf6\\xe9\\xf9\\x9e\\xef\\xccTZ\\xd7\\xdc\\xf2\\xc8&\\xd7\\x06\\xfb\\xb5\\x86\\x8e\\xfb\\xbf\\x90\\xefj\\xbf\\xff\\x00k,\\xfa_E\\xbfG\\xe9\\x7f6\\xdf\\xfa)\\xb1?\\x9e?\\xce}!\\xc7\\xf3\\x7f\\x99\\xfe\\xb5\\x7f\\xd6UNc\\x8f\\x8e\\\\W\\xc3\\xc4\\x7f\\xf4\\x16\\xff\\x00/\\xed{p\\xe0\\xae.\\x18\\xdf\\xd9\\xfa\\xce/\\xebq|\\xbc\\rL\\xd6\\xd5\\xbd\\x8c\\xaaZ\\x1f^\\xe2\\x08\\x88p63\\xdd\\xf4\\x9d\\xeeo\\xbd\\x05\\xcc{\\xd8\\xcd\\xad\\x04\\xd8\\xd3\\xb2{{\\x8b\\xb6\\xb7\\x9f\\xa5\\xfc\\xa5k?\\xfaW\\xdf\\xf1\\xfaV}\\x1f\\xe5 v\\x1c\\xff\\x00c\\xe9\\xff\\x00g\\xf9\\x7f\\xbc\\xa1\\x9dq\\x9f\\xefN\\xab\\xf7}[2\\xc6\\xfd\\xa3_\\xb9\\x8e\\xff\\x00\\xbd\\xfa\\xaf\\x99vad\\x07\\xb0@.kZ\\x7fFF\\xf0\\x07\\x07a\\xfa^\\x9ak\\x03\\xf7X\\xdb\\x9b.q\\x1e\\xf1 \\x87N\\xaeo\\xb4\\xeek\\xfd\\xeb\\xa3\\xe9\\xff\\x00C\\xfc\\x17\\xf4q\\xf4\\xbf\\xa5s\\xdf\\xfe\\x07\\xf7\\x17=\\x7f\\xf3\\xdd\\xf9\\x7f\\xd1\\xfa\\\\~o\\xfc\\'\\xef\\xa7zh\\xf0\\x83\\xe1\\xe5]X\\x8d\\\\u\\xb3^\\xbd8}W\\xfa\\x1c2\\x92\\x12\\xd0\\xd9a$\\x07hC\\xb4tN\\xe9\\x97\\xff\\x00\\xdfSV7=\\xad\\xd3\\x82g\\xb7\\x1e\\xd5+~\\x8b8\\xfa?>;\\x7f/\\xf7\\xff\\x00\\x97\\xea#\\x8eY\\xfc\\xdf\\xf8.~\\x8f#\\xf9\\xff\\x00\\xf5\\xfei0\\xf8\\xb2\\xc7\\x87\\x8bO\\xf9\\xbf\\xcb\\x89\\x966#\\xae\\xde\\xcb-\\xdc\\xdc`\\x1cIt6e\\xad\\xf4\\xdb\\xfd\\x9f\\xce]\\x05=#\\xa5]F\\xca\\x1f\\x0ec\\x83\\x88t\\x17\\x1e\\xdbu\\xfd#\\xbf\\xef\\x8a\\x87L\\xff\\x00\\x912?\\x9a\\xe4\\xfd\\x1ex?\\xce\\xff\\x00+\\xfe\\xe3\\x7f\\xc1\\xad\\x0c\\x0f\\xe9\\'\\xfe\\xb7\\xf4~\\x7fG\\xfd~\\x9f\\xa8\\xa1\\x9d\\xe9v\\xe8r\\xde\\xd7\\x04\\xb8xo\\xad\\xfc\\xfb\\xcb\\x8b\\xfa\\xe9k\\xfa\\xbd\\x87`\\xb6\\xf6\\x86\\x92\\xd8\\xd8\\xd9\\xda\\xed\\xc0nv\\x8e?\\xe6\\x7f\\xa4Ts\\xba=\\xb8\\x8dm\\x84\\xb0\\xd3`\\x97\\x96\\xba^\\xc9$\\xfa\\x8e\\x89s\\x1d\\xbb\\xde\\xf6-\\xaco\\xe7\\x7f;\\x83\\xcf\\xc7\\xba\\xa5\\x9d\\xfc\\xe9\\xfa|\\x1e?\\xef\\xa9\\xd8}\\xdfr<\\x17w\\xaf\\x17\\xc9\\xc3\\xfdt\\xf3_v\\xf6\\xa7\\xee\\x98p~\\x8f\\xb6#\\xefq\\xfe\\x8f\\xb3\\xc3\\xfaNE\\xce\\xb1\\xd6\\xb8l\\xd8\\xd7\\x02=\\xa7\\xe9\\x11\\xed\\xef\\xf9\\x8eO\\xd3\\xaei\\xf5X\\xff\\x00`p\\xb8\\xb04\\x1d\\xces\\xa3\\xda\\xebD~\\x8d\\x9bw\\xfb\\x93\\x9f\\xa5_\\xc3\\xbf=\\xbf\\x9b\\xff\\x00\\x82\\xff\\x00F\\x85\\xd2\\xbf\\xa4\\x9f\\xeb?\\x8exr\\xb9\\x9a\\xbd\\xbf\\x0e\\x1e\\xbf\\xddq\\xf9k\\xfb\\xce\\xbb\\xf1\\x8f\\x97\\x8b\\xfc\\xe7\\xfd\\x14#\\\\\\x96\\x19\\x1b\\xbd\\x87Q\"v\\xd5\\xf9\\xabJ\\xa0Et>\\xcbL\\xba\\xc2.\\x1a\\x80\\xe9|\\xfb\\xfd2\\xdd\\xdb\\xbe\\x87\\xfc_\\xf5\\x15<\\x7f\\xa4y\\xfat\\xfd\\x0e~\\x80\\xe1_?\\xcd\\x1f\\xa5\\xfc\\xe0\\xfa?C\\xfc7\\xfa\\xd5\\xfc\\x85[\\x98\\xe1\\xe0\\x85\\xd6\\xdf_\\x95\\xd0\\xe4\\xfd\\xcf{=q\\x01\\xc5/\\x97X\\xff\\x009\\x1b\\xba\\xf5?\\xff\\xd9'",
+      "photoshop": "{1028: b'\\x1c\\x01Z\\x00\\x03\\x1b%G\\x1c\\x02\\x00\\x00\\x02\\x00\\x00', 1061: b'\\xcd\\xcf\\xfa}\\xa8\\xc7\\xbe\\t\\x05pv\\xae\\xaf\\x05\\xc3N', 1082: b'\\x00\\x00\\x00\\x10\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x0bprintOutput\\x00\\x00\\x00\\x05\\x00\\x00\\x00\\x00PstSbool\\x01\\x00\\x00\\x00\\x00Inteenum\\x00\\x00\\x00\\x00Inte\\x00\\x00\\x00\\x00Clrm\\x00\\x00\\x00\\x0fprintSixteenBitbool\\x00\\x00\\x00\\x00\\x0bprinterNameTEXT\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x0fprintProofSetupObjc\\x00\\x00\\x00\\x0c\\x00P\\x00r\\x00o\\x00o\\x00f\\x00 \\x00S\\x00e\\x00t\\x00u\\x00p\\x00\\x00\\x00\\x00\\x00\\nproofSetup\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00Bltnenum\\x00\\x00\\x00\\x0cbuiltinProof\\x00\\x00\\x00\\tproofCMYK', 1083: b'\\x00\\x00\\x00\\x10\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x12printOutputOptions\\x00\\x00\\x00\\x17\\x00\\x00\\x00\\x00Cptnbool\\x00\\x00\\x00\\x00\\x00Clbrbool\\x00\\x00\\x00\\x00\\x00RgsMbool\\x00\\x00\\x00\\x00\\x00CrnCbool\\x00\\x00\\x00\\x00\\x00CntCbool\\x00\\x00\\x00\\x00\\x00Lblsbool\\x00\\x00\\x00\\x00\\x00Ngtvbool\\x00\\x00\\x00\\x00\\x00EmlDbool\\x00\\x00\\x00\\x00\\x00Intrbool\\x00\\x00\\x00\\x00\\x00BckgObjc\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00RGBC\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x00Rd  doub@o\\xe0\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Grn doub@o\\xe0\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Bl  doub@o\\xe0\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00BrdTUntF#Rlt\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Bld UntF#Rlt\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00RsltUntF#Pxl@r\\xc0\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\nvectorDatabool\\x01\\x00\\x00\\x00\\x00PgPsenum\\x00\\x00\\x00\\x00PgPs\\x00\\x00\\x00\\x00PgPC\\x00\\x00\\x00\\x00LeftUntF#Rlt\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Top UntF#Rlt\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Scl UntF#Prc@Y\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x10cropWhenPrintingbool\\x00\\x00\\x00\\x00\\x0ecropRectBottomlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0ccropRectLeftlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\rcropRectRightlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0bcropRectToplong\\x00\\x00\\x00\\x00', 1005: {'XResolution': 300.0, 'DisplayedUnitsX': 1, 'YResolution': 300.0, 'DisplayedUnitsY': 1}, 1062: b'\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00?\\x80\\x00\\x00', 1037: b'\\x00\\x00\\x00\\x1e', 1049: b'\\x00\\x00\\x00\\x1e', 1011: b'\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01', 10000: b'\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01', 1013: b'\\x00/ff\\x00\\x01\\x00lff\\x00\\x06\\x00\\x00\\x00\\x00\\x00\\x01\\x00/ff\\x00\\x01\\x00\\xa1\\x99\\x9a\\x00\\x06\\x00\\x00\\x00\\x00\\x00\\x01\\x002\\x00\\x00\\x00\\x01\\x00Z\\x00\\x00\\x00\\x06\\x00\\x00\\x00\\x00\\x00\\x01\\x005\\x00\\x00\\x00\\x01\\x00-\\x00\\x00\\x00\\x06\\x00\\x00\\x00\\x00\\x00\\x01', 1016: b'\\x00\\x00\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\x03\\xe8\\x00\\x00\\x00\\x00\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\x03\\xe8\\x00\\x00\\x00\\x00\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\x03\\xe8\\x00\\x00\\x00\\x00\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\xff\\x03\\xe8\\x00\\x00', 1032: b'\\x00\\x00\\x00\\x01\\x00\\x00\\x02@\\x00\\x00\\x02@\\x00\\x00\\x00\\x00', 1092: b'\\x00\\x00\\x00\\x02\\x00\\x00\\x02@\\x00\\x00\\x02@\\x00\\x00\\x00\\x00', 1054: b'\\x00\\x00\\x00\\x00', 1050: b'\\x00\\x00\\x00\\x06\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x08p\\x00\\x00\\x0f\\x00\\x00\\x00\\x00d\\x00a\\x00d\\x00r\\x00i\\x00a\\x00n\\x00n\\x002\\x009\\x008\\x007\\x00_\\x00N\\x00i\\x00g\\x00h\\x00t\\x00c\\x00o\\x00r\\x00e\\x00_\\x00f\\x00u\\x00t\\x00u\\x00r\\x00e\\x00_\\x00s\\x00p\\x00a\\x00c\\x00e\\x00_\\x00p\\x00i\\x00r\\x00a\\x00t\\x00e\\x00_\\x00s\\x00t\\x00y\\x00l\\x00e\\x00_\\x00c\\x00y\\x00b\\x00e\\x00r\\x00p\\x00u\\x00n\\x00k\\x00_\\x00r\\x00e\\x00t\\x00r\\x00o\\x00_\\x00c\\x009\\x005\\x009\\x00c\\x005\\x009\\x007\\x00-\\x005\\x002\\x001\\x007\\x00-\\x004\\x002\\x002\\x007\\x00-\\x00b\\x00d\\x006\\x002\\x00-\\x00b\\x009\\x00e\\x00c\\x00d\\x00e\\x00f\\x00f\\x003\\x00b\\x005\\x003\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0f\\x00\\x00\\x00\\x08p\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x10\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00null\\x00\\x00\\x00\\x02\\x00\\x00\\x00\\x06boundsObjc\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00Rct1\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00Top long\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Leftlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Btomlong\\x00\\x00\\x08p\\x00\\x00\\x00\\x00Rghtlong\\x00\\x00\\x0f\\x00\\x00\\x00\\x00\\x06slicesVlLs\\x00\\x00\\x00\\x01Objc\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x05slice\\x00\\x00\\x00\\x12\\x00\\x00\\x00\\x07sliceIDlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x07groupIDlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x06originenum\\x00\\x00\\x00\\x0cESliceOrigin\\x00\\x00\\x00\\rautoGenerated\\x00\\x00\\x00\\x00Typeenum\\x00\\x00\\x00\\nESliceType\\x00\\x00\\x00\\x00Img \\x00\\x00\\x00\\x06boundsObjc\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00Rct1\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00Top long\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Leftlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00Btomlong\\x00\\x00\\x08p\\x00\\x00\\x00\\x00Rghtlong\\x00\\x00\\x0f\\x00\\x00\\x00\\x00\\x03urlTEXT\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00nullTEXT\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00MsgeTEXT\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x06altTagTEXT\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x0ecellTextIsHTMLbool\\x01\\x00\\x00\\x00\\x08cellTextTEXT\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\thorzAlignenum\\x00\\x00\\x00\\x0fESliceHorzAlign\\x00\\x00\\x00\\x07default\\x00\\x00\\x00\\tvertAlignenum\\x00\\x00\\x00\\x0fESliceVertAlign\\x00\\x00\\x00\\x07default\\x00\\x00\\x00\\x0bbgColorTypeenum\\x00\\x00\\x00\\x11ESliceBGColorType\\x00\\x00\\x00\\x00None\\x00\\x00\\x00\\ttopOutsetlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\nleftOutsetlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0cbottomOutsetlong\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0brightOutsetlong\\x00\\x00\\x00\\x00', 1064: b'\\x00\\x00\\x00\\x02?\\xf0\\x00\\x00\\x00\\x00\\x00\\x00', 1041: b'\\x01', 1044: b'\\x00\\x00\\x00\\x07', 1036: b'\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\xa0\\x00\\x00\\x00Z\\x00\\x00\\x01\\xe0\\x00\\x00\\xa8\\xc0\\x00\\x00\\x18\\xbd\\x00\\x18\\x00\\x01\\xff\\xd8\\xff\\xed\\x00\\x0cAdobe_CM\\x00\\x02\\xff\\xee\\x00\\x0eAdobe\\x00d\\x80\\x00\\x00\\x00\\x01\\xff\\xdb\\x00\\x84\\x00\\x0c\\x08\\x08\\x08\\t\\x08\\x0c\\t\\t\\x0c\\x11\\x0b\\n\\x0b\\x11\\x15\\x0f\\x0c\\x0c\\x0f\\x15\\x18\\x13\\x13\\x15\\x13\\x13\\x18\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x01\\r\\x0b\\x0b\\r\\x0e\\r\\x10\\x0e\\x0e\\x10\\x14\\x0e\\x0e\\x0e\\x14\\x14\\x0e\\x0e\\x0e\\x0e\\x14\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x11\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x11\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\x0c\\xff\\xc0\\x00\\x11\\x08\\x00Z\\x00\\xa0\\x03\\x01\"\\x00\\x02\\x11\\x01\\x03\\x11\\x01\\xff\\xdd\\x00\\x04\\x00\\n\\xff\\xc4\\x01?\\x00\\x00\\x01\\x05\\x01\\x01\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x01\\x02\\x04\\x05\\x06\\x07\\x08\\t\\n\\x0b\\x01\\x00\\x01\\x05\\x01\\x01\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x02\\x03\\x04\\x05\\x06\\x07\\x08\\t\\n\\x0b\\x10\\x00\\x01\\x04\\x01\\x03\\x02\\x04\\x02\\x05\\x07\\x06\\x08\\x05\\x03\\x0c3\\x01\\x00\\x02\\x11\\x03\\x04!\\x121\\x05AQa\\x13\"q\\x812\\x06\\x14\\x91\\xa1\\xb1B#$\\x15R\\xc1b34r\\x82\\xd1C\\x07%\\x92S\\xf0\\xe1\\xf1cs5\\x16\\xa2\\xb2\\x83&D\\x93TdE\\xc2\\xa3t6\\x17\\xd2U\\xe2e\\xf2\\xb3\\x84\\xc3\\xd3u\\xe3\\xf3F\\'\\x94\\xa4\\x85\\xb4\\x95\\xc4\\xd4\\xe4\\xf4\\xa5\\xb5\\xc5\\xd5\\xe5\\xf5Vfv\\x86\\x96\\xa6\\xb6\\xc6\\xd6\\xe6\\xf67GWgw\\x87\\x97\\xa7\\xb7\\xc7\\xd7\\xe7\\xf7\\x11\\x00\\x02\\x02\\x01\\x02\\x04\\x04\\x03\\x04\\x05\\x06\\x07\\x07\\x06\\x055\\x01\\x00\\x02\\x11\\x03!1\\x12\\x04AQaq\"\\x13\\x052\\x81\\x91\\x14\\xa1\\xb1B#\\xc1R\\xd1\\xf03$b\\xe1r\\x82\\x92CS\\x15cs4\\xf1%\\x06\\x16\\xa2\\xb2\\x83\\x07&5\\xc2\\xd2D\\x93T\\xa3\\x17dEU6te\\xe2\\xf2\\xb3\\x84\\xc3\\xd3u\\xe3\\xf3F\\x94\\xa4\\x85\\xb4\\x95\\xc4\\xd4\\xe4\\xf4\\xa5\\xb5\\xc5\\xd5\\xe5\\xf5Vfv\\x86\\x96\\xa6\\xb6\\xc6\\xd6\\xe6\\xf6\\'7GWgw\\x87\\x97\\xa7\\xb7\\xc7\\xff\\xda\\x00\\x0c\\x03\\x01\\x00\\x02\\x11\\x03\\x11\\x00?\\x00\\xf3s\\xbb\\xd3\\xa5\\xa0k.\\xf6\\xc4\\xf7\\xd1;\\x98K+p\\xf6\\x92\\xe7I\\x13!\\xd2?\\xb9h\\xdf\\x8fn9k_\\xa7\\xe8\\xcb\\x8b^\\x1aN\\xaeg\\xb3\\xda\\xe7~bUc\\x1fQ\\xac\\xb1\\x96\\x86V\\xe2\\xca\\xe1\\xbe\\x99\\xd4\\xee\\xdb\\xbd\\xd3\\xfaF\\xff\\x00\\xd0O\\x00\\x91\\xfe\\x11\\x1f\\x8b<\\xe2\\x04\\xccI\\x1f\\xcd\\xc3\\x7f\\xeec\\x9f\\xa7\\xfc\\x14\\x14YMw\\xd3n@\\xde\\xd6\\xd6w\\x07\\x12A;\\xa3\\xdc[\\xeeo\\xd2\\xfc\\xd4K\\xf2r\\xd9\\x8fEN\\xbc\\xb2\\xb6\\x8d\\xcc\\xae\\xafi\\x04\\xc5\\xae\\xf5\\x08\\xf4\\xfdO\\xe7w\\x7f\\x85M\\xd5\\xeb\\xa2\\x8b\\xed\\xc6\\xad\\xde\\xa5-t\\xd7`sm1\\'q71\\x94W\\x7f\\xfceu\\xd4\\xaa\\x1c\\x9b,\\xa9\\xe3p\\x80 \\x08n\\x92\\x7f5\\xdbw&\\x9cf\\xc7\\xd4\\xd1_\\x1ej\\x023\\x12\\x1e\\xa2#R\\x8f\\xef\\x9d\\'\\xc5(\\xcb\\xf4~V\\r\\x91\\x90v\\x93\\x04\\x17\\t:\\xfe\\xf7\\xd2\\x9f\\xddZ\\x0f\\xbf\\xed\\x19n\\xc8\\xb1\\xdb\\xfe\\x8b*\\x1d\\xa4\\xd7n\\xca\\xdb*\\x9d.3\\x05\\xc4~\\x8d\\xd0\\xe05\\x9f\\x7f\\xfd\\x179\\xca\\xe5\\xd9\\xb6\\xb6\\xafLXC\\x1bc71\\x80\\x80!\\x8e\\xf1;^\\xe5\\x1eXw\\xbb\\xaa\\x1f\\xe1\\x1dY\\xf9<\\xbc4@\\x8f\\x01\\xc9\\xee\\x1e-\\xff\\x00W\\tp\\x7f\\xe9YzZ6\\xee\\xb7\\x1a\\xa7\\xb88\\x92^K\\xe7q$G\\xd2\\xd1&8T\\xf1t\\x17z[H\\x99\\x1cm\\xd1\\x1be\\x87\\x01\\xaec\\x1c\\xd8{\\x83y\\xe2[\\xbd\\xdc\\xff\\x00\\x9c\\xa8\\xed\\xb1\\xd6m\\xd5\\xce?\\x12Q\\x84\\xac\\x1f\\x02Xy\\x88\\x98O\\x19\\x1a\\x99c\\xc7_\\xde\\xe0\\x8coo\\xde\\x8bs\\'0\\xdf\\xb6\\xd0\\xc6\\xb4\\xed\\x83\\xac\\x93\\x1b\\x9d\\xbf_\\xdd@\\xb2\\xe7\\xd8\\x18\\xdd\\xdb\\x83\\x1b\\xcc\\x00D\\xfen\\x9fO\\xe8\\xfd$LzY{+cI\\x9dw\\xb8\\x81\\x01\\xb1\\xee;\\xb7\\x7f\\xe8\\xb5/\\xb1<T\\x1e\\xd6\\xea\\xf0K\\t\\x1e\\xe2\\x07\\xe9\\x1c\\xf6\\xb7\\xfa\\xa1M\\x8f\\x1c\\xea\\xe2=;i\\xfd^\\x8dL\\xd9\\xa3)\\x1e#s\\x91\\xe3\\xd7\\xf7\\xa7\\xea\\x94\\xbf\\xe94\\x9a]#\\x93\\x1a\\xa3\\xe3d\\x1a\\xadys\\xb6\\x87\\xb5\\xcd\\'\\x9d\\x0f\\xe6\\xa8\\x10\\xed,h;[\\xe0#\\xbf\\xe7\\xfe\\xf2\\x11\\xe4\\xf9\\xea>i\\x84iI\\x84\\x8cd$+B\\x0e\\xae\\x8fH\\xbd\\xf5\\xe5\\xba\\xca\\xdcX\\xe8i\\x05\\xba\\x11\\x16W\\xf4Ts\\x1c\\xe7_f\\xef\\xa4\\xd7\\x92I\"O\\xa8wK\\xa7\\xe9*\\xd8\\x97\\x1a\\x9e\\xe7\\x8dHn\\x82\\'\\x875\\xde_\\xba\\xacd\\xba2\\x9c}\\xa45\\xcd.|\\x03\\x1fD&\\x0e!\"{\\x8f\\xc9\\xb7\\xc5\\tr\\xb1\\x89\\xde3\\xf5i\\xd2q\\x9d(\\x195\\x1f\\x08lD\\x83\\xa2\\xbbu,4\\xe4\\xdb>\\x9b\\x9a(h\\xa8\\xc1%\\xafc\\xcd\\xb63\\xf9\\x15:\\xb6{\\xff\\x00\\x96\\xa8\\x16\\xb5\\xb4\\x0b9\\x87\\x00\\xe6\\x93\\x07q\\x1b\\xbd\\xbbg\\xda\\xd8S9f\\xdfX~c\\xdb\\xa4\\x8e\\xe0\\xb7a\\xfeO\\xb7\\xd9\\xfd\\x84\\xa7\\x02LH\\xe9_\\x9cd\\x9cY\\xe3\\x08N\\x12\\xbfU\\x98\\xd7\\xf72C\\xfe\\x97\\x02\\xaa{M.\\xac\\x86\\xcbF\\xf0b4\\x8fx\\xfeW\\xf9\\x89]`nF=\\x91\\xa0\\xdaN\\x9e\\x1b]\\xfej|z\\xbfH\\xdd\\xe7d\\xb1\\xf2\\xe7L\\x18k\\xbd\\xa3\\xf7\\x9c\\xa3\\x98\\xc7\\xd4j\\xd2e\\x81\\xfaj#k\\x1d\\xff\\x00G\\xf3\\xd1\\xab\\x90\\xd7B/\\x7f\\xf0Sr\\x8e\\x12j\\x8ce\\x11\\xb7\\xee\\xfe\\xb27\\xfe2\\xb7\\x13$\\xfbX\\xf2v\\x12N\\xa4\\xe8\\xf7\\xb5\\xbf\\xbb\\xf9\\x8bK\\xaa\\xe1\\xd9F&3\\\\\\xdd\\x96\\xb5\\xdb,3\\x00\\xb9\\xaeu\\x9f\\xf4Yc\\x163-p\\x10\\t\\xe5\\xa4\\xfc\\x8e\\x9f\\xf5J\\xfe[\\x83\\xac\\xf6\\xcb\\xda\\xf7\\x82\\\\]2G\\xef~\\xf7\\xee\\xa7\\xce7\\x10x\\xb6\\x96\\xdel|\\xbeP=\\xc8\\xf0_\\x16=\\xef\\xe5\\xf5\\x7f\\xce\\xf5\\xca\\x0f\\xff\\xd0\\xe4:\\x9d\\xaf\\xb0\\xd3I\\x06\\xd7\\r\\xec\\xa8\\x86\\x80\\x04;c\\x041\\xac\\xdd\\xff\\x00\\\\\\xff\\x00\\xae*T\\xd8\\xd6\\xd1]\\x9b\\xf6\\x97\\xbd\\xd2@\\x82I:\\xb3\\xda\\x7f}\\xbe\\xc7\\xa3f\\xe4\\x879\\x82\\x0b\\x1e\\\\\\xf1\\x10A\\x8d\\xc3\\x9f\\xce\\xfa>\\xd7\\xfe\\xfa\\xa9\\xb4\\x9cz\\xaai\\x82\\xd7\\xf7\\x8f\\x1f\\xe4\\xca\\x9e6%\\xa8\\xdaR\\xa8\\x9f\\x139E\\x97!\\x84\\x85\\xc6[\\xe2\\xc6\\x0c\\xa3\\xfdX\\xe1\\x84\\xff\\x00\\xf4&N\\xb5\\x96\\xd8\\xe6[&\\x1c\\xd8\\xdc@\\x1d\\xf7{\\xff\\x005\\xbf\\x9f\\xff\\x00\\x81\\xaa\\xce\\xde\\xe1-\\x01\\xcdk\\xb4\\xd8 I\\xf8\\x7fYI\\x8eqc\\xbd==\\xc0\\x17\\x89\\x04\\xee\\x9f\\xa5\\xfer-\\x05\\xd5P\\xe7\\xbbps\\x8bK]1\\xa1\\x07o\\xb7\\xe9\\xb98\\x9e)jj\\xec\\xdf\\xd7\\xfes\\\\F\\xa1`Y\\x8f\\xec\\x1f7\\xf5T\\xe8e\\x954\\xc8\\xf69\\xb6\\x1278j\\xfd\\xc4O\\xd2\\xdb\\xfb\\xaa\\x17d\\xee\\xa8\\xbbh\\x1b\\xac\\xdc\\xd6\\xf7\\x81;\\xddd~{\\xf7\\x7f\\xaf\\xe8\\xd5\\xb7o\\xb2\\xb6R\\xd6\\xee{\\xeb.s\\xf6\\x81\\xfe\\x90{Z\\xcfw\\xe7*M\\xc76\\xb4\\x81\\ree\\xc0\\xda\\xe9\\x05\\xc7G5\\x8d\\xaf\\xf7\\xd0\\xcb\\x8c\\xca`Dq].\\xc5\\x93\\x83\\x19\\xe2\\x97\\x0f\\xcc(\\xde\\xbc\\\\\\x1f\\xf3\\xbf\\xbe\\x99\\x9dD\\xfd\\x81\\xb8\\xdb\\x9a\\xdfM\\xc4\\x89h$\\xee\\xfeTnv\\xd6\\xb3\\xdb_\\xf6\\xd5ZY\\xea_:\\x96\\x8f\\xa6G Dh}\\xc9\\xad\\xa9\\xf4\\x88$\\x89\\x12[\\xc2\\xb3\\xd3\\x8du\\x9a\\xdfhk\\xaa\\xdf\\xba\\xc6\\x19\\x92\\xd6\\x96nk\\xb6\\xce\\xd6\\xbe\\xb7\\xbd\\x8a\\x11\\x01\\x13Dnx\\xa5\\xf5g\\xe3\\x9eYF\\xc8\\x07\\x1cxA\\xaa\\xae\\x03\\xfa_\\xf7N\\x8e\\x17O\\xce\\xca\\xad\\xee\\xaa\\xa6V\\xcbHy\\xde\\x0e\\xe3X\\xfa-\\xda?\\xc0\\x7f\\xc2\\x7f\\x85G\\xae\\x9b\\x19\\x92>\\xdfX-\\x877\\xd5\\xafM\\xa0\\x026m\\xb5\\xcd\\xdb\\xfer\\xd8\\xeaT\\xd5\\x9bW\\xdap\\x9a\\xcc,{Z\\xdd\\x98\\xed\\xb4X\\xe1$0\\xfa\\x92\\xefY\\xcd\\x7f\\xf9\\xff\\x00\\xf6\\xdd\\x8b*\\xabZ\\xcc{q\\xdf`u;\\xc3\\xac\\xb2@cZ\\xdf\\xf0\"\\xc3\\xbd\\xae\\xfd&\\xc6\\xeeo\\xfcW\\xe7\\xa1\\x83\\x99\\xc99\\x08Dnh\\xc4\\x8f\\x90\\x7f\\x7f\\xfe\\xf9\\xbf\\xcc\\xfc;\\x94\\xc3\\x8c\\xe6\\x9cH\\x00\\t\\xfb\\xe3$x\\xa7?O\\xb9\\x8eXa\\xc7\\xfd\\xcf\\xe8\\xff\\x00\\xf8\\xea,\\x9a\\\\\\x1e*\\xa3\\x1c\\x078o&\\xed\\xa4A\\xfa\\x1b\\xfd9{\\xfd\\xae\\xf6z\\x8a\\x95\\xdd\\x07(Vnhk\\x9aL\\xb9\\xcc>\\xc0\\x0f\\xe6\\xfe\\xea\\xd7\\xa2\\xcc[3\\x1b\\xbd\\xfe\\x95/p\\xa6\\xd7la\\xf4\\xdd[v9\\x9b=\\x8c\\xf73\\xf7\\xdd\\xfc\\xef\\xf3\\xb6-<K]\\xd3\\xdfm\\x94\\xdeY\\x8ce\\xa7\\x96\\x8b+\\x0e\\xd9\\x0e\\xa5\\xe6\\xd6{Z\\xfd\\xfb-\\xf5U|\\xfc\\xceH\\xca\\x8cA\\xa2#Tc\\x7f\\xbd\\xfb\\xcd\\xec\\x7f\\x0c\\xe4\\xf2\\xe2&$\\x92A\\xc9\\x13\\xc7\\xe9\\x8f\\x17\\xa7\\x1f\\xe8|\\xb2\\xc7\\xeb\\xfdg\\xad\\xe1+c\\xa8\\xb2\\x9b,\\x1f\\xa3{\\x83\\x9a|\\x81\\x87{T\\xaf\\xb6\\xb7\\xd9y\\x127\\x16\\xec\\x9e`\\x16\\xfc\\x7f5\\\\\\xea\\xeffFK\\xae\\xac\\x861\\xce\\xf5\\x18\\x06\\x93\\xb9\\xe4;\\xd3l7g\\xfc#Ve\\xdfM\\xc4pO\\xc3\\x83\\n\\xc1\\xab\\x04\\x02,\\r\\x0fN/S\\x871,bx\\x89\\x8c\\xb8g/T\\x7fK\\x87\\x8f\\x17\\x14\\x7f\\xaa\\xd9\\xb0\\x8f\\xb2\\xc8\\xe3\\xd5\\x10c\\xc1\\x9f\\xf9\\x92\\x1d6>\\xb0K\\x0e\\xde$\\x98\\xf1\\x9e\\xe1@\\xbe\\xcb[\\xaf\\r\\xe0\\x03\\xa0\\x81\\xd9\\x16\\xa1\\xed\\x80A\\x81.\\xd7\\x80%\\x18\\xde\\xfbi\\xfb\\x18\\xa5F@\\r\\x7f\\xf4f\\xf7\\xdaM\\xaex\\x00\\xda\\xd63s\\x1f\\xc6\\xd2N\\xd7\\x7fa\\xdb\\xd02\\x03\\x9c\\xcd\\xae\\x05\\xae\\xad\\x90A\\x8e\\x0f\\xb9\\x85\\xb0\\x7ft\\xb5\\x08\\x17\\xb2t\\x88h\\xdd\\'\\xc4\\x8e\\xc1E\\xf9WX\\xd6\\x87\\x9dA m\\xd3\\x80?\\xceH\\x01ToB)\\x9ay\\x8e\\xa7\\xf7\\xc4\\x89\\x1bDJ\\\\)*\\xa5\\x96c\\x02[.q\\r\\x0e\\xe4\\xfe\\xee\\x9f\\xd5r\\xbd\\xd4\\xa8u\\x175\\xa0\\xef\\rsC_\\x1bC\\x88\\r\\xde\\x7f\\xcfj\\xafUu\\x1c\\'\\xb0\\xb8\\xfd\\xa2\\xbb$9\\xae\\x0eg\\xa5\\xa7\\xd0h\\xff\\x00\\x84\\x7f\\xd2\\xfemZ\\xcd&q\\xc3\\xf5\\xdf\\xa4N\\x83s\\xbe\\x9f\\t\\xd2\\x94\\x0cH\\xda\\xa8\\xdf\\xd3\\xff\\x00BV\\x0cY\\x01\\xe2\\xa0n&\\x15\\xa5\\xeb\\x93]\\x7f{\\xf5o\\xff\\xd1\\xe0s\\xaa\\xb1\\xd97\\x16\\x07\\xd8\\x0b\\xcb\\x8b\\xb9s\\xa4\\xb9\\xde\\xa3\\xfd=\\xcc\\xf7}?k\\xf6\\'\\xae\\xa2\\xd60\\x13\\xb5\\xc0\\xcbL\\x03\\xc1sws\\xff\\x00MY\\x0f/\\xb3\\xf4\\x15\\xfb\\xacm\\x90\\xc9 F\\x9f\\xa3o\\xef\\xff\\x009\\xb7\\xd4T\\xe9\\xaa\\xc7\\x83Yy\\x05\\xdbY\\xb4\\xeb.\\'\\xf4\\xaew\\xee\\xfa\\x7f\\x9f\\xb5Z\\x81\\x11\\x91\\xe2\\xf5p\\xd6\\xa3m\\x7f\\x97\\xef+,x\\xa3\\x13\\x8f\\xd3\\xee\\xf1\\n\\x96\\xfc1\\xe1\\xbf\\xfd\\x0f\\xd0\\xc6\\xb67\\xf4\\x9bgq\\'\\xd3\\x02\\x0e\\xe6\\x80\\x1b\\xb5\\xdf\\xbb\\xfb\\xccr\\xb7\\x8e\\xd0&[\\xbe\\xd6m\\x87\\t\\x90@\\xda\\xdd\\xad\\xff\\x00\\xbf\\xb5\\x05\\xf6?-\\xbb\\xc5{\\x1b\\x02\\x00\\x1a{[\\xb3\\xf9\\xcf\\xa7g\\xb4~r=%\\xac-\\xa6\\xd0w\\xbc\\x86i\\x13\\xef\\x1fH\\xbbsT\\xb8\\x8chN@F1\\x1cF\\xff\\x00G\\xff\\x00B`\\xc9\\x8eFG\\x1e2g)\\x9e\\x08W\\xa7\\x8c|\\xbf\\xe2:\\x16\\xe2\\xe2\\x8a-\"\\xe3m\\xe00\\xfa\\x0e-26=\\xbb\\xaa\\xc9c\\x9f\\xeao\\xdd\\xed\\xf6W\\xe8,\\xfa&\\xdb\\x80\\xf4\\xc5t\\xd6N\\xc6\\x06\\xcf\\xbbS\\xbbDSxv\\xd3c=\\xd5\\xd3\\xe9\\xb0\\xd6v\\x80\\xd0\\x1a\\x1c\\xed\\x87~\\xdb\\x1e\\xdf\\xcf\\xfc\\xff\\x00\\xd2\"\\xd3\\xfa9&\\xafH\\x18\\x1b\\x06\\xb1\\x1b\\xb5O\\xc3\\x19nM\\x91\\xf3\\x7f\\xd2\\xfd\\xdf\\xfb\\xb4s\\x12\\xc7\\xa0\\x88\\x02:\\xca#oMB\\x1dg\\xff\\x00p\\xe7f\\xe1\\xb9\\xcd6W\\xef\\x88\\x05\\xba\\x97\\x1d?7w\\xb9T\\xc7\\xb3\\xd3\\xb0T\\xfd\\x00x\\xdd\\xf0\\xfc\\xe5\\xaf\\x98H\\xc7\\x0c\\x7f\\xb3\\xdc\\xe0\\xfa\\xe0\\x9d\\x07\\xe7\\xb9\\xde\\xdfk\\xa7\\xf7\\x96VUe\\x97\\x87l\\xdaN\\x85\\x9a\\xf7\\x1f\\xf4}\\xa5E\\xccD\\tq\\xc7\\xfc/\\xf0\\x96\\xe0\\x9c\\x880\\x96\\x87a\\xfe\\x0b\\xb7WM\\xa9\\xac\\x10\\xc1a\\r2bA\\x93\\xb8\\x86\\xee\\xfc\\xd5\\x0c\\xcb\\xab\\xc6\\ru\\xc4\\xb8\\xd8\\xe6\\xec\\xab\\x86\\x8fK\\xdc\\xcf\\x7f\\xf2\\\\\\x7f\\x9b\\xad^\\xe9\\xb9[\\xf0h\\xb1\\xc2}F\\xec\\x93\\xc1p\\xf6\\xbb\\xfe\\x92\\x06M\\x15X\\xfd\\xc0M\\xf1\\xb0?t\\x06\\xb4O\\xf5\\x95\\x89c\\x07\\x1d\\xc0\\x08\\xe9\\xa7\\xf7\\x7f\\xc1k`\\xcf/\\xbc\\x08f&q\\xe2\\xa2\\x0f\\xab\\xd5\\xe5/G\\xa6H\\xb1\\x9d\\x81\\x98]C\\x9a\\xec{\\xec\\x1b\\x89i\\xdc\\xd7\\x10>\\x9e\\xc7{\\xbdM\\xae\\xf7\\xff\\x00\\xa4@\\xb2\\x86QK\\xeb\\xb2\\xa0li-m\\x8d\\x982\\t\\x86\\xf1\\xf9\\xbb\\x95\\xe3\\xd3\\xdc\\xda\\xab\\xbd\\xd7\\xb3#\\x98\\xaeI}n\\x1f\\x9f\\xb9\\xcdf\\xdd\\xc9\\xee\\xb9\\xac\\xa1\\xd6\\xbf\\x9aZ\\xe7\\xb7\\xc9\\xc1\\xa4,N\"\\'!|B\\xfb\\xfe\\x97\\xf7\\xbeg\\xb7\\x8c\"q\\tJ\"2\\xa3\\x1b0\\x80\\x8f\\x07\\xe9K\\xd9\\xe2\\xcb\\x8b\\x8a?\\xceBp\\x9b\\xcd>\\xd7\\x83\\xb5\\xcet\\x97A\\x1c\\xcc\\x1fr\\x1b\\xabs\\x9c`\\xee\\x0eq\\x82A\\x125\\xf7j\\x9bc\\xb75\\x84\\xc0:\\xee#\\xf2~r0\\xaa6\\xb7_i\\x05\\xc0\\xf8\\x13\\xb7@}\\xca\\xd4c\\xc4v\\xf0y\\xb9\\xcc\\xebg\\xc7S\\xfc\\xbfy\\x1dR\\xdd^4\\x8dA\\xf2\\xd1Y\\xa9\\xa1\\xce\\x1b\\x1c\\x18v\\x90|u\\x12\\xf9\\x9d\\xbf\\xba\\xa1|N\\xe3\\xf9\\xa4Lj\\x08\\xed\\xb9J\\xa9s\\xc8%\\xc4\\x96<5\\xc4G\\xb6>\\x8f\\xf6\\x93\\xe5\\x1e\\x11!\\xbdw\\xea\\x8cF\\xe7\\x8e\\xecY\\x1f/K`\\xe3-;_-0\\x08p\\x00\\xf8\\xc7\\xf9\\xcd\\xf6&\\xa6\\xb6\\x16~\\x95\\xa6\\x00w\\x91\\x9fn\\xbb\\xbf\\x92\\x8bu45\\xd6\\x12\\xed\\xb2gS\\xfc\\xae\\xdf\\xbd\\xf4R\\xb7{\\xb1\\xa8u\\x7fE\\xcd\\x7f\\xab\\xb4\\x93\\xa8y\\x9d\\xcd\\x1f\\xc9L\\xe0\\xbb\\xf0\\x17\\xa2\\xe3>\\x19w\\xfd\\x1fW\\xfe\\x84\\xd9\\xe9\\xc1\\xa2\\xd7\\x02\\xdfe\\x8c\\x81\\xb8h@}e\\x17<\\xcd\\xb5\\t>\\xc7\\xb3kt\\x00\\xc9h\\xec\\xdf\\xed\\xa6\\xe9t\\xd9e\\xc0\\xd6\\\\L\\x00\\xf1\\x13\\x01\\xcfn\\xadh\\xfd\\xf4~\\xa7A\\xaf3\\x19\\xac\\xda\\x0b\\x85nkg\\xd4\\x82\\xd9-\\xf56\\xbb\\xfe\\xb8\\xa2\\xcd\\xa4\\xc8\\x1b\\x10\\x7f\\xe6\\xc6?\\xf7\\xce\\x97)!.\\\\q\\x03\\xc6%\\x13\\x7f/\\xf3\\xb9\\'\\x11\\xc3\\x1f\\xf0\\x1f\\xff\\xd2\\xe1+\\xb1\\xccp?J\\xbd\\x8e\\r\\x9d!\\xc6ti\\xfa[\\x9a\\x87Uf@k\\x8b_\\xf4\\xb8\\xe0\\x1f\\xf0\\x8d\\xff\\x00\\xabbz\\xdf/\\x83>\\xc9\\x07\\x9f=\\xbf\\xbd\\xf9\\xbfA!q\\xd7i-q\\'`\\x90\\x1a\\xd6\\x83\\xb3_\\xf5\\xd8\\xae\\xc4\\x0e2N\\xba\\xff\\x00\\xdf1\\xe4\\x99\\x96(\\x81\\xa5\\x02+\\xb7\\xf3\\x7f\\xf4\\x9b\\'\"\\xcf\\xb1\\x9cp\\xf7\\xcb\\x1e\\x1d\\xb7q-\\x97\\x7f\\x85o\\xe7z\\x8fw\\xbf\\xfd\\x7fK\\'\\xd8\\x031\\xdb\\xb6\\x08xyv\\xd9\\xb2>\\x83l}\\xcf\\xdd\\xbd\\xafg\\xf3~\\xdd\\x9f\\xc8@{\\xde\\xc1\\xe9m\\x05\\xac>g\\xda\\x7fy\\xdf\\xca\\xde\\xacSs\\x1c\\xc6R\\xeaF\\xe6\\x81X\\xb4\\x1e\\xc3\\xe8\\xfb?{`\\xdb\\xb9>\\x81\"\\x03\\xe5\\x9f\\xcd\\xf5\\xff\\x00\\xa4\\xc62J\"Y%\\xfc\\xe6:\\x18\\xf4\\xf5G\\x82Q\\x97\\xefC\\x82_3z\\xb1\\xebRrv\\xbd\\xd4\\xd5Skx\\x02G\\xb0;c\\x86\\xc7\\xefn\\xf7\\xb7\\xf3\\xab\\xfd\\x1a\\xcb\\xa7\\xd6\\x0ec\\x19\\xf4a\\xcekN\\x80\\x1e\\xe5\\xaa\\xe5\\x16\\x9a\\xdc\\xe6j\\xcaL;\\xd3\\xab@\\xe2>\\x83$\\x90\\xf6mm\\xbf\\xe0\\xd5V\\x87T}\\xad\\xfd&\\xce\\x01:\\x87\\x0f\\xfc\\x87\\xd3bQ\\x89\\xc726\\x88 \\xd8\\xbd\\x7f{\\xfc/J2\\xe5\\xf7q\\xc0\\xd82\\xa9\\x0e\\x13^\\x9e/\\x97\\xfb\\xb0\\xf5\\xfe\\x97\\xfa\\xc66\\xd3\\x95l\\x17\\x02\\xe6\\x17\\x90\\xdd\\xce\\x80]\\x03\\xf7\\x8e\\xdfk\\x10n\\xa2\\xcfZ\\xa68\\x174\\x98?\\x08\\x10\\x7f7\\xf3]\\xfa7\\xad\\x1a\\x0bj\\x0eu\\xc3y\\xda\\x0bZ5\\xdb#\\xd4\\xfa/>\\xd6\\xbd\\xaa-\\x05\\xed\\xdc\\x1b\\x1b\\x9b\\xbc\\x00I\\xd0\\xc7\\xb4\\xee.F\\x18\\xa30\\x00;\\xfa\\xbf\\xad\\xc3\\xea[\\x97$\\xa1)q\\rG\\xa0\\x1f\\xd1\\xe3\\xf4~\\x93[\\x01\\xd9T\\x86\\xb3\\xd36\\x0bZ\\xf7\\xec \\x877f\\xae\\x82>\\x96\\xfa\\xff\\x001\\xcbTY\\x90\\xf6\\x8fHW\\x0f\\x1a;S\"9T\\x18\\xe6\\xd7ul{\\xb6\\x87=\\xc6\\xb0O\\xb1\\xad#\\xe8o>\\xed\\xfe\\xe5\\xa9\\x84\\xc6\\xd7Q`xxa\\xfd\\x18\\xe7Bw)\\xb1D\\x88\\xf0\\xd9\\xd3M\\xf5\\x05\\xa5\\xccJ<bT5\\xd7m$.NU\\xd7e\\xd7iiv\\xc7\\r\\x1c\\x00\\x10\\xaaf\\xbb!\\xeckK\\xf71\\xf0\\\\\\x0f$\\x9d\\xdb\\x7f\\xb3\\xb5\\x9b\\xd6\\x9fS\\xa7~c\\x9c\\x0c\\xb6\\x04\\xbb\\xe5\\xd9Rm\\x8d\\xc8u\\x8f\\xa8\\x07zPD\\xfd\\x1d%\\x9b]\\xfb\\xcd\\xf4\\xd8\\xa8\\x10%\\x94\\xc2\\x87\\x16\\xbcF\\xb5\\xd9\\xdb\\x07$9X\\xces\\x90\\x81\\xe1\\x18\\xe0dxxdu\\xe1\\x87\\xee\\xfe\\x83\\x9fc5h\\x1a\\x99\\x99\\x1er\\xe7+-a5\\xec\\x80\\x1a\\xcd\\xa0\\x90F\\x9bH~\\xe7\\x7f\\'\\xf7\\xd3\\xdc\\x1a\\x1c\\xd2\\xc3!\\x84\\x078D\\xea6\\xf0\\xf4J\\xd8\\x1fQ\\x80M\\xcc \\xc1\\xe3C\\xbbq\\x8f\\xddk\\x7fH\\xa6\\xc7\\n\\'\\xad\\x8e\\x9dZ9\\'tv\\xd7\\xafF\\xb9p\\xd3h\\x07Ht\\xf1\\x11\\xa3\\xa4\"U[\\x9b\\xedh.ik\\x98\\xc8\\x89\\xd4\\x18\\x9f\\xeb\\xaby\\r\\xa2\\xa0\\x1eCE\\xd6m\\x96\\xb4jg\\xe9\\x1f\\xe4\\xfd\\x15\\x1cv\\x0b\\xb2\\x19]\\xb6za\\xc1\\xc1\\xc6\\x08\\x00\\x16\\xbb\\xdc6nw\\xfd\\x14rc\\xa1;7 \\rW\\xe0\\xbf\\x97\\xc9\\xc5\\x93\\x11\\x03\\x86\\x12\\x94l\\x9f\\xefz\\xbf\\xf4v\\xaeeE\\xf6o\\r\"\\x97ns\\x1d\\x06\\x0e\\xdd}\\xafs\\x7f;\\xf7\\x13\\xd1\\xb5\\xb4V\\x1e76,!\\xb3\\x12If\\xe6\\x8f\\xe5\\'\\xb2\\xe7\\xb6\\xb6\\xd4\\xe7X+\\x00\\xc3\\x1b\\x1bw;\\xd8\\xe7l\\xf6\\xb1\\xa8>\\x9b\\xc6#]\\xee\\xf4\\xf7:\\x01\\x07l\\x88\\xfa\\'\\xfe\\xabb\\x87HKk\\xe2\\x1f\\xfa\\x13)\\x07 \\xb0k\\x84\\xf1\\x7f[\\xf7}?\\xe3\\xba\\x1d>\\xc9\\xc9\\x16W\\xeckC\\x1d\\xb5\\x90\\t\\x05\\xfd\\xff\\x00\\xaa\\xe5\\x1c\\xdff~?\\xbbW<;M 87w\\xd1\\xfd\\xe7oQ\\xc2\\xa4W\\xb6\\xefq\\x87\\xd6\\x1d\\x00\\x81\\x05\\xc1\\xbe\\xe3\\xff\\x00Q\\xefD\\xeaL#;\\x08\\xc8\\xf7\\x96\\xf1\\xa9\\x92~\\x83\\xbf\\xcePd\\xf9\\xf5\\x1bq\\x1d\\xbf\\xa9\\x08\\xba\\x18O\\xf4}\\x0e\\xb2\\xf6\\x86\\x87\\xfd~L\\x9f\\xe3~\\xe7\\xf5\\x1f\\xff\\xd3\\xe0\\x9c\\xc2\\xcb\\x88\\xb0\\x93`\\xfa`\\x7f[\\xdd\\xeeo\\xef9@\\x00\\xc0\\x0e\\xb29\\r\\xd0D\\xee\\xee\\xaf?\\x19\\x8f\\xcau\\x92\\xf6\\x87\\xce\\xd0\\xc8\\x90d\\xb1\\xbe\\xff\\x00g\\xb7r\\r\\xb4>\\xaa\\x9c^H\\x12Y\\xa0\\x07\\xe8\\xc9\\xd1h\\x10\\x01\\xa3\\xf3\\x7f\\xdfz\\x9a\\xe2\\x1212\\x17\\xc1\\xff\\x00y(F_\\xf4\\xd6\\x96=\\xfb\\x83\\'qh/\\x92=\\xda\\x17\\xb3h?\\x9c\\xdf\\xf0\\x8cGf;\\x9c\\xe0\\xd0\\xf6\\x87m\\x0f\\x0e.\\x981\\xbb\\xf3w\\x7fS\\xda\\xabS\\xe9\\xef%\\xf5\\xb9\\xc5\\xad\\x8a\\xc3\\x1c\\x1a7O\\xd3\\xb7x\\xb3w\\xb5Xm\\xcf}u4\\xd6\\xca\\xbd\\x13\\x1b\\xabl\\x12\\xe2~\\x95\\xcf\\xfc\\xfb?5\\xaaL`_\\xec\\x1aGF\\xbeC\"+\\xed\\x91\\xd6^\\xae\\xbf\\xca)\\x01el\\x16\\x98\\x12H%\\xc4\\x8d\\xae\\x80\\x07\\xee\\xfb\\xbf5+\\x1d\\xbbw\\xa5\\xf4\\x1c\\x1b$~pi\\xff\\x00\\xbf\\xedR\\xb1\\xfa\\xd8\\x1b\\xed \\x17\\x07\\x03\\xba\\\\}\\xe4\\xec;\\xb6\\xed\\x86\\xfd?f\\xc5]\\xcfn\\xc2\\\\\\xe0\"\\xb0@\\xef\\xc2v]<\\x85\\xdf\\xe8\\xeb\\\\%\\x18\\x01#\\xc6\\\\5~\\xad8\\xb8\\xe2\\xd90Ya\\x1fD\\xb5\\xcek@\\xe0F\\xda\\xcbG\\xf5\\x1a\\x93\\x1c\\xc3Q\\xb0;h\\x15O<\\t!\\xbb\\x7f\\x93\\xed\\xf6\\xa3T\\xda\\xdc\\xc7\\xcd\\x8ck+k\\xa2H\\x02\\x07\\xa9\\xb5\\xa1\\xff\\x00G\\xfc\\x1e\\xdfz\\xa9\\x91\\xd5\\xa9\\xab\\x1a\\xbfD\\xef\\xb8\\xd6\\xde}\\xc0\\x1f\\xa3\\xbd\\xc7\\xfd\\x7f\\xe2\\xd4P\\x94aD\\xca\\xb4\\xf3\\xbe\\t\\xe4g\\xcd\\x19\\xcf\\x8b\\x86\\x17\\xd4\\x9f\\x90G\\xdc\\xc5\\xcb\\xfe\\x8cb\\xd0\\xea.c\\xdd.v\\xeb\\x1a\\xc0\\xdd\\x83]\\xbf\\xbc\\x7f\\xae\\xf4:\\xad\\xba\\x9d\\xbb.\\x86\\xb9\\xbb\\x9aH2<\\x1aaF\\xb8}\\x85\\xaf;X\\xefq\\x812\\x7f5\\xee\\xda\\xa4@,,\\x80Z\\t,\\x8d@\\x91\\xbb\\xfbU\\xa8\\x0c\\x8c\\xa4f\\r\\x1e\\x94}_U\\xd1\\x88\\x8cD\\x08\\xe2\\x1e#\\xd3\\xfe\\x0b\\x13u\\xd64\\xfa\\xb6\\x17V\\xdf\\xcc\\xd4\\x02c\\xe8\\xff\\x00+\\xfbH\\x989\\x03\\x1a\\xf7\\x92&\\xb7\\xb45\\xf1\\xc8\\x07\\x877\\xfbHO\\x9060\\x974\\xfb\\xa4\\x08\\x88\\x05\\xceo\\xf2\\xb6\\xfe\\x7f\\xb5D\\x12\\xd1\\xb6\\xc1\\x1bx#_\\xddwoj\\x84\\x13\\x19q\\r\\xc1\\xb6\\xc9\\xa9\\xc4B[\\x11\\xc3\\xfd\\xdf\\xfd\\x17\\xd2\\xe8\\xd7@?\\xa4;\\x9e\\xdd_\\xb9\\xd0A \\x7f#\\xda\\xef`\\xde\\x86\\xf2\\xd1F\\xd1!\\xaepkZ@\\xd4\\x02\\xe1\\xee|\\xb5\\xfbw7\\xf9\\xb5\\x0ckE\\'e\\xcd!\\xb6\\xb4\\xb9\\x96j\\x048mw#\\xde\\xcd6\\xefb>C\\x83\\x03CC}\\xc5\\x84\\x98\\x98\\x89![\\xe3\\x8c\\xb1\\x8e\\x1a\\xba\\xf5F\\xfdMQ\\x8eQ\\x99\\xe3\\xba\\xba\\x8c\\xab\\xd3\\xfaJ\\xb7hy0K\\xbb\\x03\\xafb\\xfe?7\\xdc\\xf4\\xf8\\x996\\xb2\\xe2\\xc6\\xc6\\xe7\\x10\\xc3\\xeci \\x10\\\\\\xfd\\x8e\\x7f\\xd1\\xfd\\xcd\\xff\\x00\\xce\"\\xd6\\xdfR\\xc6\\x029w\\xb8\\xc0k\\x8c\\x1eC\\xca\\xadV;M\\xa6\\xb2\\xd9\\x92v\\x8f\\x1f\\xfa\\xa4\\xd9Fb2\\x9d\\xfc\\xd1\\xbf\\xf9\\x8c\\xb8\\xe5\\x8f\\xde\\xc5\\x8f\\x84\\x9fo$b|\\x7f[\\xc3\\xc3\\xc5$\\x0e7\\xd8\\xef\\xd2\\xcc\\x9dC\\x9cy\\x00y\\xfd\\x15s\\x1d\\xe4\\xb4T\\xe1\\xa1;\\x98\\xe2I\\x00\\x1f\\xcd\\xd9;\\x7f5\\x02\\xba\\xda\\x1e\\xf6X\\xd2\\xc6\\x80K\\xc4I\\x01\\xbfH\\xfb\\xbf9\\x8a\\xde-f\\xbb\\x1e\\xd6:\\xbd\\x9b\\x89{\\xf9p`\\x96\\x96\\xfbM\\x9bw5\\xdfG\\xf7\\xd0\\x991\\x89 \\xf4?\\x92\\xb0DO,c ~h\\xff\\x00\\xd2\\xeb\\xc4\\x8b\\x19\\xd6\\x86=\\xf5\\xeb\\x17\\r\\xc1\\xc4\\x0e%\\xda\\xfe\\xeb\\xbe\\x86\\xcd\\xaa\\xef\\xd9\\xad\\xea\\x1dV\\xaa\\xea\"\\xdb\\\\\\xe1c\\x0c\\x11;YO\\xb4C\\x0b\\x9c\\xed\\xbf\\x99\\xb1S\\xc6\\x10\\xe6\\r\\xdb\\x0f\\xa8\\x1d\\xa9\\x87@\\xf7\\xeev\\xef\\xe49t\\xb8\\xe7\\x1cSY\\xa1\\xceu\\xb5\\xbd\\xda44mq-\\xad\\x96\\xfe\\x8f\\xd2\\xb1\\x8d}{m\\xb7\\xe8Y_\\xf8\\x17\\xfe\\x93b\\xab\\x96\\'\\x8c\\x11\\xa0\\x97\\x18\\xe2\\x03\\x8b\\xd5\\xc3\\xc5\\xea\\xff\\x00\\x01\\xd0\\xc1\\x90\\x0e\\\\\\xc4\\x8e9@\\xe2\\xb8H\\xf0pC\\x8a\\\\<\\x12\\xff\\x00k\\xc7\\xfa\\xbf\\xfb\\xb7\\xff\\xd4\\xe4rl\\xb1\\x99A\\xb3\\x1b\\xacv\\xe9\\x82gs\\x9d\\r\\xfe\\xdab\\xcb\\ru\\xbd\\xc2_s\\xc8l\\xf7\\xd1\\xdfHG\\xf2\\x94/\\xfe\\x95_?M\\xff\\x00G\\xe8\\xfd\\'}\\x0f\\xe5\\xabM\\xe7\\x03\\xe9\\xf2\\xdf\\xa3\\xff\\x00\\x17\\xff\\x00i\\xbf\\xd7\\xf9\\xc5\\xa7\\x96\\xbd\\xd8\\xf7\\xe2\\x1e\\x7f\\xcd\\xc9\\xad\\x87\\x8b\\xee\\xd9\\xae\\xf8=\\xb3\\xc1\\xfb\\x9c\\x7fx\\xc3mSS\\x06w\\xa6\\xc83\\xc3[\\'\\xf3H\\xdb\\xff\\x00\\x98\\xa6\\xad\\xa1\\xd60\\x07\\x06\\xc1/s\\x9c4\\x8fp\\xff\\x00\\xc8\\xa9\\xb3\\xfeQ?\\xf1\\x8f\\xe3\\xe8\\xfer\\x06\\x1f\\xf3u\\x7f\\xc5\\x8f\\xfa\\xa5\\'\\xe9\\n\\xaa\\xe3;5c\\xf2\\x9d\\xef\\x82;\\xff\\x00\\xe8L\\xb3\\xae-}\\x955\\xc1\\xc3kF\\xe0u\\x1e\\xc0\\xf6\\xe9\\xf9\\x9e\\xef\\xccTZ\\xd7\\xdc\\xf2\\xc8&\\xd7\\x06\\xfb\\xb5\\x86\\x8e\\xfb\\xbf\\x90\\xefj\\xbf\\xff\\x00k,\\xfa_E\\xbfG\\xe9\\x7f6\\xdf\\xfa)\\xb1?\\x9e?\\xce}!\\xc7\\xf3\\x7f\\x99\\xfe\\xb5\\x7f\\xd6UNc\\x8f\\x8e\\\\W\\xc3\\xc4\\x7f\\xf4\\x16\\xff\\x00/\\xed{p\\xe0\\xae.\\x18\\xdf\\xd9\\xfa\\xce/\\xebq|\\xbc\\rL\\xd6\\xd5\\xbd\\x8c\\xaaZ\\x1f^\\xe2\\x08\\x88p63\\xdd\\xf4\\x9d\\xeeo\\xbd\\x05\\xcc{\\xd8\\xcd\\xad\\x04\\xd8\\xd3\\xb2{{\\x8b\\xb6\\xb7\\x9f\\xa5\\xfc\\xa5k?\\xfaW\\xdf\\xf1\\xfaV}\\x1f\\xe5 v\\x1c\\xff\\x00c\\xe9\\xff\\x00g\\xf9\\x7f\\xbc\\xa1\\x9dq\\x9f\\xefN\\xab\\xf7}[2\\xc6\\xfd\\xa3_\\xb9\\x8e\\xff\\x00\\xbd\\xfa\\xaf\\x99vad\\x07\\xb0@.kZ\\x7fFF\\xf0\\x07\\x07a\\xfa^\\x9ak\\x03\\xf7X\\xdb\\x9b.q\\x1e\\xf1 \\x87N\\xaeo\\xb4\\xeek\\xfd\\xeb\\xa3\\xe9\\xff\\x00C\\xfc\\x17\\xf4q\\xf4\\xbf\\xa5s\\xdf\\xfe\\x07\\xf7\\x17=\\x7f\\xf3\\xdd\\xf9\\x7f\\xd1\\xfa\\\\~o\\xfc\\'\\xef\\xa7zh\\xf0\\x83\\xe1\\xe5]X\\x8d\\\\u\\xb3^\\xbd8}W\\xfa\\x1c2\\x92\\x12\\xd0\\xd9a$\\x07hC\\xb4tN\\xe9\\x97\\xff\\x00\\xdfSV7=\\xad\\xd3\\x82g\\xb7\\x1e\\xd5+~\\x8b8\\xfa?>;\\x7f/\\xf7\\xff\\x00\\x97\\xea#\\x8eY\\xfc\\xdf\\xf8.~\\x8f#\\xf9\\xff\\x00\\xf5\\xfei0\\xf8\\xb2\\xc7\\x87\\x8bO\\xf9\\xbf\\xcb\\x89\\x966#\\xae\\xde\\xcb-\\xdc\\xdc`\\x1cIt6e\\xad\\xf4\\xdb\\xfd\\x9f\\xce]\\x05=#\\xa5]F\\xca\\x1f\\x0ec\\x83\\x88t\\x17\\x1e\\xdbu\\xfd#\\xbf\\xef\\x8a\\x87L\\xff\\x00\\x912?\\x9a\\xe4\\xfd\\x1ex?\\xce\\xff\\x00+\\xfe\\xe3\\x7f\\xc1\\xad\\x0c\\x0f\\xe9\\'\\xfe\\xb7\\xf4~\\x7fG\\xfd~\\x9f\\xa8\\xa1\\x9d\\xe9v\\xe8r\\xde\\xd7\\x04\\xb8xo\\xad\\xfc\\xfb\\xcb\\x8b\\xfa\\xe9k\\xfa\\xbd\\x87`\\xb6\\xf6\\x86\\x92\\xd8\\xd8\\xd9\\xda\\xed\\xc0nv\\x8e?\\xe6\\x7f\\xa4Ts\\xba=\\xb8\\x8dm\\x84\\xb0\\xd3`\\x97\\x96\\xba^\\xc9$\\xfa\\x8e\\x89s\\x1d\\xbb\\xde\\xf6-\\xaco\\xe7\\x7f;\\x83\\xcf\\xc7\\xba\\xa5\\x9d\\xfc\\xe9\\xfa|\\x1e?\\xef\\xa9\\xd8}\\xdfr<\\x17w\\xaf\\x17\\xc9\\xc3\\xfdt\\xf3_v\\xf6\\xa7\\xee\\x98p~\\x8f\\xb6#\\xefq\\xfe\\x8f\\xb3\\xc3\\xfaNE\\xce\\xb1\\xd6\\xb8l\\xd8\\xd7\\x02=\\xa7\\xe9\\x11\\xed\\xef\\xf9\\x8eO\\xd3\\xaei\\xf5X\\xff\\x00`p\\xb8\\xb04\\x1d\\xces\\xa3\\xda\\xebD~\\x8d\\x9bw\\xfb\\x93\\x9f\\xa5_\\xc3\\xbf=\\xbf\\x9b\\xff\\x00\\x82\\xff\\x00F\\x85\\xd2\\xbf\\xa4\\x9f\\xeb?\\x8exr\\xb9\\x9a\\xbd\\xbf\\x0e\\x1e\\xbf\\xddq\\xf9k\\xfb\\xce\\xbb\\xf1\\x8f\\x97\\x8b\\xfc\\xe7\\xfd\\x14#\\\\\\x96\\x19\\x1b\\xbd\\x87Q\"v\\xd5\\xf9\\xabJ\\xa0Et>\\xcbL\\xba\\xc2.\\x1a\\x80\\xe9|\\xfb\\xfd2\\xdd\\xdb\\xbe\\x87\\xfc_\\xf5\\x15<\\x7f\\xa4y\\xfat\\xfd\\x0e~\\x80\\xe1_?\\xcd\\x1f\\xa5\\xfc\\xe0\\xfa?C\\xfc7\\xfa\\xd5\\xfc\\x85[\\x98\\xe1\\xe0\\x85\\xd6\\xdf_\\x95\\xd0\\xe4\\xfd\\xcf{=q\\x01\\xc5/\\x97X\\xff\\x009\\x1b\\xba\\xf5?\\xff\\xd9', 1057: b'\\x00\\x00\\x00\\x01\\x01\\x00\\x00\\x00\\x0f\\x00A\\x00d\\x00o\\x00b\\x00e\\x00 \\x00P\\x00h\\x00o\\x00t\\x00o\\x00s\\x00h\\x00o\\x00p\\x00\\x00\\x00\\x14\\x00A\\x00d\\x00o\\x00b\\x00e\\x00 \\x00P\\x00h\\x00o\\x00t\\x00o\\x00s\\x00h\\x00o\\x00p\\x00 \\x002\\x000\\x002\\x004\\x00\\x00\\x00\\x01', 1030: b'\\x00\\x08\\x01\\x01\\x00\\x01\\x01'}",
+      "xmp": "b'<?xpacket begin=\"\\xef\\xbb\\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.dba3da3, 2023/12/13-05:06:49        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:Iptc4xmpExt=\"http://iptc.org/std/Iptc4xmpExt/2008-02-29/\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\" Iptc4xmpExt:DigImageGUID=\"6db72d8f-cff7-4407-acce-fdc7597715df\" Iptc4xmpExt:DigitalSourceType=\"http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia\" xmp:CreateDate=\"2024-04-11T17:42:43-04:00\" xmp:ModifyDate=\"2024-06-11T11:19:17-04:00\" xmp:MetadataDate=\"2024-06-11T11:19:17-04:00\" dc:format=\"image/jpeg\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:b9817bd1-4dbe-6b4a-88a3-6d87a0a5f5a7\" xmpMM:DocumentID=\"adobe:docid:photoshop:fc4acb13-54c6-e043-947d-d824fac37fcf\" xmpMM:OriginalDocumentID=\"xmp.did:86fea43f-eed0-6d45-aaf9-6d8e3c3da853\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"saved\" stEvt:instanceID=\"xmp.iid:86fea43f-eed0-6d45-aaf9-6d8e3c3da853\" stEvt:when=\"2024-06-11T11:19:17-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 25.7 (Windows)\" stEvt:changed=\"/\"/> <rdf:li stEvt:action=\"converted\" stEvt:parameters=\"from image/png to image/jpeg\"/> <rdf:li stEvt:action=\"derived\" stEvt:parameters=\"converted from image/png to image/jpeg\"/> <rdf:li stEvt:action=\"saved\" stEvt:instanceID=\"xmp.iid:b9817bd1-4dbe-6b4a-88a3-6d87a0a5f5a7\" stEvt:when=\"2024-06-11T11:19:17-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 25.7 (Windows)\" stEvt:changed=\"/\"/> </rdf:Seq> </xmpMM:History> <xmpMM:DerivedFrom stRef:instanceID=\"xmp.iid:86fea43f-eed0-6d45-aaf9-6d8e3c3da853\" stRef:documentID=\"xmp.did:86fea43f-eed0-6d45-aaf9-6d8e3c3da853\" stRef:originalDocumentID=\"xmp.did:86fea43f-eed0-6d45-aaf9-6d8e3c3da853\"/> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end=\"w\"?>'",
+      "adobe": "100",
+      "adobe_transform": "1",
+      "progressive": "1",
+      "progression": "1",
+      "dpi": "(300.0, 300.0)"
+    },
+    "description": "3840x2160 JPEG wallpaper widescreen primarily black (6.68 MB)",
+    "last_scanned": "2025-06-10T13:53:04.980047",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/cyberpunk-3840x2160-11-20240919.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/cyberpunk-3840x2160-11-20240919.png",
+    "name": "cyberpunk-3840x2160-11-20240919.png",
+    "file_size": 7510948,
+    "file_size_mb": 7.16,
+    "created_date": "2025-06-10T13:53:02.495296",
+    "modified_date": "2025-06-10T13:53:02.495296",
+    "file_extension": ".png",
+    "file_hash": "3056d5eadddcf654c3750aeceaf50c2b",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGBA",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          11,
+          20,
+          41
+        ],
+        "hex": "#0b1429",
+        "name": "black",
+        "percentage": 0.21
+      },
+      {
+        "rgb": [
+          11,
+          19,
+          40
+        ],
+        "hex": "#0b1328",
+        "name": "black",
+        "percentage": 0.17
+      },
+      {
+        "rgb": [
+          10,
+          18,
+          39
+        ],
+        "hex": "#0a1227",
+        "name": "black",
+        "percentage": 0.13
+      },
+      {
+        "rgb": [
+          11,
+          21,
+          42
+        ],
+        "hex": "#0b152a",
+        "name": "black",
+        "percentage": 0.11
+      },
+      {
+        "rgb": [
+          13,
+          18,
+          39
+        ],
+        "hex": "#0d1227",
+        "name": "black",
+        "percentage": 0.1
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        11,
+        20,
+        41
+      ],
+      "hex": "#0b1429",
+      "name": "black",
+      "percentage": 0.21
+    },
+    "color_palette": [
+      "#0b1429",
+      "#0b1328",
+      "#0a1227",
+      "#0b152a",
+      "#0d1227"
+    ],
+    "image_info": {
+      "dpi": "(95.9866, 95.9866)"
+    },
+    "description": "3840x2160 PNG wallpaper widescreen primarily black (7.16 MB)",
+    "last_scanned": "2025-06-10T13:53:05.319044",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/Screenshot_299.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/Screenshot_299.png",
+    "name": "Screenshot_299.png",
+    "file_size": 175159,
+    "file_size_mb": 0.17,
+    "created_date": "2025-06-10T13:53:02.459296",
+    "modified_date": "2025-06-10T13:53:02.459296",
+    "file_extension": ".png",
+    "file_hash": "50bb5ea0b2948203512a63760cee3258",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "PNG",
+    "mode": "RGBA",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000",
+        "name": "black",
+        "percentage": 85.43
+      },
+      {
+        "rgb": [
+          255,
+          27,
+          27
+        ],
+        "hex": "#ff1b1b",
+        "name": "red",
+        "percentage": 0.4
+      },
+      {
+        "rgb": [
+          255,
+          26,
+          26
+        ],
+        "hex": "#ff1a1a",
+        "name": "red",
+        "percentage": 0.37
+      },
+      {
+        "rgb": [
+          1,
+          0,
+          0
+        ],
+        "hex": "#010000",
+        "name": "black",
+        "percentage": 0.19
+      },
+      {
+        "rgb": [
+          2,
+          0,
+          0
+        ],
+        "hex": "#020000",
+        "name": "black",
+        "percentage": 0.16
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "name": "black",
+      "percentage": 85.43
+    },
+    "color_palette": [
+      "#000000",
+      "#ff1b1b",
+      "#ff1a1a",
+      "#010000",
+      "#020000"
+    ],
+    "image_info": {
+      "srgb": "0",
+      "gamma": "0.45455",
+      "exif": "b'Exif\\x00\\x00MM\\x00*\\x00\\x00\\x00\\x08\\x00\\x00\\x00\\x00\\x00\\x00'"
+    },
+    "description": "1920x1080 PNG wallpaper widescreen primarily black (0.17 MB)",
+    "last_scanned": "2025-06-10T13:53:05.374008",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/satellite.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/satellite.png",
+    "name": "satellite.png",
+    "file_size": 470113,
+    "file_size_mb": 0.45,
+    "created_date": "2025-06-10T13:53:02.573297",
+    "modified_date": "2025-06-10T13:53:02.573297",
+    "file_extension": ".png",
+    "file_hash": "00e73bbd34b7fe38541a486aafad1f5f",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          23,
+          23,
+          36
+        ],
+        "hex": "#171724",
+        "name": "black",
+        "percentage": 89.13
+      },
+      {
+        "rgb": [
+          24,
+          24,
+          37
+        ],
+        "hex": "#181825",
+        "name": "black",
+        "percentage": 0.85
+      },
+      {
+        "rgb": [
+          22,
+          22,
+          35
+        ],
+        "hex": "#161623",
+        "name": "black",
+        "percentage": 0.48
+      },
+      {
+        "rgb": [
+          25,
+          25,
+          38
+        ],
+        "hex": "#191926",
+        "name": "black",
+        "percentage": 0.4
+      },
+      {
+        "rgb": [
+          24,
+          24,
+          38
+        ],
+        "hex": "#181826",
+        "name": "black",
+        "percentage": 0.18
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        23,
+        23,
+        36
+      ],
+      "hex": "#171724",
+      "name": "black",
+      "percentage": 89.13
+    },
+    "color_palette": [
+      "#171724",
+      "#181825",
+      "#161623",
+      "#191926",
+      "#181826"
+    ],
+    "description": "3840x2160 PNG wallpaper widescreen primarily black (0.45 MB)",
+    "last_scanned": "2025-06-10T13:53:05.422569",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/hollow-knight.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/hollow-knight.png",
+    "name": "hollow-knight.png",
+    "file_size": 2828190,
+    "file_size_mb": 2.7,
+    "created_date": "2025-06-10T13:53:02.537297",
+    "modified_date": "2025-06-10T13:53:02.537297",
+    "file_extension": ".png",
+    "file_hash": "063856f753536f94642131d130da9184",
+    "width": 2908,
+    "height": 1500,
+    "aspect_ratio": 1.94,
+    "resolution": "2908x1500",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          11,
+          15,
+          17
+        ],
+        "hex": "#0b0f11",
+        "name": "black",
+        "percentage": 16.2
+      },
+      {
+        "rgb": [
+          11,
+          16,
+          18
+        ],
+        "hex": "#0b1012",
+        "name": "black",
+        "percentage": 7.26
+      },
+      {
+        "rgb": [
+          11,
+          16,
+          19
+        ],
+        "hex": "#0b1013",
+        "name": "black",
+        "percentage": 3.86
+      },
+      {
+        "rgb": [
+          11,
+          17,
+          20
+        ],
+        "hex": "#0b1114",
+        "name": "black",
+        "percentage": 3.14
+      },
+      {
+        "rgb": [
+          11,
+          17,
+          19
+        ],
+        "hex": "#0b1113",
+        "name": "black",
+        "percentage": 3.13
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        11,
+        15,
+        17
+      ],
+      "hex": "#0b0f11",
+      "name": "black",
+      "percentage": 16.2
+    },
+    "color_palette": [
+      "#0b0f11",
+      "#0b1012",
+      "#0b1013",
+      "#0b1114",
+      "#0b1113"
+    ],
+    "description": "2908x1500 PNG wallpaper primarily black (2.7 MB)",
+    "last_scanned": "2025-06-10T13:53:05.495305",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/hollow-knight.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/hollow-knight.jpg",
+    "name": "hollow-knight.jpg",
+    "file_size": 3205728,
+    "file_size_mb": 3.06,
+    "created_date": "2025-06-10T13:53:02.533297",
+    "modified_date": "2025-06-10T13:53:02.533297",
+    "file_extension": ".jpg",
+    "file_hash": "8b984eb95dab9a526001219c87bd48be",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          18,
+          19,
+          47
+        ],
+        "hex": "#12132f",
+        "name": "black",
+        "percentage": 0.35
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff",
+        "name": "white",
+        "percentage": 0.29
+      },
+      {
+        "rgb": [
+          18,
+          22,
+          58
+        ],
+        "hex": "#12163a",
+        "name": "blue",
+        "percentage": 0.08
+      },
+      {
+        "rgb": [
+          23,
+          27,
+          74
+        ],
+        "hex": "#171b4a",
+        "name": "blue",
+        "percentage": 0.08
+      },
+      {
+        "rgb": [
+          18,
+          19,
+          46
+        ],
+        "hex": "#12132e",
+        "name": "black",
+        "percentage": 0.07
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        18,
+        19,
+        47
+      ],
+      "hex": "#12132f",
+      "name": "black",
+      "percentage": 0.35
+    },
+    "color_palette": [
+      "#12132f",
+      "#ffffff",
+      "#12163a",
+      "#171b4a",
+      "#12132e"
+    ],
+    "exif": {
+      "Software": "Adobe Photoshop 25.0 (Macintosh)",
+      "Artist": "https://wallpapers-clan.com/"
+    },
+    "image_info": {
+      "exif": "b'Exif\\x00\\x00MM\\x00*\\x00\\x00\\x00\\x08\\x00\\x02\\x011\\x00\\x02\\x00\\x00\\x00!\\x00\\x00\\x00&\\x01;\\x00\\x02\\x00\\x00\\x00\\x1d\\x00\\x00\\x00H\\x00\\x00\\x00\\x00Adobe Photoshop 25.0 (Macintosh)\\x00\\x00https://wallpapers-clan.com/\\x00\\x00'",
+      "xmp": "b'<?xpacket begin=\"\\xef\\xbb\\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 7.1-c000 79.9ccc4de93, 2022/03/14-14:07:22        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:xmpRights=\"http://ns.adobe.com/xap/1.0/rights/\" photoshop:AuthorsPosition=\"https://wallpapers-clan.com/\" xmp:CreatorTool=\"Adobe Photoshop 25.0 (Macintosh)\" xmpRights:Marked=\"True\" xmpRights:WebStatement=\"https://wallpapers-clan.com/\"> <dc:creator> <rdf:Seq> <rdf:li>https://wallpapers-clan.com/</rdf:li> </rdf:Seq> </dc:creator> <dc:title> <rdf:Alt> <rdf:li xml:lang=\"x-default\">Desktop Wallpaper 4K</rdf:li> </rdf:Alt> </dc:title> </rdf:Description> </rdf:RDF> </x:xmpmeta>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xpacket end=\"w\"?>'",
+      "photoshop": "{1028: b'\\x1c\\x01Z\\x00\\x03\\x1b%G\\x1c\\x02\\x00\\x00\\x02\\x00\\x04\\x1c\\x02\\x05\\x00\\x14Desktop Wallpaper 4K\\x1c\\x02P\\x00\\x1chttps://wallpapers-clan.com/\\x1c\\x02U\\x00\\x1chttps://wallpapers-clan.com/', 1034: b'\\x01', 1035: b'https://wallpapers-clan.com/', 1061: b'b\\xfe\\xe3\\xb0\\xde_\\xfa\\xdc\\x8b\\xf1\\xbe{\\x82\\x07\\xb3h'}",
+      "adobe": "100",
+      "adobe_transform": "1",
+      "dpi": "(72, 72)"
+    },
+    "description": "3840x2160 JPEG wallpaper widescreen primarily black (3.06 MB)",
+    "last_scanned": "2025-06-10T13:53:05.576564",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/fox.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/fox.png",
+    "name": "fox.png",
+    "file_size": 362123,
+    "file_size_mb": 0.35,
+    "created_date": "2025-06-10T13:53:02.529297",
+    "modified_date": "2025-06-10T13:53:02.529297",
+    "file_extension": ".png",
+    "file_hash": "06c234c8614b7f6f5ac2fb946873c751",
+    "width": 1280,
+    "height": 735,
+    "aspect_ratio": 1.74,
+    "resolution": "1280x735",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          20,
+          46,
+          66
+        ],
+        "hex": "#142e42",
+        "name": "cyan",
+        "percentage": 44.26
+      },
+      {
+        "rgb": [
+          20,
+          46,
+          64
+        ],
+        "hex": "#142e40",
+        "name": "cyan",
+        "percentage": 8.12
+      },
+      {
+        "rgb": [
+          255,
+          152,
+          63
+        ],
+        "hex": "#ff983f",
+        "name": "orange",
+        "percentage": 2.81
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff",
+        "name": "white",
+        "percentage": 2.15
+      },
+      {
+        "rgb": [
+          22,
+          47,
+          67
+        ],
+        "hex": "#162f43",
+        "name": "cyan",
+        "percentage": 1.48
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        20,
+        46,
+        66
+      ],
+      "hex": "#142e42",
+      "name": "cyan",
+      "percentage": 44.26
+    },
+    "color_palette": [
+      "#142e42",
+      "#142e40",
+      "#ff983f",
+      "#ffffff",
+      "#162f43"
+    ],
+    "description": "1280x735 PNG wallpaper widescreen primarily cyan (0.35 MB)",
+    "last_scanned": "2025-06-10T13:53:05.596577",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/mystic-cave-expedition.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/mystic-cave-expedition.jpg",
+    "name": "mystic-cave-expedition.jpg",
+    "file_size": 2088960,
+    "file_size_mb": 1.99,
+    "created_date": "2025-06-10T13:53:02.552297",
+    "modified_date": "2025-06-10T13:53:02.552297",
+    "file_extension": ".jpg",
+    "file_hash": "267022a1f8568213e5ec1a3dc08b9f9a",
+    "width": 7680,
+    "height": 4320,
+    "aspect_ratio": 1.78,
+    "resolution": "7680x4320",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          23,
+          21,
+          26
+        ],
+        "hex": "#17151a",
+        "name": "black",
+        "percentage": 4.99
+      },
+      {
+        "rgb": [
+          22,
+          20,
+          25
+        ],
+        "hex": "#161419",
+        "name": "black",
+        "percentage": 4.62
+      },
+      {
+        "rgb": [
+          22,
+          20,
+          23
+        ],
+        "hex": "#161417",
+        "name": "black",
+        "percentage": 2.63
+      },
+      {
+        "rgb": [
+          22,
+          20,
+          24
+        ],
+        "hex": "#161418",
+        "name": "black",
+        "percentage": 2.5
+      },
+      {
+        "rgb": [
+          23,
+          21,
+          25
+        ],
+        "hex": "#171519",
+        "name": "black",
+        "percentage": 1.63
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        23,
+        21,
+        26
+      ],
+      "hex": "#17151a",
+      "name": "black",
+      "percentage": 4.99
+    },
+    "color_palette": [
+      "#17151a",
+      "#161419",
+      "#161417",
+      "#161418",
+      "#171519"
+    ],
+    "image_info": {
+      "jfif": "257",
+      "jfif_version": "(1, 1)",
+      "jfif_unit": "0",
+      "jfif_density": "(1, 1)"
+    },
+    "description": "7680x4320 JPEG wallpaper widescreen primarily black (1.99 MB)",
+    "last_scanned": "2025-06-10T13:53:05.760785",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/MOSAIC-CYBERGIRL-262023.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/MOSAIC-CYBERGIRL-262023.png",
+    "name": "MOSAIC-CYBERGIRL-262023.png",
+    "file_size": 13122088,
+    "file_size_mb": 12.51,
+    "created_date": "2025-06-10T13:53:02.458296",
+    "modified_date": "2025-06-10T13:53:02.458296",
+    "file_extension": ".png",
+    "file_hash": "87f2f990d05cf118091e863fad2f1f5b",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGBA",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          160,
+          158,
+          0
+        ],
+        "hex": "#a09e00",
+        "name": "yellow",
+        "percentage": 0.57
+      },
+      {
+        "rgb": [
+          160,
+          159,
+          0
+        ],
+        "hex": "#a09f00",
+        "name": "yellow",
+        "percentage": 0.5
+      },
+      {
+        "rgb": [
+          160,
+          157,
+          0
+        ],
+        "hex": "#a09d00",
+        "name": "yellow",
+        "percentage": 0.46
+      },
+      {
+        "rgb": [
+          160,
+          156,
+          0
+        ],
+        "hex": "#a09c00",
+        "name": "yellow",
+        "percentage": 0.38
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          4
+        ],
+        "hex": "#000004",
+        "name": "black",
+        "percentage": 0.33
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        160,
+        158,
+        0
+      ],
+      "hex": "#a09e00",
+      "name": "yellow",
+      "percentage": 0.57
+    },
+    "color_palette": [
+      "#a09e00",
+      "#a09f00",
+      "#a09d00",
+      "#a09c00",
+      "#000004"
+    ],
+    "exif": {
+      "Software": "PhotoScape",
+      "ResolutionUnit": "2",
+      "ExifOffset": "102",
+      "XResolution": "96.0",
+      "YResolution": "96.0",
+      "ColorSpace": "1",
+      "ExifImageWidth": "3840",
+      "ExifImageHeight": "2160"
+    },
+    "image_info": {
+      "Raw profile type exif": "\nexif\n     150\n45786966000049492a000800000005001a010500010000004a0000001b01050001000000\n52000000280103000100000002000000310102000b0000005a0000006987040001000000\n66000000000000006000000001000000600000000100000050686f746f53636170650000\n030001a00300010000000100000002a0040001000000000f000003a00400010000007008\n000000000000\n",
+      "dpi": "(95.9866, 95.9866)"
+    },
+    "description": "3840x2160 PNG wallpaper widescreen primarily yellow (12.51 MB)",
+    "last_scanned": "2025-06-10T13:53:06.077789",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/bsod.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/bsod.png",
+    "name": "bsod.png",
+    "file_size": 64422,
+    "file_size_mb": 0.06,
+    "created_date": "2025-06-10T13:53:02.471296",
+    "modified_date": "2025-06-10T13:53:02.471296",
+    "file_extension": ".png",
+    "file_hash": "ae3efec7204d0cb5a2c303e26841ccea",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          28,
+          32,
+          33
+        ],
+        "hex": "#1c2021",
+        "name": "black",
+        "percentage": 84.75
+      },
+      {
+        "rgb": [
+          27,
+          31,
+          32
+        ],
+        "hex": "#1b1f20",
+        "name": "black",
+        "percentage": 2.08
+      },
+      {
+        "rgb": [
+          26,
+          30,
+          31
+        ],
+        "hex": "#1a1e1f",
+        "name": "black",
+        "percentage": 1.01
+      },
+      {
+        "rgb": [
+          25,
+          29,
+          30
+        ],
+        "hex": "#191d1e",
+        "name": "black",
+        "percentage": 0.53
+      },
+      {
+        "rgb": [
+          29,
+          33,
+          34
+        ],
+        "hex": "#1d2122",
+        "name": "black",
+        "percentage": 0.52
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        28,
+        32,
+        33
+      ],
+      "hex": "#1c2021",
+      "name": "black",
+      "percentage": 84.75
+    },
+    "color_palette": [
+      "#1c2021",
+      "#1b1f20",
+      "#1a1e1f",
+      "#191d1e",
+      "#1d2122"
+    ],
+    "description": "1920x1080 PNG wallpaper widescreen primarily black (0.06 MB)",
+    "last_scanned": "2025-06-10T13:53:06.094861",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/r17337gp57k71.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/r17337gp57k71.png",
+    "name": "r17337gp57k71.png",
+    "file_size": 3485618,
+    "file_size_mb": 3.32,
+    "created_date": "2025-06-10T13:53:02.569297",
+    "modified_date": "2025-06-10T13:53:02.569297",
+    "file_extension": ".png",
+    "file_hash": "50515491cfafc45b1d2097c357cf3d2b",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          2,
+          5,
+          19
+        ],
+        "hex": "#020513",
+        "name": "black",
+        "percentage": 4.75
+      },
+      {
+        "rgb": [
+          2,
+          6,
+          19
+        ],
+        "hex": "#020613",
+        "name": "black",
+        "percentage": 1.87
+      },
+      {
+        "rgb": [
+          2,
+          5,
+          18
+        ],
+        "hex": "#020512",
+        "name": "black",
+        "percentage": 1.68
+      },
+      {
+        "rgb": [
+          7,
+          6,
+          19
+        ],
+        "hex": "#070613",
+        "name": "black",
+        "percentage": 0.99
+      },
+      {
+        "rgb": [
+          1,
+          5,
+          19
+        ],
+        "hex": "#010513",
+        "name": "black",
+        "percentage": 0.73
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        2,
+        5,
+        19
+      ],
+      "hex": "#020513",
+      "name": "black",
+      "percentage": 4.75
+    },
+    "color_palette": [
+      "#020513",
+      "#020613",
+      "#020512",
+      "#070613",
+      "#010513"
+    ],
+    "description": "1920x1080 PNG wallpaper widescreen primarily black (3.32 MB)",
+    "last_scanned": "2025-06-10T13:53:06.153617",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp": {
+    "file_path": "/home/runner/work/walls/walls/sources/duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp",
+    "name": "duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp",
+    "file_size": 1056424,
+    "file_size_mb": 1.01,
+    "created_date": "2025-06-10T13:53:02.521297",
+    "modified_date": "2025-06-10T13:53:02.521297",
+    "file_extension": ".webp",
+    "file_hash": "24e54f8f3add022954890f2d9998e71c",
+    "width": 4968,
+    "height": 2796,
+    "aspect_ratio": 1.78,
+    "resolution": "4968x2796",
+    "format": "WEBP",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          22,
+          57,
+          68
+        ],
+        "hex": "#163944",
+        "name": "cyan",
+        "percentage": 0.44
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          192
+        ],
+        "hex": "#ffffc0",
+        "name": "yellow",
+        "percentage": 0.27
+      },
+      {
+        "rgb": [
+          21,
+          56,
+          67
+        ],
+        "hex": "#153843",
+        "name": "cyan",
+        "percentage": 0.27
+      },
+      {
+        "rgb": [
+          23,
+          53,
+          65
+        ],
+        "hex": "#173541",
+        "name": "cyan",
+        "percentage": 0.25
+      },
+      {
+        "rgb": [
+          29,
+          71,
+          80
+        ],
+        "hex": "#1d4750",
+        "name": "cyan",
+        "percentage": 0.23
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        22,
+        57,
+        68
+      ],
+      "hex": "#163944",
+      "name": "cyan",
+      "percentage": 0.44
+    },
+    "color_palette": [
+      "#163944",
+      "#ffffc0",
+      "#153843",
+      "#173541",
+      "#1d4750"
+    ],
+    "image_info": {
+      "loop": "1",
+      "background": "(255, 255, 255, 255)",
+      "timestamp": "0",
+      "duration": "0"
+    },
+    "description": "4968x2796 WEBP wallpaper widescreen primarily cyan (1.01 MB)",
+    "last_scanned": "2025-06-10T13:53:06.354051",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/night-forest-path.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/night-forest-path.png",
+    "name": "night-forest-path.png",
+    "file_size": 931903,
+    "file_size_mb": 0.89,
+    "created_date": "2025-06-10T13:53:02.553297",
+    "modified_date": "2025-06-10T13:53:02.553297",
+    "file_extension": ".png",
+    "file_hash": "9b25bf83de8d9b27daae589aa8aab3d4",
+    "width": 1303,
+    "height": 652,
+    "aspect_ratio": 2.0,
+    "resolution": "1303x652",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          0,
+          13,
+          42
+        ],
+        "hex": "#000d2a",
+        "name": "black",
+        "percentage": 0.96
+      },
+      {
+        "rgb": [
+          0,
+          12,
+          44
+        ],
+        "hex": "#000c2c",
+        "name": "black",
+        "percentage": 0.53
+      },
+      {
+        "rgb": [
+          0,
+          6,
+          30
+        ],
+        "hex": "#00061e",
+        "name": "black",
+        "percentage": 0.35
+      },
+      {
+        "rgb": [
+          0,
+          12,
+          43
+        ],
+        "hex": "#000c2b",
+        "name": "black",
+        "percentage": 0.34
+      },
+      {
+        "rgb": [
+          1,
+          16,
+          47
+        ],
+        "hex": "#01102f",
+        "name": "black",
+        "percentage": 0.33
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        0,
+        13,
+        42
+      ],
+      "hex": "#000d2a",
+      "name": "black",
+      "percentage": 0.96
+    },
+    "color_palette": [
+      "#000d2a",
+      "#000c2c",
+      "#00061e",
+      "#000c2b",
+      "#01102f"
+    ],
+    "description": "1303x652 PNG wallpaper primarily black (0.89 MB)",
+    "last_scanned": "2025-06-10T13:53:06.385962",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/coffee-shop.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/coffee-shop.png",
+    "name": "coffee-shop.png",
+    "file_size": 938062,
+    "file_size_mb": 0.89,
+    "created_date": "2025-06-10T13:53:02.475296",
+    "modified_date": "2025-06-10T13:53:02.475296",
+    "file_extension": ".png",
+    "file_hash": "74480c0ad3e3ef381c7e805e7ed87c4e",
+    "width": 1139,
+    "height": 640,
+    "aspect_ratio": 1.78,
+    "resolution": "1139x640",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          191,
+          182,
+          192
+        ],
+        "hex": "#bfb6c0",
+        "name": "light_gray",
+        "percentage": 0.52
+      },
+      {
+        "rgb": [
+          66,
+          71,
+          101
+        ],
+        "hex": "#424765",
+        "name": "blue",
+        "percentage": 0.48
+      },
+      {
+        "rgb": [
+          188,
+          165,
+          191
+        ],
+        "hex": "#bca5bf",
+        "name": "light_gray",
+        "percentage": 0.35
+      },
+      {
+        "rgb": [
+          190,
+          183,
+          198
+        ],
+        "hex": "#beb7c6",
+        "name": "light_gray",
+        "percentage": 0.34
+      },
+      {
+        "rgb": [
+          65,
+          70,
+          100
+        ],
+        "hex": "#414664",
+        "name": "blue",
+        "percentage": 0.31
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        191,
+        182,
+        192
+      ],
+      "hex": "#bfb6c0",
+      "name": "light_gray",
+      "percentage": 0.52
+    },
+    "color_palette": [
+      "#bfb6c0",
+      "#424765",
+      "#bca5bf",
+      "#beb7c6",
+      "#414664"
+    ],
+    "description": "1139x640 PNG wallpaper widescreen primarily light gray (0.89 MB)",
+    "last_scanned": "2025-06-10T13:53:06.412158",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/cyberpunk_051124 (13).png": {
+    "file_path": "/home/runner/work/walls/walls/sources/cyberpunk_051124 (13).png",
+    "name": "cyberpunk_051124 (13).png",
+    "file_size": 1547941,
+    "file_size_mb": 1.48,
+    "created_date": "2025-06-10T13:53:02.511296",
+    "modified_date": "2025-06-10T13:53:02.511296",
+    "file_extension": ".png",
+    "file_hash": "40b5aa7cdd1e0ce901d98bf497643476",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000",
+        "name": "black",
+        "percentage": 82.74
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          1
+        ],
+        "hex": "#000001",
+        "name": "black",
+        "percentage": 0.37
+      },
+      {
+        "rgb": [
+          1,
+          0,
+          0
+        ],
+        "hex": "#010000",
+        "name": "black",
+        "percentage": 0.29
+      },
+      {
+        "rgb": [
+          2,
+          0,
+          0
+        ],
+        "hex": "#020000",
+        "name": "black",
+        "percentage": 0.12
+      },
+      {
+        "rgb": [
+          3,
+          0,
+          0
+        ],
+        "hex": "#030000",
+        "name": "black",
+        "percentage": 0.1
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "name": "black",
+      "percentage": 82.74
+    },
+    "color_palette": [
+      "#000000",
+      "#000001",
+      "#010000",
+      "#020000",
+      "#030000"
+    ],
+    "image_info": {
+      "dpi": "(72.009, 72.009)",
+      "xmp": "b'<?xpacket begin=\"\\xef\\xbb\\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.b7c64cc, 2024/07/16-07:59:40        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmp:CreatorTool=\"Adobe Photoshop 26.0 (Windows)\" xmp:CreateDate=\"2024-11-05T09:41:55-04:00\" xmp:ModifyDate=\"2024-11-05T10:38:58-04:00\" xmp:MetadataDate=\"2024-11-05T10:38:58-04:00\" dc:format=\"image/png\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" xmpMM:DocumentID=\"xmp.did:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" xmpMM:OriginalDocumentID=\"xmp.did:e70149ef-ad05-c242-8f3f-e8c73a349ceb\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"created\" stEvt:instanceID=\"xmp.iid:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" stEvt:when=\"2024-11-05T09:41:55-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 26.0 (Windows)\"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>'",
+      "XML:com.adobe.xmp": "<?xpacket begin=\"﻿\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.b7c64cc, 2024/07/16-07:59:40        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmp:CreatorTool=\"Adobe Photoshop 26.0 (Windows)\" xmp:CreateDate=\"2024-11-05T09:41:55-04:00\" xmp:ModifyDate=\"2024-11-05T10:38:58-04:00\" xmp:MetadataDate=\"2024-11-05T10:38:58-04:00\" dc:format=\"image/png\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" xmpMM:DocumentID=\"xmp.did:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" xmpMM:OriginalDocumentID=\"xmp.did:e70149ef-ad05-c242-8f3f-e8c73a349ceb\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"created\" stEvt:instanceID=\"xmp.iid:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" stEvt:when=\"2024-11-05T09:41:55-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 26.0 (Windows)\"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>"
+    },
+    "description": "3840x2160 PNG wallpaper widescreen primarily black (1.48 MB)",
+    "last_scanned": "2025-06-10T13:53:06.536437",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/nordic-wall.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/nordic-wall.jpg",
+    "name": "nordic-wall.jpg",
+    "file_size": 31124,
+    "file_size_mb": 0.03,
+    "created_date": "2025-06-10T13:53:02.553297",
+    "modified_date": "2025-06-10T13:53:02.553297",
+    "file_extension": ".jpg",
+    "file_hash": "7015557cb5eec091c8d7690611b12a3f",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          55,
+          63,
+          76
+        ],
+        "hex": "#373f4c",
+        "name": "blue",
+        "percentage": 30.59
+      },
+      {
+        "rgb": [
+          52,
+          58,
+          72
+        ],
+        "hex": "#343a48",
+        "name": "blue",
+        "percentage": 27.98
+      },
+      {
+        "rgb": [
+          46,
+          52,
+          64
+        ],
+        "hex": "#2e3440",
+        "name": "blue",
+        "percentage": 21.06
+      },
+      {
+        "rgb": [
+          58,
+          64,
+          80
+        ],
+        "hex": "#3a4050",
+        "name": "blue",
+        "percentage": 12.14
+      },
+      {
+        "rgb": [
+          54,
+          62,
+          75
+        ],
+        "hex": "#363e4b",
+        "name": "blue",
+        "percentage": 0.35
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        55,
+        63,
+        76
+      ],
+      "hex": "#373f4c",
+      "name": "blue",
+      "percentage": 30.59
+    },
+    "color_palette": [
+      "#373f4c",
+      "#343a48",
+      "#2e3440",
+      "#3a4050",
+      "#363e4b"
+    ],
+    "image_info": {
+      "jfif": "257",
+      "jfif_version": "(1, 1)",
+      "jfif_unit": "0",
+      "jfif_density": "(1, 1)"
+    },
+    "description": "1920x1080 JPEG wallpaper widescreen primarily blue (0.03 MB)",
+    "last_scanned": "2025-06-10T13:53:06.549338",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/chess-gate.jpeg": {
+    "file_path": "/home/runner/work/walls/walls/sources/chess-gate.jpeg",
+    "name": "chess-gate.jpeg",
+    "file_size": 575562,
+    "file_size_mb": 0.55,
+    "created_date": "2025-06-10T13:53:02.474296",
+    "modified_date": "2025-06-10T13:53:02.474296",
+    "file_extension": ".jpeg",
+    "file_hash": "339ffffea4eb0d07a475afac3a284b83",
+    "width": 2229,
+    "height": 1241,
+    "aspect_ratio": 1.8,
+    "resolution": "2229x1241",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          17,
+          18,
+          29
+        ],
+        "hex": "#11121d",
+        "name": "black",
+        "percentage": 0.22
+      },
+      {
+        "rgb": [
+          17,
+          18,
+          30
+        ],
+        "hex": "#11121e",
+        "name": "black",
+        "percentage": 0.21
+      },
+      {
+        "rgb": [
+          18,
+          18,
+          29
+        ],
+        "hex": "#12121d",
+        "name": "black",
+        "percentage": 0.18
+      },
+      {
+        "rgb": [
+          17,
+          18,
+          27
+        ],
+        "hex": "#11121b",
+        "name": "black",
+        "percentage": 0.17
+      },
+      {
+        "rgb": [
+          26,
+          23,
+          40
+        ],
+        "hex": "#1a1728",
+        "name": "black",
+        "percentage": 0.17
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        17,
+        18,
+        29
+      ],
+      "hex": "#11121d",
+      "name": "black",
+      "percentage": 0.22
+    },
+    "color_palette": [
+      "#11121d",
+      "#11121e",
+      "#12121d",
+      "#11121b",
+      "#1a1728"
+    ],
+    "image_info": {
+      "jfif": "257",
+      "jfif_version": "(1, 1)",
+      "jfif_unit": "0",
+      "jfif_density": "(1, 1)",
+      "progressive": "1",
+      "progression": "1"
+    },
+    "description": "2229x1241 JPEG wallpaper widescreen primarily black (0.55 MB)",
+    "last_scanned": "2025-06-10T13:53:06.588851",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/basement.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/basement.jpg",
+    "name": "basement.jpg",
+    "file_size": 1093791,
+    "file_size_mb": 1.04,
+    "created_date": "2025-06-10T13:53:02.464296",
+    "modified_date": "2025-06-10T13:53:02.464296",
+    "file_extension": ".jpg",
+    "file_hash": "f684a39611fa4e50b53f79f16a5b5be9",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          0,
+          1,
+          3
+        ],
+        "hex": "#000103",
+        "name": "black",
+        "percentage": 7.99
+      },
+      {
+        "rgb": [
+          0,
+          1,
+          2
+        ],
+        "hex": "#000102",
+        "name": "black",
+        "percentage": 1.27
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          2
+        ],
+        "hex": "#000002",
+        "name": "black",
+        "percentage": 1.18
+      },
+      {
+        "rgb": [
+          1,
+          20,
+          35
+        ],
+        "hex": "#011423",
+        "name": "black",
+        "percentage": 0.94
+      },
+      {
+        "rgb": [
+          1,
+          3,
+          6
+        ],
+        "hex": "#010306",
+        "name": "black",
+        "percentage": 0.92
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        0,
+        1,
+        3
+      ],
+      "hex": "#000103",
+      "name": "black",
+      "percentage": 7.99
+    },
+    "color_palette": [
+      "#000103",
+      "#000102",
+      "#000002",
+      "#011423",
+      "#010306"
+    ],
+    "image_info": {
+      "jfif": "257",
+      "jfif_version": "(1, 1)",
+      "jfif_unit": "0",
+      "jfif_density": "(1, 1)",
+      "progressive": "1",
+      "progression": "1"
+    },
+    "description": "1920x1080 JPEG wallpaper widescreen primarily black (1.04 MB)",
+    "last_scanned": "2025-06-10T13:53:06.631734",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/oversized-cat.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/oversized-cat.jpg",
+    "name": "oversized-cat.jpg",
+    "file_size": 3206744,
+    "file_size_mb": 3.06,
+    "created_date": "2025-06-10T13:53:02.565297",
+    "modified_date": "2025-06-10T13:53:02.565297",
+    "file_extension": ".jpg",
+    "file_hash": "e53b1104cfc9b042adb10ac81092f5e6",
+    "width": 4096,
+    "height": 2396,
+    "aspect_ratio": 1.71,
+    "resolution": "4096x2396",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          16,
+          8,
+          6
+        ],
+        "hex": "#100806",
+        "name": "black",
+        "percentage": 0.61
+      },
+      {
+        "rgb": [
+          17,
+          9,
+          7
+        ],
+        "hex": "#110907",
+        "name": "black",
+        "percentage": 0.33
+      },
+      {
+        "rgb": [
+          29,
+          18,
+          14
+        ],
+        "hex": "#1d120e",
+        "name": "black",
+        "percentage": 0.31
+      },
+      {
+        "rgb": [
+          27,
+          16,
+          14
+        ],
+        "hex": "#1b100e",
+        "name": "black",
+        "percentage": 0.3
+      },
+      {
+        "rgb": [
+          20,
+          10,
+          8
+        ],
+        "hex": "#140a08",
+        "name": "black",
+        "percentage": 0.27
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        16,
+        8,
+        6
+      ],
+      "hex": "#100806",
+      "name": "black",
+      "percentage": 0.61
+    },
+    "color_palette": [
+      "#100806",
+      "#110907",
+      "#1d120e",
+      "#1b100e",
+      "#140a08"
+    ],
+    "image_info": {
+      "jfif": "257",
+      "jfif_version": "(1, 1)",
+      "jfif_unit": "0",
+      "jfif_density": "(1, 1)",
+      "progressive": "1",
+      "progression": "1"
+    },
+    "description": "4096x2396 JPEG wallpaper widescreen primarily black (3.06 MB)",
+    "last_scanned": "2025-06-10T13:53:06.805313",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/retro2_live.gif": {
+    "file_path": "/home/runner/work/walls/walls/sources/retro2_live.gif",
+    "name": "retro2_live.gif",
+    "file_size": 368325,
+    "file_size_mb": 0.35,
+    "created_date": "2025-06-10T13:53:02.571297",
+    "modified_date": "2025-06-10T13:53:02.571297",
+    "file_extension": ".gif",
+    "file_hash": "1dd6ee80919cff13e8f0e2c51e09b0b6",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "GIF",
+    "mode": "P",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          5,
+          12,
+          33
+        ],
+        "hex": "#050c21",
+        "name": "black",
+        "percentage": 29.6
+      },
+      {
+        "rgb": [
+          7,
+          18,
+          46
+        ],
+        "hex": "#07122e",
+        "name": "black",
+        "percentage": 10.86
+      },
+      {
+        "rgb": [
+          0,
+          43,
+          98
+        ],
+        "hex": "#002b62",
+        "name": "blue",
+        "percentage": 5.72
+      },
+      {
+        "rgb": [
+          0,
+          30,
+          69
+        ],
+        "hex": "#001e45",
+        "name": "blue",
+        "percentage": 4.8
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          5
+        ],
+        "hex": "#000005",
+        "name": "black",
+        "percentage": 3.68
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        5,
+        12,
+        33
+      ],
+      "hex": "#050c21",
+      "name": "black",
+      "percentage": 29.6
+    },
+    "color_palette": [
+      "#050c21",
+      "#07122e",
+      "#002b62",
+      "#001e45",
+      "#000005"
+    ],
+    "image_info": {
+      "version": "b'GIF89a'",
+      "background": "14",
+      "loop": "0",
+      "transparency": "14",
+      "duration": "100",
+      "extension": "(b'NETSCAPE2.0', 795)"
+    },
+    "description": "1920x1080 GIF wallpaper widescreen primarily black (0.35 MB)",
+    "last_scanned": "2025-06-10T13:53:06.815072",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/cyberpunk_050824A (25).png": {
+    "file_path": "/home/runner/work/walls/walls/sources/cyberpunk_050824A (25).png",
+    "name": "cyberpunk_050824A (25).png",
+    "file_size": 7651592,
+    "file_size_mb": 7.3,
+    "created_date": "2025-06-10T13:53:02.504296",
+    "modified_date": "2025-06-10T13:53:02.504296",
+    "file_extension": ".png",
+    "file_hash": "d93024e36255d636d3864e8b7acd1c33",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          6,
+          7,
+          13
+        ],
+        "hex": "#06070d",
+        "name": "black",
+        "percentage": 0.19
+      },
+      {
+        "rgb": [
+          6,
+          7,
+          14
+        ],
+        "hex": "#06070e",
+        "name": "black",
+        "percentage": 0.12
+      },
+      {
+        "rgb": [
+          254,
+          0,
+          44
+        ],
+        "hex": "#fe002c",
+        "name": "red",
+        "percentage": 0.09
+      },
+      {
+        "rgb": [
+          8,
+          12,
+          20
+        ],
+        "hex": "#080c14",
+        "name": "black",
+        "percentage": 0.08
+      },
+      {
+        "rgb": [
+          223,
+          0,
+          36
+        ],
+        "hex": "#df0024",
+        "name": "red",
+        "percentage": 0.07
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        6,
+        7,
+        13
+      ],
+      "hex": "#06070d",
+      "name": "black",
+      "percentage": 0.19
+    },
+    "color_palette": [
+      "#06070d",
+      "#06070e",
+      "#fe002c",
+      "#080c14",
+      "#df0024"
+    ],
+    "image_info": {
+      "dpi": "(72.009, 72.009)",
+      "xmp": "b'<?xpacket begin=\"\\xef\\xbb\\xbf\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.a6a6396, 2024/03/12-07:48:23        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmp:CreatorTool=\"Adobe Photoshop 25.11 (Windows)\" xmp:CreateDate=\"2024-08-05T12:18:33-04:00\" xmp:ModifyDate=\"2024-08-05T15:35:27-04:00\" xmp:MetadataDate=\"2024-08-05T15:35:27-04:00\" dc:format=\"image/png\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:d5028c0f-03ab-e34e-8108-1559af88fd3b\" xmpMM:DocumentID=\"xmp.did:d5028c0f-03ab-e34e-8108-1559af88fd3b\" xmpMM:OriginalDocumentID=\"xmp.did:d5028c0f-03ab-e34e-8108-1559af88fd3b\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"created\" stEvt:instanceID=\"xmp.iid:d5028c0f-03ab-e34e-8108-1559af88fd3b\" stEvt:when=\"2024-08-05T12:18:33-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 25.11 (Windows)\"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>'",
+      "XML:com.adobe.xmp": "<?xpacket begin=\"﻿\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.a6a6396, 2024/03/12-07:48:23        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmp:CreatorTool=\"Adobe Photoshop 25.11 (Windows)\" xmp:CreateDate=\"2024-08-05T12:18:33-04:00\" xmp:ModifyDate=\"2024-08-05T15:35:27-04:00\" xmp:MetadataDate=\"2024-08-05T15:35:27-04:00\" dc:format=\"image/png\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:d5028c0f-03ab-e34e-8108-1559af88fd3b\" xmpMM:DocumentID=\"xmp.did:d5028c0f-03ab-e34e-8108-1559af88fd3b\" xmpMM:OriginalDocumentID=\"xmp.did:d5028c0f-03ab-e34e-8108-1559af88fd3b\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"created\" stEvt:instanceID=\"xmp.iid:d5028c0f-03ab-e34e-8108-1559af88fd3b\" stEvt:when=\"2024-08-05T12:18:33-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 25.11 (Windows)\"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>"
+    },
+    "description": "3840x2160 PNG wallpaper widescreen primarily black (7.3 MB)",
+    "last_scanned": "2025-06-10T13:53:06.999311",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/image.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/image.png",
+    "name": "image.png",
+    "file_size": 2907657,
+    "file_size_mb": 2.77,
+    "created_date": "2025-06-10T13:53:02.540297",
+    "modified_date": "2025-06-10T13:53:02.540297",
+    "file_extension": ".png",
+    "file_hash": "9e040b8eca9d3ddc3f3f6b7373cb1b8e",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "PNG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000",
+        "name": "black",
+        "percentage": 1.57
+      },
+      {
+        "rgb": [
+          1,
+          1,
+          1
+        ],
+        "hex": "#010101",
+        "name": "black",
+        "percentage": 0.6
+      },
+      {
+        "rgb": [
+          3,
+          3,
+          3
+        ],
+        "hex": "#030303",
+        "name": "black",
+        "percentage": 0.6
+      },
+      {
+        "rgb": [
+          2,
+          2,
+          2
+        ],
+        "hex": "#020202",
+        "name": "black",
+        "percentage": 0.5
+      },
+      {
+        "rgb": [
+          4,
+          4,
+          4
+        ],
+        "hex": "#040404",
+        "name": "black",
+        "percentage": 0.39
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "name": "black",
+      "percentage": 1.57
+    },
+    "color_palette": [
+      "#000000",
+      "#010101",
+      "#030303",
+      "#020202",
+      "#040404"
+    ],
+    "image_info": {
+      "exif": "b'Exif\\x00\\x00MM\\x00*\\x00\\x00\\x00\\x08\\x00\\x00\\x00\\x00\\x00\\x00'"
+    },
+    "description": "1920x1080 PNG wallpaper widescreen primarily black (2.77 MB)",
+    "last_scanned": "2025-06-10T13:53:07.071337",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/cyberpunk-19-20240915.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/cyberpunk-19-20240915.png",
+    "name": "cyberpunk-19-20240915.png",
+    "file_size": 5644473,
+    "file_size_mb": 5.38,
+    "created_date": "2025-06-10T13:53:02.486296",
+    "modified_date": "2025-06-10T13:53:02.486296",
+    "file_extension": ".png",
+    "file_hash": "0cc007cfd25e5c193fa6d7a24213dd64",
+    "width": 3840,
+    "height": 2160,
+    "aspect_ratio": 1.78,
+    "resolution": "3840x2160",
+    "format": "PNG",
+    "mode": "RGBA",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000",
+        "name": "black",
+        "percentage": 5.75
+      },
+      {
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "hex": "#fefefe",
+        "name": "white",
+        "percentage": 4.19
+      },
+      {
+        "rgb": [
+          254,
+          254,
+          253
+        ],
+        "hex": "#fefefd",
+        "name": "white",
+        "percentage": 4.13
+      },
+      {
+        "rgb": [
+          238,
+          238,
+          237
+        ],
+        "hex": "#eeeeed",
+        "name": "white",
+        "percentage": 0.98
+      },
+      {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff",
+        "name": "white",
+        "percentage": 0.95
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "name": "black",
+      "percentage": 5.75
+    },
+    "color_palette": [
+      "#000000",
+      "#fefefe",
+      "#fefefd",
+      "#eeeeed",
+      "#ffffff"
+    ],
+    "image_info": {
+      "dpi": "(95.9866, 95.9866)"
+    },
+    "description": "3840x2160 PNG wallpaper widescreen primarily black (5.38 MB)",
+    "last_scanned": "2025-06-10T13:53:07.373357",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/eyes.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/eyes.png",
+    "name": "eyes.png",
+    "file_size": 894832,
+    "file_size_mb": 0.85,
+    "created_date": "2025-06-10T13:53:02.528297",
+    "modified_date": "2025-06-10T13:53:02.528297",
+    "file_extension": ".png",
+    "file_hash": "ba46eada9cda38100481d5b4120d0b5d",
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": 1.78,
+    "resolution": "1920x1080",
+    "format": "PNG",
+    "mode": "RGBA",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          23,
+          23,
+          32
+        ],
+        "hex": "#171720",
+        "name": "black",
+        "percentage": 46.94
+      },
+      {
+        "rgb": [
+          23,
+          24,
+          33
+        ],
+        "hex": "#171821",
+        "name": "black",
+        "percentage": 3.21
+      },
+      {
+        "rgb": [
+          24,
+          24,
+          33
+        ],
+        "hex": "#181821",
+        "name": "black",
+        "percentage": 2.34
+      },
+      {
+        "rgb": [
+          23,
+          24,
+          32
+        ],
+        "hex": "#171820",
+        "name": "black",
+        "percentage": 2.14
+      },
+      {
+        "rgb": [
+          25,
+          26,
+          36
+        ],
+        "hex": "#191a24",
+        "name": "black",
+        "percentage": 0.84
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        23,
+        23,
+        32
+      ],
+      "hex": "#171720",
+      "name": "black",
+      "percentage": 46.94
+    },
+    "color_palette": [
+      "#171720",
+      "#171821",
+      "#181821",
+      "#171820",
+      "#191a24"
+    ],
+    "description": "1920x1080 PNG wallpaper widescreen primarily black (0.85 MB)",
+    "last_scanned": "2025-06-10T13:53:07.436978",
+    "is_duplicate": false
+  },
+  "/home/runner/work/walls/walls/sources/dominik-mayer-15.jpg": {
+    "file_path": "/home/runner/work/walls/walls/sources/dominik-mayer-15.jpg",
+    "name": "dominik-mayer-15.jpg",
+    "file_size": 449000,
+    "file_size_mb": 0.43,
+    "created_date": "2025-06-10T13:53:02.520297",
+    "modified_date": "2025-06-10T13:53:02.520297",
+    "file_extension": ".jpg",
+    "file_hash": "44b8545644c5a59f8d4d5c84ab47b108",
+    "width": 2080,
+    "height": 1080,
+    "aspect_ratio": 1.93,
+    "resolution": "2080x1080",
+    "format": "JPEG",
+    "mode": "RGB",
+    "has_transparency": false,
+    "dominant_colors": [
+      {
+        "rgb": [
+          20,
+          29,
+          62
+        ],
+        "hex": "#141d3e",
+        "name": "blue",
+        "percentage": 1.21
+      },
+      {
+        "rgb": [
+          3,
+          3,
+          11
+        ],
+        "hex": "#03030b",
+        "name": "black",
+        "percentage": 0.94
+      },
+      {
+        "rgb": [
+          19,
+          30,
+          62
+        ],
+        "hex": "#131e3e",
+        "name": "blue",
+        "percentage": 0.9
+      },
+      {
+        "rgb": [
+          21,
+          34,
+          66
+        ],
+        "hex": "#152242",
+        "name": "blue",
+        "percentage": 0.85
+      },
+      {
+        "rgb": [
+          22,
+          37,
+          68
+        ],
+        "hex": "#162544",
+        "name": "blue",
+        "percentage": 0.33
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        20,
+        29,
+        62
+      ],
+      "hex": "#141d3e",
+      "name": "blue",
+      "percentage": 1.21
+    },
+    "color_palette": [
+      "#141d3e",
+      "#03030b",
+      "#131e3e",
+      "#152242",
+      "#162544"
+    ],
+    "image_info": {
+      "jfif": "257",
+      "jfif_version": "(1, 1)",
+      "jfif_unit": "0",
+      "jfif_density": "(1, 1)",
+      "progressive": "1",
+      "progression": "1"
+    },
+    "description": "2080x1080 JPEG wallpaper primarily blue (0.43 MB)",
+    "last_scanned": "2025-06-10T13:53:07.469546",
+    "is_duplicate": false
+  }
+}
