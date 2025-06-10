@@ -1,0 +1,37 @@
+name: Generate Wallpaper Metadata
+
+on:
+  push:
+    paths:
+      - "sources/**"
+      - ".github/workflows/generate-metadata.yml"
+      - "generate_metadata.py"
+  workflow_dispatch:
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          pip install pillow
+
+      - name: Generate Metadata
+        run: |
+          python generate_metadata.py sources -o metadata.json
+
+      - name: Commit and Push metadata
+        run: |
+          git config user.name "sxoxgxi"
+          git config user.email "sxoxgxi@duck.com"
+          git add metadata.json
+          git commit -m "chore: update metadata.json with latest wallpaper metadata" || echo "No changes to commit"
+          git push
