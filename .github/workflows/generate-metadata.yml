@@ -34,4 +34,4 @@ jobs:
           git config user.email "sxoxgxi@duck.com"
           git add metadata.json
           git commit -am "chore: update metadata.json with latest wallpaper metadata" || echo "No changes to commit"
-          git push origin master
+          git push https://${{ secrets.GH_PAT }}@github.com/sxoxgxi/walls.git master
