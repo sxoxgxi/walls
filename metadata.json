@@ -4,8 +4,8 @@
     "name": "black-hole.png",
     "file_size": 2384279,
     "file_size_mb": 2.27,
-    "created_date": "2025-06-10T13:53:02.471296",
-    "modified_date": "2025-06-10T13:53:02.471296",
+    "created_date": "2025-06-11T13:42:24.391650",
+    "modified_date": "2025-06-11T13:42:24.391650",
     "file_extension": ".png",
     "file_hash": "0fb840994cb2427047c3c468dbe6925f",
     "width": 3840,
@@ -85,16 +85,17 @@
       "#12041a"
     ],
     "description": "3840x2160 PNG wallpaper widescreen primarily black (2.27 MB)",
-    "last_scanned": "2025-06-10T13:53:04.662556",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:26.746978",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/black-hole.png"
   },
   "/home/runner/work/walls/walls/sources/Cyberpunk Rider in Neon City.png": {
     "file_path": "/home/runner/work/walls/walls/sources/Cyberpunk Rider in Neon City.png",
     "name": "Cyberpunk Rider in Neon City.png",
     "file_size": 7961790,
     "file_size_mb": 7.59,
-    "created_date": "2025-06-10T13:53:02.443295",
-    "modified_date": "2025-06-10T13:53:02.443295",
+    "created_date": "2025-06-11T13:42:24.363650",
+    "modified_date": "2025-06-11T13:42:24.363650",
     "file_extension": ".png",
     "file_hash": "c6c25de9a807d257f52047c9ef28b692",
     "width": 3840,
@@ -178,16 +179,17 @@
       "gamma": "0.45455"
     },
     "description": "3840x2160 PNG wallpaper widescreen primarily white (7.59 MB)",
-    "last_scanned": "2025-06-10T13:53:04.819085",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:26.899244",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/Cyberpunk Rider in Neon City.png"
   },
   "/home/runner/work/walls/walls/sources/cyberpunk_110624A.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/cyberpunk_110624A.jpg",
     "name": "cyberpunk_110624A.jpg",
     "file_size": 7006319,
     "file_size_mb": 6.68,
-    "created_date": "2025-06-10T13:53:02.519296",
-    "modified_date": "2025-06-10T13:53:02.519296",
+    "created_date": "2025-06-11T13:42:24.438651",
+    "modified_date": "2025-06-11T13:42:24.438651",
     "file_extension": ".jpg",
     "file_hash": "bb32d40fda135ddbb4e20f008bdcbd18",
     "width": 3840,
@@ -289,16 +291,17 @@
       "dpi": "(300.0, 300.0)"
     },
     "description": "3840x2160 JPEG wallpaper widescreen primarily black (6.68 MB)",
-    "last_scanned": "2025-06-10T13:53:04.980047",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.057901",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/cyberpunk_110624A.jpg"
   },
   "/home/runner/work/walls/walls/sources/cyberpunk-3840x2160-11-20240919.png": {
     "file_path": "/home/runner/work/walls/walls/sources/cyberpunk-3840x2160-11-20240919.png",
     "name": "cyberpunk-3840x2160-11-20240919.png",
     "file_size": 7510948,
     "file_size_mb": 7.16,
-    "created_date": "2025-06-10T13:53:02.495296",
-    "modified_date": "2025-06-10T13:53:02.495296",
+    "created_date": "2025-06-11T13:42:24.415651",
+    "modified_date": "2025-06-11T13:42:24.415651",
     "file_extension": ".png",
     "file_hash": "3056d5eadddcf654c3750aeceaf50c2b",
     "width": 3840,
@@ -381,16 +384,17 @@
       "dpi": "(95.9866, 95.9866)"
     },
     "description": "3840x2160 PNG wallpaper widescreen primarily black (7.16 MB)",
-    "last_scanned": "2025-06-10T13:53:05.319044",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.396056",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/cyberpunk-3840x2160-11-20240919.png"
   },
   "/home/runner/work/walls/walls/sources/Screenshot_299.png": {
     "file_path": "/home/runner/work/walls/walls/sources/Screenshot_299.png",
     "name": "Screenshot_299.png",
     "file_size": 175159,
     "file_size_mb": 0.17,
-    "created_date": "2025-06-10T13:53:02.459296",
-    "modified_date": "2025-06-10T13:53:02.459296",
+    "created_date": "2025-06-11T13:42:24.379650",
+    "modified_date": "2025-06-11T13:42:24.379650",
     "file_extension": ".png",
     "file_hash": "50bb5ea0b2948203512a63760cee3258",
     "width": 1920,
@@ -475,16 +479,17 @@
       "exif": "b'Exif\\x00\\x00MM\\x00*\\x00\\x00\\x00\\x08\\x00\\x00\\x00\\x00\\x00\\x00'"
     },
     "description": "1920x1080 PNG wallpaper widescreen primarily black (0.17 MB)",
-    "last_scanned": "2025-06-10T13:53:05.374008",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.448460",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/Screenshot_299.png"
   },
   "/home/runner/work/walls/walls/sources/satellite.png": {
     "file_path": "/home/runner/work/walls/walls/sources/satellite.png",
     "name": "satellite.png",
     "file_size": 470113,
     "file_size_mb": 0.45,
-    "created_date": "2025-06-10T13:53:02.573297",
-    "modified_date": "2025-06-10T13:53:02.573297",
+    "created_date": "2025-06-11T13:42:24.493652",
+    "modified_date": "2025-06-11T13:42:24.493652",
     "file_extension": ".png",
     "file_hash": "00e73bbd34b7fe38541a486aafad1f5f",
     "width": 3840,
@@ -564,16 +569,17 @@
       "#181826"
     ],
     "description": "3840x2160 PNG wallpaper widescreen primarily black (0.45 MB)",
-    "last_scanned": "2025-06-10T13:53:05.422569",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.498649",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/satellite.png"
   },
   "/home/runner/work/walls/walls/sources/hollow-knight.png": {
     "file_path": "/home/runner/work/walls/walls/sources/hollow-knight.png",
     "name": "hollow-knight.png",
     "file_size": 2828190,
     "file_size_mb": 2.7,
-    "created_date": "2025-06-10T13:53:02.537297",
-    "modified_date": "2025-06-10T13:53:02.537297",
+    "created_date": "2025-06-11T13:42:24.456652",
+    "modified_date": "2025-06-11T13:42:24.456652",
     "file_extension": ".png",
     "file_hash": "063856f753536f94642131d130da9184",
     "width": 2908,
@@ -653,16 +659,17 @@
       "#0b1113"
     ],
     "description": "2908x1500 PNG wallpaper primarily black (2.7 MB)",
-    "last_scanned": "2025-06-10T13:53:05.495305",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.810485",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/hollow-knight.png"
   },
   "/home/runner/work/walls/walls/sources/hollow-knight.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/hollow-knight.jpg",
     "name": "hollow-knight.jpg",
     "file_size": 3205728,
     "file_size_mb": 3.06,
-    "created_date": "2025-06-10T13:53:02.533297",
-    "modified_date": "2025-06-10T13:53:02.533297",
+    "created_date": "2025-06-11T13:42:24.453652",
+    "modified_date": "2025-06-11T13:42:24.453652",
     "file_extension": ".jpg",
     "file_hash": "8b984eb95dab9a526001219c87bd48be",
     "width": 3840,
@@ -754,16 +761,17 @@
       "dpi": "(72, 72)"
     },
     "description": "3840x2160 JPEG wallpaper widescreen primarily black (3.06 MB)",
-    "last_scanned": "2025-06-10T13:53:05.576564",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.890304",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/hollow-knight.jpg"
   },
   "/home/runner/work/walls/walls/sources/fox.png": {
     "file_path": "/home/runner/work/walls/walls/sources/fox.png",
     "name": "fox.png",
     "file_size": 362123,
     "file_size_mb": 0.35,
-    "created_date": "2025-06-10T13:53:02.529297",
-    "modified_date": "2025-06-10T13:53:02.529297",
+    "created_date": "2025-06-11T13:42:24.449651",
+    "modified_date": "2025-06-11T13:42:24.449651",
     "file_extension": ".png",
     "file_hash": "06c234c8614b7f6f5ac2fb946873c751",
     "width": 1280,
@@ -843,16 +851,17 @@
       "#162f43"
     ],
     "description": "1280x735 PNG wallpaper widescreen primarily cyan (0.35 MB)",
-    "last_scanned": "2025-06-10T13:53:05.596577",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:27.909898",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/fox.png"
   },
   "/home/runner/work/walls/walls/sources/mystic-cave-expedition.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/mystic-cave-expedition.jpg",
     "name": "mystic-cave-expedition.jpg",
     "file_size": 2088960,
     "file_size_mb": 1.99,
-    "created_date": "2025-06-10T13:53:02.552297",
-    "modified_date": "2025-06-10T13:53:02.552297",
+    "created_date": "2025-06-11T13:42:24.471652",
+    "modified_date": "2025-06-11T13:42:24.471652",
     "file_extension": ".jpg",
     "file_hash": "267022a1f8568213e5ec1a3dc08b9f9a",
     "width": 7680,
@@ -938,16 +947,17 @@
       "jfif_density": "(1, 1)"
     },
     "description": "7680x4320 JPEG wallpaper widescreen primarily black (1.99 MB)",
-    "last_scanned": "2025-06-10T13:53:05.760785",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.070281",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/mystic-cave-expedition.jpg"
   },
   "/home/runner/work/walls/walls/sources/MOSAIC-CYBERGIRL-262023.png": {
     "file_path": "/home/runner/work/walls/walls/sources/MOSAIC-CYBERGIRL-262023.png",
     "name": "MOSAIC-CYBERGIRL-262023.png",
     "file_size": 13122088,
     "file_size_mb": 12.51,
-    "created_date": "2025-06-10T13:53:02.458296",
-    "modified_date": "2025-06-10T13:53:02.458296",
+    "created_date": "2025-06-11T13:42:24.378650",
+    "modified_date": "2025-06-11T13:42:24.378650",
     "file_extension": ".png",
     "file_hash": "87f2f990d05cf118091e863fad2f1f5b",
     "width": 3840,
@@ -1041,16 +1051,17 @@
       "dpi": "(95.9866, 95.9866)"
     },
     "description": "3840x2160 PNG wallpaper widescreen primarily yellow (12.51 MB)",
-    "last_scanned": "2025-06-10T13:53:06.077789",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.366201",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/MOSAIC-CYBERGIRL-262023.png"
   },
   "/home/runner/work/walls/walls/sources/bsod.png": {
     "file_path": "/home/runner/work/walls/walls/sources/bsod.png",
     "name": "bsod.png",
     "file_size": 64422,
     "file_size_mb": 0.06,
-    "created_date": "2025-06-10T13:53:02.471296",
-    "modified_date": "2025-06-10T13:53:02.471296",
+    "created_date": "2025-06-11T13:42:24.391650",
+    "modified_date": "2025-06-11T13:42:24.391650",
     "file_extension": ".png",
     "file_hash": "ae3efec7204d0cb5a2c303e26841ccea",
     "width": 1920,
@@ -1130,16 +1141,17 @@
       "#1d2122"
     ],
     "description": "1920x1080 PNG wallpaper widescreen primarily black (0.06 MB)",
-    "last_scanned": "2025-06-10T13:53:06.094861",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.382505",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/bsod.png"
   },
   "/home/runner/work/walls/walls/sources/r17337gp57k71.png": {
     "file_path": "/home/runner/work/walls/walls/sources/r17337gp57k71.png",
     "name": "r17337gp57k71.png",
     "file_size": 3485618,
     "file_size_mb": 3.32,
-    "created_date": "2025-06-10T13:53:02.569297",
-    "modified_date": "2025-06-10T13:53:02.569297",
+    "created_date": "2025-06-11T13:42:24.489652",
+    "modified_date": "2025-06-11T13:42:24.489652",
     "file_extension": ".png",
     "file_hash": "50515491cfafc45b1d2097c357cf3d2b",
     "width": 1920,
@@ -1219,16 +1231,17 @@
       "#010513"
     ],
     "description": "1920x1080 PNG wallpaper widescreen primarily black (3.32 MB)",
-    "last_scanned": "2025-06-10T13:53:06.153617",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.432011",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/r17337gp57k71.png"
   },
   "/home/runner/work/walls/walls/sources/duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp": {
     "file_path": "/home/runner/work/walls/walls/sources/duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp",
     "name": "duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp",
     "file_size": 1056424,
     "file_size_mb": 1.01,
-    "created_date": "2025-06-10T13:53:02.521297",
-    "modified_date": "2025-06-10T13:53:02.521297",
+    "created_date": "2025-06-11T13:42:24.441651",
+    "modified_date": "2025-06-11T13:42:24.441651",
     "file_extension": ".webp",
     "file_hash": "24e54f8f3add022954890f2d9998e71c",
     "width": 4968,
@@ -1314,16 +1327,17 @@
       "duration": "0"
     },
     "description": "4968x2796 WEBP wallpaper widescreen primarily cyan (1.01 MB)",
-    "last_scanned": "2025-06-10T13:53:06.354051",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.630319",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/duel-in-the-drowning-marsh-original-1356x2796-4968x2796-v0-do5kelaxe9de1.webp"
   },
   "/home/runner/work/walls/walls/sources/night-forest-path.png": {
     "file_path": "/home/runner/work/walls/walls/sources/night-forest-path.png",
     "name": "night-forest-path.png",
     "file_size": 931903,
     "file_size_mb": 0.89,
-    "created_date": "2025-06-10T13:53:02.553297",
-    "modified_date": "2025-06-10T13:53:02.553297",
+    "created_date": "2025-06-11T13:42:24.472652",
+    "modified_date": "2025-06-11T13:42:24.472652",
     "file_extension": ".png",
     "file_hash": "9b25bf83de8d9b27daae589aa8aab3d4",
     "width": 1303,
@@ -1403,16 +1417,17 @@
       "#01102f"
     ],
     "description": "1303x652 PNG wallpaper primarily black (0.89 MB)",
-    "last_scanned": "2025-06-10T13:53:06.385962",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.661016",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/night-forest-path.png"
   },
   "/home/runner/work/walls/walls/sources/coffee-shop.png": {
     "file_path": "/home/runner/work/walls/walls/sources/coffee-shop.png",
     "name": "coffee-shop.png",
     "file_size": 938062,
     "file_size_mb": 0.89,
-    "created_date": "2025-06-10T13:53:02.475296",
-    "modified_date": "2025-06-10T13:53:02.475296",
+    "created_date": "2025-06-11T13:42:24.395650",
+    "modified_date": "2025-06-11T13:42:24.395650",
     "file_extension": ".png",
     "file_hash": "74480c0ad3e3ef381c7e805e7ed87c4e",
     "width": 1139,
@@ -1492,16 +1507,17 @@
       "#414664"
     ],
     "description": "1139x640 PNG wallpaper widescreen primarily light gray (0.89 MB)",
-    "last_scanned": "2025-06-10T13:53:06.412158",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.686836",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/coffee-shop.png"
   },
   "/home/runner/work/walls/walls/sources/cyberpunk_051124 (13).png": {
     "file_path": "/home/runner/work/walls/walls/sources/cyberpunk_051124 (13).png",
     "name": "cyberpunk_051124 (13).png",
     "file_size": 1547941,
     "file_size_mb": 1.48,
-    "created_date": "2025-06-10T13:53:02.511296",
-    "modified_date": "2025-06-10T13:53:02.511296",
+    "created_date": "2025-06-11T13:42:24.430651",
+    "modified_date": "2025-06-11T13:42:24.430651",
     "file_extension": ".png",
     "file_hash": "40b5aa7cdd1e0ce901d98bf497643476",
     "width": 3840,
@@ -1586,16 +1602,17 @@
       "XML:com.adobe.xmp": "<?xpacket begin=\"﻿\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.b7c64cc, 2024/07/16-07:59:40        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmp:CreatorTool=\"Adobe Photoshop 26.0 (Windows)\" xmp:CreateDate=\"2024-11-05T09:41:55-04:00\" xmp:ModifyDate=\"2024-11-05T10:38:58-04:00\" xmp:MetadataDate=\"2024-11-05T10:38:58-04:00\" dc:format=\"image/png\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" xmpMM:DocumentID=\"xmp.did:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" xmpMM:OriginalDocumentID=\"xmp.did:e70149ef-ad05-c242-8f3f-e8c73a349ceb\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"created\" stEvt:instanceID=\"xmp.iid:e70149ef-ad05-c242-8f3f-e8c73a349ceb\" stEvt:when=\"2024-11-05T09:41:55-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 26.0 (Windows)\"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>"
     },
     "description": "3840x2160 PNG wallpaper widescreen primarily black (1.48 MB)",
-    "last_scanned": "2025-06-10T13:53:06.536437",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.808813",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/cyberpunk_051124 (13).png"
   },
   "/home/runner/work/walls/walls/sources/nordic-wall.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/nordic-wall.jpg",
     "name": "nordic-wall.jpg",
     "file_size": 31124,
     "file_size_mb": 0.03,
-    "created_date": "2025-06-10T13:53:02.553297",
-    "modified_date": "2025-06-10T13:53:02.553297",
+    "created_date": "2025-06-11T13:42:24.473652",
+    "modified_date": "2025-06-11T13:42:24.473652",
     "file_extension": ".jpg",
     "file_hash": "7015557cb5eec091c8d7690611b12a3f",
     "width": 1920,
@@ -1681,16 +1698,17 @@
       "jfif_density": "(1, 1)"
     },
     "description": "1920x1080 JPEG wallpaper widescreen primarily blue (0.03 MB)",
-    "last_scanned": "2025-06-10T13:53:06.549338",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.820747",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/nordic-wall.jpg"
   },
   "/home/runner/work/walls/walls/sources/chess-gate.jpeg": {
     "file_path": "/home/runner/work/walls/walls/sources/chess-gate.jpeg",
     "name": "chess-gate.jpeg",
     "file_size": 575562,
     "file_size_mb": 0.55,
-    "created_date": "2025-06-10T13:53:02.474296",
-    "modified_date": "2025-06-10T13:53:02.474296",
+    "created_date": "2025-06-11T13:42:24.394650",
+    "modified_date": "2025-06-11T13:42:24.394650",
     "file_extension": ".jpeg",
     "file_hash": "339ffffea4eb0d07a475afac3a284b83",
     "width": 2229,
@@ -1778,16 +1796,17 @@
       "progression": "1"
     },
     "description": "2229x1241 JPEG wallpaper widescreen primarily black (0.55 MB)",
-    "last_scanned": "2025-06-10T13:53:06.588851",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.859198",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/chess-gate.jpeg"
   },
   "/home/runner/work/walls/walls/sources/basement.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/basement.jpg",
     "name": "basement.jpg",
     "file_size": 1093791,
     "file_size_mb": 1.04,
-    "created_date": "2025-06-10T13:53:02.464296",
-    "modified_date": "2025-06-10T13:53:02.464296",
+    "created_date": "2025-06-11T13:42:24.383650",
+    "modified_date": "2025-06-11T13:42:24.383650",
     "file_extension": ".jpg",
     "file_hash": "f684a39611fa4e50b53f79f16a5b5be9",
     "width": 1920,
@@ -1875,16 +1894,17 @@
       "progression": "1"
     },
     "description": "1920x1080 JPEG wallpaper widescreen primarily black (1.04 MB)",
-    "last_scanned": "2025-06-10T13:53:06.631734",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:28.901145",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/basement.jpg"
   },
   "/home/runner/work/walls/walls/sources/oversized-cat.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/oversized-cat.jpg",
     "name": "oversized-cat.jpg",
     "file_size": 3206744,
     "file_size_mb": 3.06,
-    "created_date": "2025-06-10T13:53:02.565297",
-    "modified_date": "2025-06-10T13:53:02.565297",
+    "created_date": "2025-06-11T13:42:24.485652",
+    "modified_date": "2025-06-11T13:42:24.485652",
     "file_extension": ".jpg",
     "file_hash": "e53b1104cfc9b042adb10ac81092f5e6",
     "width": 4096,
@@ -1972,16 +1992,17 @@
       "progression": "1"
     },
     "description": "4096x2396 JPEG wallpaper widescreen primarily black (3.06 MB)",
-    "last_scanned": "2025-06-10T13:53:06.805313",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:29.070895",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/oversized-cat.jpg"
   },
   "/home/runner/work/walls/walls/sources/retro2_live.gif": {
     "file_path": "/home/runner/work/walls/walls/sources/retro2_live.gif",
     "name": "retro2_live.gif",
     "file_size": 368325,
     "file_size_mb": 0.35,
-    "created_date": "2025-06-10T13:53:02.571297",
-    "modified_date": "2025-06-10T13:53:02.571297",
+    "created_date": "2025-06-11T13:42:24.490652",
+    "modified_date": "2025-06-11T13:42:24.490652",
     "file_extension": ".gif",
     "file_hash": "1dd6ee80919cff13e8f0e2c51e09b0b6",
     "width": 1920,
@@ -2069,16 +2090,17 @@
       "extension": "(b'NETSCAPE2.0', 795)"
     },
     "description": "1920x1080 GIF wallpaper widescreen primarily black (0.35 MB)",
-    "last_scanned": "2025-06-10T13:53:06.815072",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:29.080550",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/retro2_live.gif"
   },
   "/home/runner/work/walls/walls/sources/cyberpunk_050824A (25).png": {
     "file_path": "/home/runner/work/walls/walls/sources/cyberpunk_050824A (25).png",
     "name": "cyberpunk_050824A (25).png",
     "file_size": 7651592,
     "file_size_mb": 7.3,
-    "created_date": "2025-06-10T13:53:02.504296",
-    "modified_date": "2025-06-10T13:53:02.504296",
+    "created_date": "2025-06-11T13:42:24.424651",
+    "modified_date": "2025-06-11T13:42:24.424651",
     "file_extension": ".png",
     "file_hash": "d93024e36255d636d3864e8b7acd1c33",
     "width": 3840,
@@ -2163,16 +2185,17 @@
       "XML:com.adobe.xmp": "<?xpacket begin=\"﻿\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 9.1-c002 79.a6a6396, 2024/03/12-07:48:23        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:photoshop=\"http://ns.adobe.com/photoshop/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stEvt=\"http://ns.adobe.com/xap/1.0/sType/ResourceEvent#\" xmp:CreatorTool=\"Adobe Photoshop 25.11 (Windows)\" xmp:CreateDate=\"2024-08-05T12:18:33-04:00\" xmp:ModifyDate=\"2024-08-05T15:35:27-04:00\" xmp:MetadataDate=\"2024-08-05T15:35:27-04:00\" dc:format=\"image/png\" photoshop:ColorMode=\"3\" xmpMM:InstanceID=\"xmp.iid:d5028c0f-03ab-e34e-8108-1559af88fd3b\" xmpMM:DocumentID=\"xmp.did:d5028c0f-03ab-e34e-8108-1559af88fd3b\" xmpMM:OriginalDocumentID=\"xmp.did:d5028c0f-03ab-e34e-8108-1559af88fd3b\"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action=\"created\" stEvt:instanceID=\"xmp.iid:d5028c0f-03ab-e34e-8108-1559af88fd3b\" stEvt:when=\"2024-08-05T12:18:33-04:00\" stEvt:softwareAgent=\"Adobe Photoshop 25.11 (Windows)\"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>"
     },
     "description": "3840x2160 PNG wallpaper widescreen primarily black (7.3 MB)",
-    "last_scanned": "2025-06-10T13:53:06.999311",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:29.242546",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/cyberpunk_050824A (25).png"
   },
   "/home/runner/work/walls/walls/sources/image.png": {
     "file_path": "/home/runner/work/walls/walls/sources/image.png",
     "name": "image.png",
     "file_size": 2907657,
     "file_size_mb": 2.77,
-    "created_date": "2025-06-10T13:53:02.540297",
-    "modified_date": "2025-06-10T13:53:02.540297",
+    "created_date": "2025-06-11T13:42:24.460652",
+    "modified_date": "2025-06-11T13:42:24.460652",
     "file_extension": ".png",
     "file_hash": "9e040b8eca9d3ddc3f3f6b7373cb1b8e",
     "width": 1920,
@@ -2255,16 +2278,17 @@
       "exif": "b'Exif\\x00\\x00MM\\x00*\\x00\\x00\\x00\\x08\\x00\\x00\\x00\\x00\\x00\\x00'"
     },
     "description": "1920x1080 PNG wallpaper widescreen primarily black (2.77 MB)",
-    "last_scanned": "2025-06-10T13:53:07.071337",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:29.310221",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/image.png"
   },
   "/home/runner/work/walls/walls/sources/cyberpunk-19-20240915.png": {
     "file_path": "/home/runner/work/walls/walls/sources/cyberpunk-19-20240915.png",
     "name": "cyberpunk-19-20240915.png",
     "file_size": 5644473,
     "file_size_mb": 5.38,
-    "created_date": "2025-06-10T13:53:02.486296",
-    "modified_date": "2025-06-10T13:53:02.486296",
+    "created_date": "2025-06-11T13:42:24.406651",
+    "modified_date": "2025-06-11T13:42:24.406651",
     "file_extension": ".png",
     "file_hash": "0cc007cfd25e5c193fa6d7a24213dd64",
     "width": 3840,
@@ -2347,16 +2371,17 @@
       "dpi": "(95.9866, 95.9866)"
     },
     "description": "3840x2160 PNG wallpaper widescreen primarily black (5.38 MB)",
-    "last_scanned": "2025-06-10T13:53:07.373357",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:29.608648",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/cyberpunk-19-20240915.png"
   },
   "/home/runner/work/walls/walls/sources/eyes.png": {
     "file_path": "/home/runner/work/walls/walls/sources/eyes.png",
     "name": "eyes.png",
     "file_size": 894832,
     "file_size_mb": 0.85,
-    "created_date": "2025-06-10T13:53:02.528297",
-    "modified_date": "2025-06-10T13:53:02.528297",
+    "created_date": "2025-06-11T13:42:24.447651",
+    "modified_date": "2025-06-11T13:42:24.447651",
     "file_extension": ".png",
     "file_hash": "ba46eada9cda38100481d5b4120d0b5d",
     "width": 1920,
@@ -2436,16 +2461,17 @@
       "#191a24"
     ],
     "description": "1920x1080 PNG wallpaper widescreen primarily black (0.85 MB)",
-    "last_scanned": "2025-06-10T13:53:07.436978",
-    "is_duplicate": false
+    "last_scanned": "2025-06-11T13:42:29.670859",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/eyes.png"
   },
   "/home/runner/work/walls/walls/sources/dominik-mayer-15.jpg": {
     "file_path": "/home/runner/work/walls/walls/sources/dominik-mayer-15.jpg",
     "name": "dominik-mayer-15.jpg",
     "file_size": 449000,
     "file_size_mb": 0.43,
-    "created_date": "2025-06-10T13:53:02.520297",
-    "modified_date": "2025-06-10T13:53:02.520297",
+    "created_date": "2025-06-11T13:42:24.440651",
+    "modified_date": "2025-06-11T13:42:24.440651",
     "file_extension": ".jpg",
     "file_hash": "44b8545644c5a59f8d4d5c84ab47b108",
     "width": 2080,
@@ -2533,7 +2559,97 @@
       "progression": "1"
     },
     "description": "2080x1080 JPEG wallpaper primarily blue (0.43 MB)",
-    "last_scanned": "2025-06-10T13:53:07.469546",
+    "last_scanned": "2025-06-11T13:42:29.701671",
+    "is_duplicate": true,
+    "original_file": "/home/runner/work/walls/walls/sources/dominik-mayer-15.jpg"
+  },
+  "/home/runner/work/walls/walls/sources/wallhaven-w5o7r6.png": {
+    "file_path": "/home/runner/work/walls/walls/sources/wallhaven-w5o7r6.png",
+    "name": "wallhaven-w5o7r6.png",
+    "file_size": 6143657,
+    "file_size_mb": 5.86,
+    "created_date": "2025-06-11T13:42:24.499653",
+    "modified_date": "2025-06-11T13:42:24.499653",
+    "file_extension": ".png",
+    "file_hash": "66822328eebd84325fd828d639819e28",
+    "width": 3072,
+    "height": 2112,
+    "aspect_ratio": 1.45,
+    "resolution": "3072x2112",
+    "format": "PNG",
+    "mode": "RGBA",
+    "has_transparency": true,
+    "dominant_colors": [
+      {
+        "rgb": [
+          13,
+          4,
+          37
+        ],
+        "hex": "#0d0425",
+        "name": "black",
+        "percentage": 1.06
+      },
+      {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000",
+        "name": "black",
+        "percentage": 0.94
+      },
+      {
+        "rgb": [
+          12,
+          4,
+          37
+        ],
+        "hex": "#0c0425",
+        "name": "black",
+        "percentage": 0.84
+      },
+      {
+        "rgb": [
+          14,
+          5,
+          38
+        ],
+        "hex": "#0e0526",
+        "name": "black",
+        "percentage": 0.41
+      },
+      {
+        "rgb": [
+          117,
+          101,
+          133
+        ],
+        "hex": "#756585",
+        "name": "purple",
+        "percentage": 0.35
+      }
+    ],
+    "primary_color": {
+      "rgb": [
+        13,
+        4,
+        37
+      ],
+      "hex": "#0d0425",
+      "name": "black",
+      "percentage": 1.06
+    },
+    "color_palette": [
+      "#0d0425",
+      "#000000",
+      "#0c0425",
+      "#0e0526",
+      "#756585"
+    ],
+    "description": "3072x2112 PNG wallpaper primarily black (5.86 MB)",
+    "last_scanned": "2025-06-11T13:42:27.744061",
     "is_duplicate": false
   }
 }
