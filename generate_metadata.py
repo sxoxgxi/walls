@@ -7,12 +7,21 @@ from PIL.ExifTags import TAGS
 import argparse
 from collections import Counter
 import colorsys
+import os
 
 class WallpaperMetadataExtractor:
-    def __init__(self, wallpaper_folder, json_file="metadata.json"):
+    def __init__(self, wallpaper_folder, json_file="metadata.json", thumbnail_folder="thumbnails"):
         self.wallpaper_folder = Path(wallpaper_folder)
         self.json_file = Path(json_file)
+        self.thumbnail_folder = Path(thumbnail_folder)
         self.metadata_db = self.load_existing_metadata()
+        self.thumbnail_folder.mkdir(exist_ok=True)
+        self.thumbnail_sizes = {
+            'small': (150, 150),
+            'medium': (300, 300),
+            'large': (600, 600)
+        }
+        self.thumbnail_quality = 85
         
     def load_existing_metadata(self):
         """Load existing metadata from JSON file if it exists"""
@@ -132,15 +141,115 @@ class WallpaperMetadataExtractor:
                 "color_palette": []
             }
     
+    def generate_thumbnails(self, image, base_name, file_hash):
+        """Generate thumbnails in different sizes"""
+        thumbnails = {}
+        
+        try:
+            base_filename = f"{file_hash}_{base_name}"
+            
+            for size_name, (width, height) in self.thumbnail_sizes.items():
+                thumbnail = image.copy()
+                
+                img_ratio = image.width / image.height
+                thumb_ratio = width / height
+                
+                if img_ratio > thumb_ratio:
+                    new_height = height
+                    new_width = int(height * img_ratio)
+                else:
+                    new_width = width
+                    new_height = int(width / img_ratio)
+                
+                thumbnail = thumbnail.resize((new_width, new_height), Image.LANCZOS)
+                
+                if new_width > width or new_height > height:
+                    left = (new_width - width) // 2
+                    top = (new_height - height) // 2
+                    right = left + width
+                    bottom = top + height
+                    thumbnail = thumbnail.crop((left, top, right, bottom))
+                
+                if thumbnail.mode in ('RGBA', 'LA'):
+                    background = Image.new('RGB', thumbnail.size, (255, 255, 255))
+                    background.paste(thumbnail, mask=thumbnail.split()[-1] if thumbnail.mode == 'RGBA' else None)
+                    thumbnail = background
+                
+                thumbnail_filename = f"{base_filename}_{size_name}.jpg"
+                thumbnail_path = self.thumbnail_folder / thumbnail_filename
+                
+                thumbnail.save(
+                    thumbnail_path, 
+                    'JPEG', 
+                    quality=self.thumbnail_quality, 
+                    optimize=True,
+                    progressive=True
+                )
+                
+                thumbnails[size_name] = {
+                    "path": str(thumbnail_path),
+                    "filename": thumbnail_filename,
+                    "size": f"{width}x{height}",
+                    "file_size": os.path.getsize(thumbnail_path)
+                }
+                
+        except Exception as e:
+            print(f"Error generating thumbnails: {e}")
+            return {}
+        
+        return thumbnails
+    
+    def generate_web_preview(self, image, base_name, file_hash):
+        """Generate a web-optimized preview image"""
+        try:
+            preview = image.copy()
+            
+            max_width = 1200
+            if preview.width > max_width:
+                ratio = max_width / preview.width
+                new_height = int(preview.height * ratio)
+                preview = preview.resize((max_width, new_height), Image.LANCZOS)
+            
+            if preview.mode in ('RGBA', 'LA'):
+                background = Image.new('RGB', preview.size, (255, 255, 255))
+                background.paste(preview, mask=preview.split()[-1] if preview.mode == 'RGBA' else None)
+                preview = background
+            
+            # Save preview
+            preview_filename = f"{file_hash}_{base_name}_preview.jpg"
+            preview_path = self.thumbnail_folder / preview_filename
+            
+            preview.save(
+                preview_path, 
+                'JPEG', 
+                quality=90, 
+                optimize=True,
+                progressive=True
+            )
+            
+            return {
+                "path": str(preview_path),
+                "filename": preview_filename,
+                "size": f"{preview.width}x{preview.height}",
+                "file_size": os.path.getsize(preview_path)
+            }
+            
+        except Exception as e:
+            print(f"Error generating web preview: {e}")
+            return None
+    
     def get_image_metadata(self, file_path):
         """Extract comprehensive metadata from image file"""
         try:
             file_path = Path(file_path)
             file_stats = file_path.stat()
             
+            base_name = file_path.stem
+            
             metadata = {
                 "file_path": str(file_path.absolute()),
                 "name": file_path.name,
+                "base_name": base_name,
                 "file_size": file_stats.st_size,
                 "file_size_mb": round(file_stats.st_size / (1024 * 1024), 2),
                 "created_date": datetime.fromtimestamp(file_stats.st_ctime).isoformat(),
@@ -160,6 +269,15 @@ class WallpaperMetadataExtractor:
                     "mode": img.mode,
                     "has_transparency": img.mode in ('RGBA', 'LA') or 'transparency' in img.info
                 })
+                
+                if metadata["file_hash"]:
+                    print(f"  → Generating thumbnails...")
+                    thumbnails = self.generate_thumbnails(img, base_name, metadata["file_hash"])
+                    web_preview = self.generate_web_preview(img, base_name, metadata["file_hash"])
+                    
+                    metadata["thumbnails"] = thumbnails
+                    if web_preview:
+                        metadata["web_preview"] = web_preview
                 
                 color_data = self.extract_dominant_colors(img)
                 metadata.update(color_data)
@@ -219,16 +337,41 @@ class WallpaperMetadataExtractor:
                 return existing_data["file_path"]
         return False
     
-    def scan_wallpapers(self):
+    def cleanup_orphaned_thumbnails(self):
+        """Remove thumbnail files that no longer have corresponding source images"""
+        if not self.thumbnail_folder.exists():
+            return
+        
+        current_hashes = set()
+        for data in self.metadata_db.values():
+            if data.get("file_hash"):
+                current_hashes.add(data["file_hash"])
+        
+        removed_count = 0
+        for thumb_file in self.thumbnail_folder.glob("*.jpg"):
+            filename_parts = thumb_file.stem.split("_")
+            if len(filename_parts) >= 2:
+                file_hash = filename_parts[0]
+                if file_hash not in current_hashes:
+                    try:
+                        thumb_file.unlink()
+                        removed_count += 1
+                    except Exception as e:
+                        print(f"Error removing orphaned thumbnail {thumb_file}: {e}")
+        
+        if removed_count > 0:
+            print(f"Removed {removed_count} orphaned thumbnail files")
+    
+    def scan_wallpapers(self, cleanup_orphans=True):
         """Scan wallpaper folder and extract metadata"""
         if not self.wallpaper_folder.exists():
             print(f"Error: Wallpaper folder '{self.wallpaper_folder}' does not exist!")
             return
         
-        # Supported image extensions
         image_extensions = {'.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff', '.webp', '.ico'}
         
         print(f"Scanning wallpapers in: {self.wallpaper_folder}")
+        print(f"Thumbnails will be saved to: {self.thumbnail_folder}")
         print("-" * 50)
         
         processed_count = 0
@@ -241,7 +384,6 @@ class WallpaperMetadataExtractor:
                 
                 metadata = self.get_image_metadata(file_path)
                 if metadata:
-                    # Check for duplicates
                     duplicate_path = self.is_duplicate(metadata["file_hash"], file_path)
                     if duplicate_path:
                         print(f"  → Duplicate found! Original: {duplicate_path}")
@@ -261,6 +403,9 @@ class WallpaperMetadataExtractor:
         print(f"Processed: {processed_count} images")
         print(f"Duplicates found: {duplicate_count}")
         print(f"Errors: {error_count}")
+        
+        if cleanup_orphans:
+            self.cleanup_orphaned_thumbnails()
         
         self.save_metadata()
     
@@ -283,9 +428,19 @@ class WallpaperMetadataExtractor:
         total_size_mb = sum(data.get("file_size_mb", 0) for data in self.metadata_db.values())
         duplicates = sum(1 for data in self.metadata_db.values() if data.get("is_duplicate", False))
         
+        thumbnail_size_mb = 0
+        for data in self.metadata_db.values():
+            thumbnails = data.get("thumbnails", {})
+            for thumb_info in thumbnails.values():
+                thumbnail_size_mb += thumb_info.get("file_size", 0)
+            web_preview = data.get("web_preview")
+            if web_preview:
+                thumbnail_size_mb += web_preview.get("file_size", 0)
+        
+        thumbnail_size_mb = round(thumbnail_size_mb / (1024 * 1024), 2)
+        
         resolutions = {}
         formats = {}
-        
         color_names = {}
         
         for data in self.metadata_db.values():
@@ -305,6 +460,7 @@ class WallpaperMetadataExtractor:
         print("="*50)
         print(f"Total wallpapers: {total_files}")
         print(f"Total size: {total_size_mb:.2f} MB")
+        print(f"Thumbnail storage: {thumbnail_size_mb:.2f} MB")
         print(f"Duplicates: {duplicates}")
         
         print(f"\nTop resolutions:")
@@ -320,18 +476,22 @@ class WallpaperMetadataExtractor:
             print(f"  {color_name.title()}: {count} images")
 
 def main():
-    parser = argparse.ArgumentParser(description="Extract metadata from wallpaper images")
+    parser = argparse.ArgumentParser(description="Extract metadata from wallpaper images with thumbnail generation")
     parser.add_argument("folder", help="Path to wallpaper folder")
     parser.add_argument("-o", "--output", default="metadata.json", 
                        help="Output JSON file (default: metadata.json)")
+    parser.add_argument("-t", "--thumbnails", default="thumbnails", 
+                       help="Thumbnail folder (default: thumbnails)")
     parser.add_argument("-s", "--summary", action="store_true", 
                        help="Show summary after scanning")
+    parser.add_argument("--no-cleanup", action="store_true", 
+                       help="Skip cleanup of orphaned thumbnails")
     
     args = parser.parse_args()
     
-    extractor = WallpaperMetadataExtractor(args.folder, args.output)
+    extractor = WallpaperMetadataExtractor(args.folder, args.output, args.thumbnails)
     
-    extractor.scan_wallpapers()
+    extractor.scan_wallpapers(cleanup_orphans=not args.no_cleanup)
     
     if args.summary:
         extractor.print_summary()
